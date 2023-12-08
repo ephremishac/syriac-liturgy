@@ -6,6 +6,8 @@ Ephrem Aboud Ishac
 Thomas Klampfl (DH)
 
 Ivan Petrov
+
+Sophia Pouchkova
 ## Project Collaborators
 ## Technical Details
 ### Naming Convention
