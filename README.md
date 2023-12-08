@@ -4,6 +4,8 @@ This repository contains transcriptions of primary Syriac liturgical manuscripts
 Ephrem Aboud Ishac
 ## Project Researchers
 Thomas Klampfl (DH)
+
+Ivan Petrov
 ## Project Collaborators
 ## Technical Details
 ### Naming Convention
