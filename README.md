@@ -9,6 +9,7 @@ Ivan Petrov
 
 Sophia Pouchkova
 ## Project Collaborators
+Ammar Awad
 ## Technical Details
 ### Naming Convention
 For directories: ```name-of-liturgical-text-library-shelfmark```
