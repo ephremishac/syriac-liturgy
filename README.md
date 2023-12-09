@@ -15,6 +15,7 @@ Meenu Rabecca
 ## Technical Details
 ### Naming Convention
 For directories: ```name-of-liturgical-text-library-shelfmark```
+
 For files: ```name-of-liturgical-text-library-shelfmark.xml```
 ### Directory Structure
 - xml
