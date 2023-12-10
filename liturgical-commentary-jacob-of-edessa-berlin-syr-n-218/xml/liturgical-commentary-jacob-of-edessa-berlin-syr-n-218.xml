@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liturgical Commentary of Jacob of Edessa to George the Stylite of Serugh - Berlin, Sachau Syr. N. 218</title>
+            <respStmt>
+               <resp>transcribed by</resp>
+               <name>Ephrem Aboud Ishac</name>
+               <note type="project-number">Project P 36649</note>
+               <note type="project-name">Identifying Scattered Puzzles of Syriac Liturgical
+                  Manuscripts and Fragments</note>
+            </respStmt>
+            <funder>
+               <orgName><ref target="https://www.fwf.ac.at/de/">FWF Österreichischer
+                     Wissenschaftsfond</ref></orgName>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>IMAFO</publisher>
+            <date>10.12.2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Available under the
+                  Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
+                  <idno facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000000">Berlin
+                     Sachau Syr. N. 218</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>178v-185r</locus>
+                     <title xml:lang="en">Liturgical Commentary of Jacob of Edessa to George the Stylite of Serugh</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc><p>Paper</p></supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="transcription" xml:lang="syc">
+            <div type="section" n="Title">
+               <div type="subsection">
+                  <ab>
+                     <pb n="178v" facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000362"/>
+                     <lb n="1"/><hi rend="emphasized">܀ ܬܘܒ ܒܥܘܕܪܢܐ ܕܡܢ ܐܠܗܐ ܟܬܒܝܢܢ ܛܟܣܐ</hi>
+                     <lb n="2"/><hi rend="emphasized">ܕ܏ܩܕܡ ܩܘܪܒܢܐ ܏ܩܕܡ ܢܘܗܪܐ ܐܘܟܝܬ</hi>
+                     <lb n="3"/><hi rend="emphasized">ܦܘܫܩܐ ܕܩܘܪܒܐ ܕܩܕܝܫܐ ܕܡܪܝ ܝܥܩܘܒ</hi>
+                     <lb n="4"/><hi rend="emphasized">ܕܐܘܪܗܝ ܕܥܒ̰ܕ ܠܘܬ ܓܐܘܪܓܝ:</hi>
+                     <lb n="5"/><hi rend="emphasized">ܐܣܛܘܢܪܐ ܕܣܪܘܓ</hi></ab>
+               </div>
+            </div>
+            <div type="section" n="The Semantron">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">܏ܩܕܡ ܕܥܠ ܢܩܘܫܐ:</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="6"/>ܢܩܘܫܐ ܡܛܠ ܗܕܐ ܡܬܢܩ̣ܫ ܒܥܕܬܐ ܕܐܝܬܘܗܝ ܪܐܙܐ <lb n="7"/>ܕܫܝܦܘܪܐ: ܕܐܟܡܐ
+                     ܕܫܝܦܘܪܐ ܡܟܢܫ ܠܦܠܚ̈ܐ <lb n="8"/>ܠܩܪܒܐ: ܗܟܢܐ ܢܩܘܫܐ ܡܟܢܫ ܠܟܪ̈ܝܣܛܝܢܐ ܠܥܕܬܐ <lb
+                        n="9"/>ܕܢܥܒܕܘܢ ܕܰܐܪܳܐ ܥܡ ܣܛܢܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܕܬܪ̈ܬܝܢ. ܕܐܟܡܐ <lb n="10"/>ܕܡܠܟܐ ܐܡܬܝ ܕܨ̇ܒܐ ܕܢܟܢܫ ܠܡܠܟܘ̈ܬܐ ܕܝܠܗ ܕܢܬܠ <lb
+                        n="11"/>ܡܘܗܒ̈ܬܐ: ܩܪܐ ܒܫܝܦܘܪܐ ܗܟܢܐ ܘܡܫܝܚܐ ܟܕ ܨ̇ܒܐ <lb n="12"/>ܕܢܬܠ ܡܘܗܒ̈ܬܐ
+                     ܠܡܗܝܡ̈ܢܐ ܡܟܢܫ ܠܗܘܢ ܠܥܕܬܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="13"/>ܘܬܘܒ ܐܟܡܐ ܕܒܩܝܣܐ ܥܒ̣ܪܢܢ ܦܘܩܕܢܐ: ܘܐܬܛܪܕܢܢ <lb n="14"/>ܡ̣ܢ ܦܪܕܝܣܐ:
+                     ܗܟܢܐ ܒܝܕ ܩܠܐ ܕܢܩܘܫܐ ܕܐܝܬܘܗܝ ܪܐܙ <lb n="15"/>ܩܝܣܐ: ܡܬܟܢܫܝܢ ܠܥܕܬܐ ܕܐܝܬܝܗ̇ ܛܘܦܣܐ
+                     ܕܦܪܕܝܣܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="16"/>ܬܘܒ ܕܒܦܘܩܕܢ ܐܠܗܐ ܦܩܕ ܠܢܘܚ ܕܢܥ̣ܒܕ ܩܝܒܘܬܐ: ܘܐܦ <pb n="179r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000363"/>
+                     <lb n="1"/>ܢ̇ܬܩܢ ܢܩܘܫܐ ܘܒܥܕܢ ܨܦܪܐ ܢ̇ܩܫ ܗܘܐ ܒܗ: ܘܡܬܟܢܫܝܢ <lb n="2"/>ܗܘܘ ܐܘܡܢ̈ܐ
+                     ܠܥܒܕܐ ܕܩܝܒܘܬܐ: ܘܒܦܠܓܗ ܕܝܘܡܐ <lb n="3"/>ܕܢܬܒܣܡܘܢ ܒܡܐܟܘܠܬܐ: ܘܒܪܡܫܐ ܕܢܬܬܢܝܚܘܢ <lb
+                        n="4"/>ܡܢ ܥܡܠܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܬܘܒ ܐܡܪܝܢܢ: ܕܐܬܬܩܢ ܢܩܘܫܐ ܡ̣ܢ <lb n="5"/>ܩܝܣܐ: ܡܛܠ ܕܝܬܝܪ ܡ̣ܢ ܩܠܐ ܕܒܪܢܫܐ ܪܗܛ <lb
+                        n="6"/>ܠܡܫܡܥܬܐ: ܘܡܙܡܢ ܥܡܐ ܠܨܠܘܬܐ: ܗܟܘܬ ܘܩܠܐ <lb n="7"/>ܕܢܚܫܐ ܚܝܠܬܢ ܘܬܩܝܦ:
+                     ܘܡܨܝܒ ܠܫܡܘܥܐ <lb n="8"/>ܠܩܪܒܐ ܪܘܚܢܝܐ܆ ܝܬܝܪ ܡܢ ܩܠܐ ܕܢܚܫܐ܀</ab>
+               </div>
+            </div>
+            <div type="section" n="The Sanctuary">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܥܠ</hi>
+                     <lb n="9"/><hi rend="emphasized">ܡܕܒܚܐ܆</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܡܕܒܚܐ ܨ̇ܐܪ ܠܫܡܝܐ: ܘܝܠܕܐ ܥܕܬܐ: <lb n="10"/>ܟܠܗ̇ ܛܘܦܣܐ ܐܝܬܝܗ̇ ܕܟܠܗ̇ ܒܪܝܬܐ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Table">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܥܠ ܦܬܘܪܐ܆</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="11"/>ܦܬܘܪ ܚܝ̈ܐ ܛܘܦܣܐ ܐܝܬܘܗܝ ܘܩܒܪܗ ܕܡܪܢ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Tablet">
+               <div type="subsection">
+                  <ab>
+                     <lb n="12"/><hi rend="emphasized">ܕܥܠ ܛܒܠܝܬܐ܆</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܛܒܠܝܬܐ ܛܘܦܣܐ ܐܝܬܝܗ̇ ܕܨܠܝܒܐ <lb n="13"/>ܕܡܪܢ ܘܡܛܠ ܗܕܐ ܕܝܢ ܡܬܬܣܝܡܐ ܥܠ ܦܬܘܪ
+                     ܚܝ̈ܐ</ab>
+               </div>
+            </div>
+            <div type="section" n="The Anaphora">
+               <div type="subsection">
+                  <ab>
+                     <lb n="14"/><hi rend="emphasized">ܥܠ ܐܢܢܦܘܪܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܐܢܢܦܘܪܐ ܛܘܦܣܐ ܐܝܬܝܗ̇ <lb n="15"/>ܕܟܐܦܐ: ܕܥܠ ܬܪܥܐ ܕܩܒܪܐ ܕܡܪܢ: ܘܛܘܦܣܐ <lb n="16"
+                     />ܐܝܬܝܗ̇ ܕܡܐܢ̈ܐ ܗ̇ܘ ܕܚܙܐ ܫܡܥܘܢ ܕܢ̇ܚܬ ܗܘܐ ܡ̣ܢ <pb n="179v"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000364"/>
+                     <lb n="1"/>ܫܡܝܐ: ܕܐܝܬܝܗ̇ ܚܝܘ̈ܬܐ ܘܟܠ ܓܢܣ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Veil">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܥܠ ܦܪܳܣܳܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="2"/>ܦܪܳܣܳܐ ܕܥܠ ܡܕܒܚܐ ܪܐܙܐ ܐܝܬܘܗܝ ܕܪܩܝܥܐ ܕܫܡܝܐ: <lb n="3"/>ܗ̇ܘ ܕܐܝܬܘܗܝ
+                     ܕܟ̇ܠܐ ܒܝܬ ܠܢ ܠܟܝ̇ܢܐ ܪܘܚܢܝܐ ܕܡܠܐܟ̈ܐ</ab>
+               </div>
+            </div>
+            <div type="section" n="The Cymbals">
+               <div type="subsection">
+                  <ab>
+                     <lb n="4"/><hi rend="emphasized">ܕܥܠ ܦܪ̈ܘܚܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܛܘܦܣܐ ܐܝܬܝܗܘܢ ܕܣܪ̈ܦܐ <lb n="5"/>ܫܬܝܬܝܲܝ ܓܦ̈ܐ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Order of Nine Hosts">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܥܠ ܛܟܣܐ ܕܚܝܠܘ̈ܬܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܬܫܥ̈ܐ <lb n="6"/>ܛܟܣܐ ܕܚܝܠܘ̈ܬܐ ܫܡܝ̈ܢܐ ܐܝܬ ܠܥܠ ܒܫܡܝ̈ܐ ܕܣܝܡܝܢ <lb n="7"/>ܘܡܛܟܣܝܢ
+                     ܒܬܠܬ ܥܕ̈ܬܐ: ܗܟܢܐ ܘܒܥܕܬܐ ܗܕܐ ܐܪܥܢܝܬܐ ܬܫܥ̈ܐ <lb n="8"/>ܛܟܣ̈ܐ ܛܟܣܘ ܡܪܢ ܘܬܠܡܝܕ̈ܘܗܝ:
+                     ܗ̇ܢܘܢ ܕܐܝܬܝܗܘܢ ܪܐܙ ܚܝܠܘ̈ܬܐ <lb n="9"/>ܥܠ̈ܝܐ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Deacons">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܥܠ ܡܫܡܫܢܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܡܫܡܫܢܐ ܛܘܦܣܐ ܐܝܬܘܗܝ ܕܡܠܐܟܐ ܘܐܘܪܪܐ <lb n="10"/>ܕܥܠ ܟܬܦܗ: ܛܘܦܣܐ ܐܝܬܘܗܝ ܕܓܦ̈ܐ
+                     ܡܠܐܟܝ̈ܐ ܟܘܬܝܢܐ ܕܠ̇ܒܫ <lb n="11"/>ܟܕ ܠܐ ܐܣ̇ܪ ܥܠܝܗ̇: ܛܘܦܣܐ ܐܝܬܝܗ̇ ܕܚܐܪܘܬܐ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Priest">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܥܠ ܩܫܝܫܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="12"/>ܘܩܫܝܫܐ ܟܕ ܡܬܬܣܪܚ: ܒ̃ܪܟ ܥܠ ܬܪ̈ܬܝܢ ܒܘܪ̈ܟܘܗܝ ܐܝܟܢܐ <lb n="13"/>ܕܢܚܘܐ
+                     ܕܒܢܦܫܐ ܘܒܦܓܪܐ ܡܫܲܡܠܝ ܘܓܡܝܪ ܒܟܗܢܘܬܐ <lb n="14"/>ܘܥܬܝܪܘܬܐ ܕܪ̈ܐܙܐ: ܟܘܬܝܢܐ ܕܠ̇ܒܫ
+                     ܟܗܢܐ: ܛܘܦܣܐ ܐܝܬܝܗ̇ <lb n="15"/>ܕܐܦܘܕܝܩܢܘܬܐ: ܘܐܘܪܪܐ ܕܣܝܡ ܥܠܘܗܝ ܛܘܦܣܐ ܘܛܟܣܐ <lb
+                        n="16"/>ܕܡܫܡܫܢܐ. ܦܰܝܢܳܐ ܕܝܢ ܕܠܥܠ ܡܢܗ ܨ̇ܐܪ ܠܡܥܪܦܗ ܕܐܠܝܐ ܢܒܝܐ: ܘܐܦ <pb
+                        n="180r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000365"/>
+                     <lb n="1"/>ܠܬܟܣܝܬܐ ܘ ܠܒܘܫܐ ܕܚܝܠܘ̈ܬܐ ܫܡܝ̈ܢܐ: ܘܗ̇ܝ ܕܩ̇ܐܡ ܟܗܢܐ ܘܦܲܫܶܛ <lb n="2"
+                     />ܐܝܕܘ̈ܗܝ ܒܩܘܪܒܐ: ܨ̇ܐܪ ܛܘܦܣܗ ܕܡܪܢ ܟܕ ܦܫ̣ܛ ܢܦܫܗ ܒܙܩܝܦܐ. <lb n="3"/>ܘܗ̰ܘ ܟܗܢܐ
+                     ܕܘܡܝܐ ܐܝܬܘܗܝ ܕܡܪܢ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Censer">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܥܠ ܦܝܪܡܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܦܝܪܡܐ ܨ̇ܐܪ ܠܡܫܝܚܐ: <lb n="4"/>ܢܘܪܐ ܕܒܗ ܡܬܬܣܝܡܐ ܪܐܙ ܐܠܗܘܬܐ: ܒܣܡܐ ܕܥܠܝܗ̇ ܪܐܙ
+                     ܐܢܫܘܬܐ: <lb n="5"/>ܬܚ̈ܬܝܬܗ ܕܦܝܪܡܐ ܪܐܙ ܐܪܥܐ: ܥܠܝܬܗ ܪܐܙ ܫܡܝܐ: ܬܠ̈ܬܐ ܫܝܫ̈ܠܬܐ <lb
+                        n="6"/>ܕܒܗ ܪܐܙܐ ܘܛܘܦܣܐ ܕܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗ̇ܝ ܕܢ̇ܦܩ ܦܝܪܡܐ <lb n="7"/>ܡ̣ܢ ܗܝܟܠܐ ܪܐܙܐ ܗ̇ܝ ܕܢܚ̣ܬ ܡܫܝܚܐ ܡܢ ܫܡܝܐ: ܘܗ̇ܝ ܕܟܪܟ
+                        <lb n="8"/>ܡܫܡܫܢܐ ܥܠ ܟܗܢܐ: ܘܢ̇ܣܒ ܠܒܣܡ̈ܐ ܘܟ̇ܪܟ ܒܟܠܗ̃ ܥܕܬܐ ܪܐܙ ܗ̇ܝ ܕܢܚܬ <lb
+                        n="9"/>ܐܠܗܐ ܘܐܬܟܪܟ ܒܥܠܡܐ: ܘܒܣ̣ܡ ܠܟܠܗ̇ ܒܪܝܬܐ ܒܡܠܦܢܘܬܐ <lb n="10"/>ܕܐܘܢܓܠܝܘܢ
+                     ܘܡܢܕܪܝܫ ܣܠܩ ܠܘܬ ܐܒܘܗܝ: ܐܟܡܐ ܕܡܫܡܫܢܐ ܟ̇ܪܟ <lb n="11"/>ܒܥܕܬܐ ܡܢܕܪܝܫ ܣ̇ܠܩ ܠܩܕܘܫ
+                     ܩܘ̈ܕܫܝܢ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܙ̇ܕܩ ܕܟܕ ܢܫܩܘܠ <lb n="12"/>ܡܫܡܫܢܐ ܠܦܝܪܡܐ ܕܢܥܘܠ ܠܘܬ ܡܕܒܚܐ ܘܢܬܠ ܦܝܪܡܐ ܠܡܨܥܬ <lb
+                        n="13"/>ܦܬܘܪܐ ܕܚܝ̈ܐ ܕܐܝܬܘܗܝ ܛܘܦܣܐ ܕܐܒܐ ܙܒܢ̈ܬܐ ܬܠܬ. ܘܢܥܒܪ <lb n="14"/>ܠܓܪܒܝܐ
+                     ܐܘܟܝܬ ܠܩܪܢܐ ܕܡܕܒܚܐ ܘܢܬܠ ܬܠܬ ܙܒܢܝ̈ܢ: ܕܐܝܬܘܗܝ ܬܠܬ ܛܘܦܣܗ <lb n="15"/>ܕܒܪܐ. ܘܢܥܒ̣ܪ
+                     ܠܰܦܢܝܬܐ ܬܝܡܢܝܳܬܐ ܕܦܬܘܪܐ ܘܢ̣ܬܠ ܬܠܬ ܙܒܢܝ̈ܢ ܐܝܬܘܗܝ <lb n="16"/>ܪܐܙܗ ܕܪܘܚܐ ܩܕܝܫܐ:
+                     ܘܡܚܕܐ ܢܐܬܐ ܠܘܬ ܟܗܢܐ ܘܢ̣ܬܠ ܠܗ ܦܝܪܡܐ ܘܗ̰ܘ <pb n="180v"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000366"/>
+                     <lb n="1"/>ܡܫܡܫܢܐ ܢܪܟܢ ܪܝܫܗ ܘܢܣܓܘܕ ܘܢܐܡܪ: ܕܩܪܝܬ ܠܡܕܡ ܕܟܬܒܬ ܩܕܡ ܡܠܟܐ: <lb n="2"
+                     />ܘܩܒܠܬ ܚܬܡܐ. ܘܡܚܕܐ ܦܢܐ ܡܫܡܫܢܐ ܠܘܬ ܥܡܐ ܘܝܳܗܒ ܠܗܘܢ ܦܝܪܡܐ <lb n="3"/>ܟܕ ܡܰܪܟܢܝܢ
+                     ܪ̈ܝܫܝܗܘܢ ܘܐܡܪܝܢ ܕܫ̇ܠܡܝܢܢ: ܗܝܕܝܢ ܗ̇ܦܟ ܠܘܬ ܟܗܢܐ ܘܐܡܪ <lb n="4"/>ܕܩܪܝܬ ܠܐܓܪܬܟ ܩܕܡ
+                     ܥܡܐ ܘܫܳܠܡܝܢ</ab>
+               </div>
+            </div>
+            <div type="section" n="The Eucharistic Service">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܥܠ ܩܽܘܪܳܒܳܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܩܘܪܒܐ <lb n="5"/>ܡܬܦܫܩ ܡܬܩܪܒܢܘܬܐ ܕܠܘܬ ܐܠܗܐ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Crosses">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܥܠ ܨܠܝܒ̈ܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܨܠܝܒ̈ܐ ܕܡܬܥܒܕܝܢ <lb n="6"/>ܒܩܘܪܒ ܩܘܪ̈ܒܢܐ ܟܡܐ ܗܘܝܢ: ܘܐܝܟܢܐ ܗܘܝܢ ܘܰܡܙܰܗܪ ܗ̰ܘ
+                     ܚܣܝܐ ܕܠܐ <lb n="7"/>ܙ̃ܕܩ ܠܥܡܐ ܐܘ ܠܡܫܡܫܢܐ ܣܛܪ ܡܢ ܨܠܝܒ̈ܐ ܕܥܠ ܦܓܪܐ ܘܕܡܐ ܘܥܠ ܥܡܐ:
+                        <lb n="8"/>ܕܢܪܫܘܡ ܐܘ ܢܥܒܕ ܨܠܝܒܐ ܥܠ ܦܪܨܘܦܗ ܒܥܕܢܐ ܕܩܘܪܒܐ: ܘܢܘܟܪܝܬܐ ܐܝܬܝܗ̇ <lb
+                        n="9"/>ܠܫܦܝܪܘܬ ܡܛܰܟܣܘܬܐ: ܘܨܠܝܒ̈ܐ ܗܠܝܢ ܕܡܬܥܒܕܝܢ ܠܘܩܒܠ ܡܫܡܫܢܐ ܠܝܡܝܢܐ <lb
+                        n="10"/>ܕܟܗܢܐ ܘܰܠܣܡܠܐ ܠܘܩܒܠ ܥܡܐ: ܐܢ ܠܝܬ ܡܫܡܫ̈ܢܐ ܐܠܐ ܒܠܚܘܕ ܒܚܕ ܓܒܐ <lb n="11"
+                     />ܠܘܩܒܠܗܘܢ ܢܥܒܕ ܨܠܝܒ̈ܐ ܒܠܚܘܕ: ܘܐܢ ܐܝܬ ܥܡܐ ܢܥܒܕ ܠܩܘܒܠܗ ܙܒܢ̱ܬܐ <lb n="12"/>ܬܠܬܐ
+                     ܨܠܝܒ̈ܐ ܐܝܟܐ ܕܣܝܡ ܠܢ ܡܢ ܠܬܚܬ: ܘܐܢ ܠܝܬ ܠܐ ܢܥܒܕ ܟܕ ܡܫܪܐ ܗܟܢܐ ܙܕܩ <lb n="13"/>ܠܗ
+                     ܠܟܗܢܐ ܠܡܕܥ: ܐܝܟܢܐ ܡܬܥܒܕܝܢ ܨܠܝܒ̈ܐ ܕܗ̇ܘܝܢ ܒܩܘܪܒ ܩܘܪ̈ܒܢܐ <lb n="14"/>ܕܟܡܐ
+                     ܒܟܠܕܘܟܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܗ̇ܘܝܢ ܟܠܗܘܢ ܝܚ ܗܢܘ ܕܝܢ ܡܫܪܐ ܟܗܢܐ ܩܕܡܐܝܬ ܠܟܠ <lb n="15"/>ܓܒܐ ܚܕ: ܘܐܢ ܠܝܬ
+                     ܡܫܡܫ̈ܢܐ ܠܐ ܐܠܨܐ ܕܢܥܒܕ ܐܠܐ ܥܠ ܦܪܨܘܦܗ ܬܠ̈ܬܝܗܘܢ: <lb n="16"/>ܘܠܘܩܒܠ ܥܡܐ ܬܠܬܐ: ܐܝܟܐ
+                     ܕܐܡ̇ܪ: ܚܘܒܐ ܕܐܠܗܐ ܐܒܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܙܒܢ̱ܬܐ ܕܬܪ̈ܬܝܢ <pb n="181r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000367"/>
+                     <lb n="1"/>ܥ̇ܒܕ ܬܠ̈ܬܐ ܨܠܝܒ̈ܐ ܥܠ ܦܓܪܐ: ܘܬܠܬܐ ܥܠ ܟܣܐ܀ ܐܝܟܢܐ ܕܐܡ̇ܪ ܐܕܝ ܘܒܪܟ
+                     ܩܕܫ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="2"/>ܘܙܒܢ̱ܬܐ ܕܬܠܬܐ ܗ̣ܘ ܗܟܘܬ ܥ̇ܒܕ ܬܠܬܐ ܨܠܝܒ̈ܐ ܥܠ ܦܓܪܐ: ܘܬܠܬܐ ܥܠ ܟܣܐ ܐܝܟܐ
+                        <lb n="3"/>ܕܐܡܪ܀ ܐܝܟܢܐ ܕܟܕ ܡܐܓܢ ܢܥܒܕ ܠܠܚܡܐ: ܘܠܟܣܐ ܗܢܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܙܒܢ̱ܬܐ ܕܐܪܒܥ ܥ̇ܒܕ ܨܠܝܒܐ <lb n="4"/>ܚܕ ܠܘܩܒܠ ܐܦܘ̈ܗܝ ܘܠܣܡܠܐ ܘܠܝܡܝܢܗ: ܘܠܘܩܒܠ ܥܡܐ
+                     ܬܠܬܐ ܐܝܟܐ <lb n="5"/>ܕܐܡ̇ܪ܀ ܢܗܘܢ ܪ̈ܚܡܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܙܒܢ̱ܬܐ ܕܚ̈ܡܫ ܥ̇ܒܕ ܒܩܨܝܐ ܕܦܪܝܣܬܐ ܒܝܕ ܕܡܐ <lb n="6"/>ܥܠ ܦܓܪܐ ܬܠ̈ܬܐ: ܘܥܠ ܟܣܐ
+                     ܬܠ̈ܬܐ: ܐܝܟܐ ܕܩܨܐ ܘܪܫܡ: ܘܡܚܝܕ <lb n="7"/>ܠܦܓܪܐ ܥܡ ܕܡܐ܀ ܠܐ ܐܠܨܐ ܕܢܪܣܣ: ܐܝܟܐ ܕܐܝܬ
+                     ܥܝ̇ܕܐ ܠܐܢܫ̈ܝܢ <lb n="8"/>ܕܢܥܒܕܘܢ ܬܢܝܢܘܬ ܗܕܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܙܒܢ̱ܬܐ ܐ̱ܚܪܬܐ ܕܫ̈ܬ: ܥ̇ܒܕ ܨܠܝܒܐ <lb n="9"/>ܥܠ ܐܦܘܗ̈ܝ: ܘܠܣܡܠܐ ܘܠܝܡܝܢܗ: ܘܠܘܩܒܠ
+                     ܥܡܐ ܏ܓ ܨܠܝܒ̈ܐ܀ <lb n="10"/>ܐܝܟܐ ܕܐܡܪ܀ ܬܗܘܐ ܛܝܒܘܬܐ ܕܬܠܝܬܝܘܬܐ܀ ܘܗܝܕܝܢ ܩܘܕܫ̈ܐ <lb
+                        n="11"/>ܠܩܕܝܫ̈ܐ: ܘܠܟܗ̈ܢܐ ܕܐܡ̣ܪ ܡܫܡܫܢܐ ܦܩܕ ܗ̣ܘ ܚܣܝܐ ܕܐܡܝܪ: ܕܐܢ ܠܝܬ <lb n="12"
+                     />ܥܡܐ ܘܒܠܚܘܕܘܗܝ ܡܩܪܒ ܟܗܢܐ: ܠܐ ܐܠܨܐ ܕܢܬܢܐ ܐܢܘܢ.</ab>
+               </div>
+            </div>
+            <div type="section" n="The Opening of the Eucharistic Service">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܫܘܪܝܐ</hi>
+                     <lb n="13"/><hi rend="emphasized">ܕܩܘܪܒܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܗܝܕܝܢ ܕܒܫܘܪܝܐ ܠܐܒܐ ܘܠܒܪܐ ܘܠܪܘܚܐ ܩܕܝܫܐ ܡܫܪܐ <lb n="14"/>ܟܗܢܐ ܡܘܕܥ: ܚܕܝܘܬܐ ܕܚܕ
+                     ܟܝܢܐ ܘܐܘܣܝܐ ܕܬܠܝܬܝܘܬܐ: ܡܚܘܐ <lb n="15"/>ܕܡܬܦܠܓܐ ܠܐ ܡܬܦܠܓܢܐܝܬ: ܘܡܬܚܝܕܐ ܠܐ
+                     ܐܫܝܕܐܝܬ: ܗܫܐ ܥܠ <lb n="16"/>ܒܪܐ ܡܬܐܡܪܐ: ܗܢܘ ܕܝܢ ܙܒܢܐ ܕܡܬܒܣܪܢܘܬܗ: ܘܒܟܠܙܒܢ <pb
+                        n="181v"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000368"/>
+                     <lb n="1"/>ܐܝܬܘܗܝ ܐܠܗܐ ܠܥܠܡܝܢ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܕܫܠܡܐ ܕܝܢ ܕܡܬܝܗܒ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܡܠܬܗ ܕܡܪܢ <lb n="2"/>ܡܫܡܠܝܐ: ܕܫܒܘܩ ܩܘܪܒܢܟ ܥܠ ܡܕܒܚܟ: ܕܐܬܪܥܐ ܠܐܚܘܟ: <lb n="3"
+                     />ܘܐܟܡܢ ܕܪ̈ܘܚܢܐ ܬܡܢ ܟܢܝܫܝܢ ܘܫܠܡܐ ܝܗܒܝܢ ܠܡܢ: ܡܛܠ ܕܫܠܡܐ <lb n="4"/>ܗܘܐ ܠܗܘܢ ܥܡܢ
+                     ܒܩܛܠܗ ܕܡܪܝܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗ̇ܝ ܕܚܘܒܐ ܕܐܠܗܐ ܐܒܐ:</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="5"/>ܡܚܘܝܐ ܕܒܚܘܒܗ ܝܗܒ ܐܠܗܐ ܠܒܪܗ ܚܠܦܝܢ: ܐܝܟܢܐ ܕܦܘܠܠܘܣ <lb n="6"
+                     />ܐܡ̇ܪ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܛܝܒܘܬܐ ܕܝܚܝܕܝܐ ܒܪܐ</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܡܚܘܝܐ ܕܒܛܝܒܘܬܐ. ܚܠܦ ܟܠܢܫ <lb n="7"/>ܛܥ̣ܡ ܡܘܬܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܫܘܬܦܘܬܐ ܕܪܘܚܐ ܩܕܝܫܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܕܒܝܕ ܫܘܬܦܘܬܐ <lb n="8"/>ܕܪܘܚܐ ܡܫܬܡܠܝܐ ܕܒܚܬܐ.</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗܠܝܢ ܬܠ̈ܬܐ ܐܡ̇ܪ ܟܗܢܐ ܕܢܗܘܘܢ <lb n="9"/>ܥܡܟܘܢ: ܘܡܦܢܝܢ ܕܐܦ ܥܡܟ. ܐܝܟ ܕܐܡ̇ܪ ܪܒܐ
+                     ܓܪܝܓܘܪܝܘܣ: <lb n="10"/>ܕܫܠܡܐ ܗ̇ܘ ܟܗܢܐ ܘܢ̇ܣܒ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܬܘܒ ܡܘܣܦ ܕܠܥܠ ܢܗܘܘܢ: <lb n="11"/>ܗܘܢܝ̈ܟܘܢ: ܗܢܘ ܕܝܢ ܕܒܫܡܝܢܝ̈ܬܐ ܗܪܘܓܘ: ܘܡ̣ܢ <lb
+                        n="12"/>ܐܪ̈ܥܢܝܐ ܐܬܕܟܘ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܡܦܢܝܢ ܕܐܝܬ ܠܢ ܠܘܬ ܡܪܝܐ: ܏ܗ ܪ̈ܚܡܐ ܡܬܒܣܪܢܘܬܐ <lb n="13"/>ܘܒܬܝܒܘܬܐ ܪ̈ܚܡܐ ܕܐܒܐ
+                     ܕܓܒܠܢ ܕܒܪܐ ܦܪܘܩܝܢ. ܘܒܬܝܒܘܬܐ <lb n="14"/>ܒܝܕ ܪܘܚܐ ܩܕܝܫܐ ܐܬܟܬ̣ܒܢܢ ܒܫܡܝܐ ܒܣܝܡܬ
+                     ܒܢܝ̈ܐ܀ ܘܬܘܒ <lb n="15"/>ܐܝܬ ܠܢ ܒܫܡܝܐ ܐܝܟ ܕܟܬܝܒ ܦܐܪܩܠܝܛܐ: ܝܫܘܥ ܡܫܝܚܐ <lb n="16"
+                     />ܙܟܝܐ: ܐܬܦܫܩ ܦܐܪܩܠܝܛܐ ܒܥܝܐ܀ ܘܬܘܒ ܚܕܘ ܕܫܡܗ̈ܝܟܘܢ <pb n="182r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000369"/>
+                     <lb n="1"/>ܐܬܟܬܒܘ ܒܫܡܝܐ: ܡܛܠ ܗܠܝܢ ܬܠܬ ܠܒܘ̈ܬܢ ܠܘܬ ܡܪܝܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="2"/>ܘܬܘܒ ܐܡ̇ܪ ܟܗܢܐ: ܢܘܕܐ ܠܡܪܝܐ ܕܗܠܝܢ: ܡܦܢܝܢ ܠܗ ܕܫ̇ܘܐ <lb n="3"
+                     />ܘܙ̇ܕܩ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗܝܕܝܢ ܡܰܝܬܐ ܒܬܫܒܘܚܬܐ ܡܠܐܟܝܬܐ ܕܩܥܝܢ ܐܟܚܕܐ: <lb n="4"/>ܩܕܝܫ ܩܕܝܫ ܩܕܝܫ܀ ܕܬܠܬܐ
+                     ܩܢܘܡ̈ܐ ܩܕܝܫ̈ܐ ܕܒܫܡܝܐ <lb n="5"/>ܘܒܐܪܥܐ ܘܥܠ ܡܕܒܚܐ ܘܒܟܠܡܕܡ ܘܠܐ ܡܣܬܝܟܝܢ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܐܘܫܥܢܐ <lb n="6"/>ܬܫܒܘܚܬܐ ܡܬܦܫܩ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܬܘܒ ܕܝܢ ܢܣܒ ܠܚܡܐ ܘܐܡ̇ܪ܆ ܗ̇ܝ <lb n="7"/>ܕܚܪ ܒܫܡܝܐ ܨܒܝܢܐ ܕܐܒܐ ܡܚܘܝܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܐܘܕܝ܆ ܡܘܕܝܢܘܬܐ <lb n="8"/>ܠܘ ܒܥܘܬܐ ܐܝܬܝܗ̇܆ ܘܠܐ ܨܠܘܬܐ ܘܠܐ ܫܠܡܘܬܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗ̇ܝ ܕܡܘܕܐ ܐܢܐ܆ <lb n="9"/>܏ܗ ܫ̇ܠܡ ܐܢܐ ܠܨܒܝܢܟ܆ ܕܚܫܐ ܕܡܘܬܐ ܐܩ̇ܒܠ.</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗ̇ܝ ܕܒܪܟ <lb n="10"/>ܩܕܫ܆ ܗܘ ܠܗ ܩܕܝܫ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗ̇ܝ ܕܩܨܐ܆ ܗܘ ܠܗ ܕܒ̣ܚ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܦܠܓ܆ <lb n="11"/>ܕܡܢܗ ܪܳܕܐ ܚܘܣܝܐ.</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܝܗ̣ܒ ܠܗܘܢ܆ ܕܡܢܗ ܐܝܬܝܗ̇ ܡܘܗܒܬܐ܀ </ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="12"/>ܘܗ̇ܝ ܕܐܡ̇ܪܝܢ ܐܢܫܝ̈ܢ ܕܠܐ ܐܟ̣ܠ ܡ̰ܢ ܦܓܪܗ܆ ܘܗ̇ܝ ܕܐܟ̣ܠ ܫܪܝܪܐ܀ <lb n="13"
+                     />ܐܡܪܝܢ ܕܝܢ ܩܕܝܫܐ ܡܪܝ ܐܦܪܝܡ܆ ܐܟܠܝܢ ܦܓܪܗ ܘܗܘ ܥܡܗܘܢ܆ <lb n="14"/>ܫ̇ܬܝܢ ܠܕܡܗ ܘܗ̣ܘ
+                     ܡܐ܆ ܫܬܐ ܠܕܡܗ ܘܡܫܘܐ ܠܗܘܢ܀ <lb n="15"/>ܘܩܕܝܫܐ ܡܪܝ ܐܝܘܢܢܝܣ ܐܡ̣ܪ܆ ܟܕ ܛܥ̣ܡ ܝܗ̣ܒ
+                     ܠܬܠܡܝܕ̈ܘܗܝ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="16"/>ܘܒܬܪܟܢ ܒܬܫܒܘܚܬܐ ܗ̇ܝ ܪܘܚܢܝܬܐ܀ ܗ̇ܝ ܕܠܟ ܕܡܫܒܚܝܢܢ܆ <pb n="182v"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000370"/>
+                     <lb n="1"/>ܕܥܒܕܬܢ ܡܠܝ̈ܠܐ܆ ܘܠܟ ܡܒܪܟܝܢܢ܆ ܒܝܕ ܠܒܐ ܘܦܘܡܐ ܘܠܫܢܐ܆ <lb n="2"/>ܕܐܫܘܝܬ
+                     ܠܢ ܕܢܗܘܐ ܡܫܒܚ̈ܢܝܟ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܠܟ ܡܘܕܝܢܢ ܕܟܢ̣ܫܬܢ ܡ̣ܢ <lb n="3"/>ܦܗܝܐ ܕܚܛܝܬܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܒܬܪ ܩܪܳܝܬܳܐ ܕܪܘܚܐ ܩܕܝܫܐ ܫܠܡ ܪ̈ܐܙܐ <lb n="4"/>ܩܕܝ̈ܫܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗܝܕܝܢ ܡܬܕܟܪܢܘܬܐ ܕܥܕܬܐ ܘܕܡܗܘܢ[ܘܕܟܠܗܘܢ] ܛܟܣ̈ܝܗ̇܀ <lb n="5"/>ܕܪ̈ܥܘܬܐ܀ ܕܟܗ̈ܢܐ܀
+                     ܕܡܠ̈ܟܐ܀ ܕܫܠ̈ܝܚܐ܀ ܕܢܒ̈ܝܐ܀ ܕܐܒܗ̈ܬܐ܀ <lb n="6"/>ܕܣܗ̈ܕܐ܀ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܐ܀ ܘܕܝܠܕܬ
+                     ܐܠܗܐ܆ ܘܕܥܢܝܕ̈ܐ܀ <lb n="7"/>ܘܗܝܕܝܢ ܒܪܬ ܩܠܐ ܗ̇ܝ ܕܐܢܝܚ ܐܪ̈ܦܐ܆ ܟܕ ܡܚܘܠܐ[ܡܚܘܝܐ]
+                     ܨܠܘܬܐ <lb n="8"/>ܕܠܝܬ ܕܕܟ̈ܐ ܒܒܢܝܢ̈ܫܐ܆ ܐܠܐ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܐܡ̇ܪ ܟܗܢܐ܆ <lb n="9"/>ܠܐܒܐ ܕܡܛܠܬܗ ܐܦ ܠܢ ܘܠܗܘܢ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܥܡܐ ܐܢܝܚ ܐܪ̈ܦܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗܝܕܝܢ <lb n="10"/>ܕܐܝܟܢܐ ܕܐܝܬܘܗܝ ܗ̣ܘܐ ܘܐܝܬܘܗܝ܀ ܏ܗ ܕܩܕܡ ܕܢܬܒܣܪ ܐܠܗܐ. ܘܒܬܪ <lb
+                        n="11"/>ܡܘܬܐ ܐܠܗܐ܆ ܘܡܟܬܪ ܒܦܓܪܐ ܕܠܐ ܡܬܚܒܠܢܘܬܐ ܠܥܠܡ܆ ܘܕܠܐ <lb n="12"/>ܣܘܦ
+                     ܐܝܬܝܗ̇ ܐܠܗܘܬܐ ܘܠܥܠܡ ܕܝܢ ܠܐ ܡܬܕܪܟ܆ ܐܝܟܢܐ ܕܐܝܬܘܗܝ <lb n="13"/>ܥܡ ܒܣܪܗ ܩܕܝܫܐ ܚܕ
+                     ܐܠܗܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܐܡܝܢ܆ ܝܘܢܐܝܬ ܡܬܦܫܩ ܢܗܘܐ܆ <lb n="14"/>ܣܘܪܝܝܐܝܬ ܫܪܪܐ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܐܡܝܢ ܐܡܝܢ܆ ܫܪܪܐ ܫܪܪܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܬܘܒ ܩܘܕܫ̈ܐ</hi>
+                     <lb n="15"/><hi rend="emphasized">ܠܩܕܝܫ̈ܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܗܢܘ ܕܝܢ ܠܢܦܫܐ ܘܠܦܓܪܐ ܘܠܗܘܢܐ܆ ܕܐܬܩܕܫ ܒܬܠ̈ܬܐ <lb n="16"/>ܩܢܘܡ̈ܐ܆ ܒܡܝ̈ܐ܀ ܘܕܡܐ܀
+                     ܘܪܘܚܐ܀ ܘܒܐܒܐ ܘܒܒܪܐ ܘܒܪܘܚܐ܆ <pb n="183r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000371"/>
+                     <lb n="1"/>ܐܦ ܐܝܬܘܗܝ ܒܪܢܫܐ ܨܠܡܐ ܕܐܠܗܐ ܒܗܕܐ܆ ܒܬܠܝܬܝܘܬ ܪܘܟܒܗ܆ <lb n="2"/>ܢܦܫܐ ܐܝܟ
+                     ܐܒܐ܆ ܐܝܟ ܦܓܪܢܘܬܗ ܕܒܪܐ܆ ܗܘܢܐ ܪܘܚܐ ܩܕܝܫܐ܆ <lb n="3"/>ܘܒܗܕܐ ܐܝܬܘܗܝ ܕܡܘ̣ܬܐ
+                     ܕܐܠܗܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܬܘܒ ܐܡ̇ܕܝܢ ܕܩܘܕܫ̈ܐ܆ ܐܝܟ <lb n="4"/>ܕܡ̣ܢ ܟܗܢܐ ܡܬܦܠ̈ܓܝܢ܆ ܒܗܝ ܕܡܬܚܝܒ ܗ̇ܘ ܕܢ̇ܤܒ
+                     ܟܕ ܠܐ ܫ̇ܘܐ <lb n="5"/>ܕܠܐ ܦܪܫ ܦܓܪܗ ܕܡܪܝܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܬܘܒ ܩܘܕܫ̈ܐ ܘܠܗܘܢ ܕܡܩܕܫܝܢ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="6"/>ܐܦ ܗܢܘܢ ܒܬܠܬܐ ܩܘܕܫ̈ܐ܆ ܒܚܬܡܐ܆ ܘܪܘܫܡܐ܆ ܘܛܢܢܐ܆ <lb n="7"/>ܕܒܗܘܢ ܐܝܟ
+                     ܕܒܡܪܓܢܝܬܐ ܐܨܛܒܬܢܢ ܘܒܢܝ̈ܐ ܕܐܠܗܐ ܗܘܝܢܢ܆ <lb n="8"/>ܠܐ ܢܪ̈ܡܐ ܐܢܝ̈ܢ ܠܚܙܝܪ̈ܐ܆ ܏ܗ
+                     ܠܚܘܫܒ̈ܐ ܒܝܫ̈ܐ ܕܫܐܕ̈ܐ ܕܠܗܘܢ <lb n="9"/>ܪ̈ܥܐ ܗ̰ܘܐ ܗ̇ܘ ܒܪ ܐܣܘܛܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܚܙܝܪܐ ܕܥ̇ܒܐ܆ ܬܘܒ ܡܬܩܪܐ <lb n="10"/>ܡܪܘܕܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܘܗ̇ܝ ܬܘܒ ܕܚܕ ܐܒܐ܆ ܕܠܐ ܐܝܬܘܗܝ ܒܪܐ ܕܐܚܪܝܢ܆ ܐܝܟ <lb n="11"/>ܐܒܗ̈ܐ ܐܪ̈ܥܢܝܐ܆ ܘܠܐ
+                     ܐܝܬܘܗܝ܆ ܐܒܐ ܕܐܚܪܝܢ܆ ܐܠܐ ܐܢ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ܀ <lb n="12"/>ܘܡܢܗ ܡܫܬܡܗܐ ܐܒܗܘܬܐ
+                     ܒܫܡܝܐ ܘܒܐܪܥܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܒܪܐ ܕܠܐ ܐܝܬܘܗܝ܆ <lb n="13"/>ܐܒܐ ܕܐܚܪܝܢ܆ ܐܝܟ ܗܢܘܢ ܥܠ ܐܪܥܐ ܕܐܝܬܝܗܘܢ ܒܢܝ̈ܐ
+                     ܕܐܒܗܝ̈ܗܘܢ܆ <lb n="14"/>ܘܐܒܗ̈ܐ ܕܒܢܝܗ̈ܘܢ܀ ܘܠܐ ܒܢܝ̈ܐ ܫܪܝܪܐܝܬ ܐܝܬܝܗܘܢ ܒܟܘܢܝܐ܆ ܘܠܐ
+                        <lb n="15"/>ܐܒܗ̈ܐ܆ ܡܛܠ ܕܐܝܬܝܗܘܢ ܒܢܝ̈ܐ ܘܐܒܗ̈ܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܚܕ ܪܘܚܐ ܩܕܝܫܐ܆ <lb n="16"/>ܗ̇ܘ ܕܡܢ ܐܒܐ ܢ̇ܦܩ܆ ܘܫܘܐ ܒܐܘܣܝܐ ܠܒܪܐ ܘܫܡܐ ܕܩܕܝܫܘܬܐ܀
+                        <pb n="183v"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000372"/>
+                     <lb n="1"/>ܕܝܠܗ ܐܝܬܘܗܝ܆ ܐܝܟ ܕܐܡ̇ܪ ܡܠܦܢܐ܆ ܕܐܢ ܪܘܚܐ ܩܕܝܫܐ ܠܐ ܐܝܬܘܗܝ ܐܒܐ <lb n="2"
+                     />ܘܒܪܐ ܩܕܝܫ̈ܐ܆ ܒܗ̇ܘ ܕܫܡܐ ܕܩܕܝܫܘܬܐ ܥܡ ܪܘܚܐ ܪܗܛ܀ <lb n="3"/>ܕܝܠܝܬܗ ܕܐܒܐ ܝܠܘܕܘܬܐ܆
+                     ܘܕܒܪܐ ܝܠܝܕܘܬܐ܆ ܘܪܘܚܐ ܩܕܝܫܘܬܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="4"/>ܬܘܒ ܪܘܚܐ ܓܝܪ ܕܐܠܗܐ܆ ܠܗܠܝܢ ܫܘܝ̈ܝ ܒܟܝܢܐ ܘܦܪ̈ܝܫܝ <lb n="5"/>ܒܕܝܠ̈ܝܬܐ
+                     ܫܘܒܚܐ܀ ܏ܗ ܫܘܦܪܐ ܕܠܐ ܡܬܚܒܠܢܘܬܐ ܘܐܝܩܪܐ ܕܠܐ <lb n="6"/>ܡܝܘܬܘܬܐ ܠܥܠܡܥܠܡܝܢ
+                     ܢܗܘܐ܀</ab>
+               </div>
+            </div>
+            <div type="section" n="The Lord's Prayer">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܨܠܘܬܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="7"/>ܫܦܝܪ ܐܬܬܣܝܡܬ݀ ܡ̣ܢ ܐܒܗ̈ܬܐ ܕܐܬܬܡ̣ܪܝ ܬܡܢ܀ ܕܐܝܬܝܗ̇ <lb n="8"
+                     />ܕܠܟܪ̈ܝܣܛܝܢܐ ܡܚܲܘܝܐ ܝܘܠܦܢܐ ܕܡܫܝܚܐ܆ ܘܡܘܕܥܐ ܐܒܗܘܬܐ <lb n="9"/>ܕܐܒܐ. ܕܒܛܝܒܘܬܢ
+                     ܕܠܘܬܢ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܬܐܬܐ ܡܠܟܘܬܟ</hi> ܫܘܠܛܢܗ ܕܝܚܝܕܝܐ <lb n="10"/>ܕܥܠ ܟܠ
+                     ܡܡܠܟ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܢܗܘܐ ܨܒܝܢܟ ܒܐܪܥܐ ܐܝܟ ܕܒܫܡܝܐ܆</hi>
+                     <lb n="11"/>܏ܗ ܐܝܟܢܐ ܕܫܡܝܐ ܡܫܝܢܐ ܡ̣ܢ ܦܠܝܓܘ̈ܬܐ ܘܚܪ̈ܝܢܐ ܘܟܦܘܪܘܬܐ܆ <lb n="12"
+                     />ܕܒܐܠܗܐ܆ ܡܥܠܝܐ ܨܒܝܢܟ: ܗܟܢܐ ܐܦ ܒܐܪܥܐ ܢܗܘܐ ܨܒܝܢܟ܆ <lb n="13"/>ܘܠܘ ܨܒܝܢܗ ܕܗ̇ܘ
+                     ܕܠܩܘܒܠܐ܆ ܒܗ̇ܝ ܕܥܠܡܐ ܟܠܗ ܒܝܫܘ <lb n="14"/>ܣܝܡ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܠܚܡܐ ܕܝܘܡܐ ܗܒܠܢ܆</hi> ܘܠܘ ܣܓܝܐܘܬܐ ܕܝܥܢܘܬܐ܆ <lb n="15"
+                     />ܕܠܟܪܣܐ ܡܫܡܢ ܐܣܘܛܐܝܬ܆ ܘܬܘܟܠܢܐ ܕܥܠ ܐܠܗܐ ܡܒܨܪ܆ <lb n="16"/>ܡܛܠ ܕܒܙܢܐ ܕܦܪ̈ܚܬܐ
+                     ܘܫܘܫ̈ܢܐ ܦܩܝܕܝܢܢ ܕܢܬܕܡܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܗܝ</hi>
+                     <pb n="184r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000373"/>
+                     <lb n="1"/><hi rend="emphasized">ܬܘܒ ܕܫܒܘܩ ܠܢ܆</hi> ܬܟܫܦܬܐ ܗ̇ܝ ܕܡܛܠ ܚܛܗ̈ܐ܆
+                     ܕܡܚܘܝܐ <lb n="2"/>ܕܝܠܕܝ̈ܬܐ ܚܫܢܢ܆ ܘܠܐ ܢܡܘܣܝ̈ܬܐ ܦܠܚܢܢ܀܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܘܬܘܒ</hi>
+                     <lb n="3"/><hi rend="emphasized">ܗܝ ܕܢܫܒܘܩ܆</hi> ܡܙܰܡܢܳܢܝܺܬܐ ܐܝܬܝܗ̇ ܠܗ̇ܝ ܕܢܫܬܒܩ
+                        <lb n="4"/>ܠܢ ܐܟܡܐ ܕܐܢܫ ܡ̣ܢ ܡܠܦܢ̈ܐ ܐܡ̣ܪ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܠܐ ܬܥܠܢ ܠܢܣܝܘܢܐ܆</hi>
+                     <lb n="5"/>ܡܚܝܠܘܬܗ ܕܟܝܢܢ ܡܘܕܥܐ ܗܕܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܐܠܐ ܦܨܢ ܡ̣ܢ ܒܝܫܐ ܀</hi>
+                     <lb n="6"/>ܡܛܠ ܕܠܝܬ ܒܢ ܚܝܠܐ ܕܢܪܥܝܘܗܝ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܡܛܠ ܕܕܝܠܟ ܗ̣ܝ</hi>
+                     <lb n="7"/><hi rend="emphasized">ܡܠܟܘܬܐ܆</hi> ܏ܗ ܕܠܐ ܡܬܦܠܚ̣ܬ ܐܝܟ ܡܠܟ̈ܐ ܘܥܠܗܕܐ
+                     ܠܐ ܥ̇ܒܪܐ <lb n="8"/>ܡܠܟܘܬܐ ܕܝܠܟ ܫܡܝܢܝܬܐ܆ ܡܛܠ ܕܠܐ ܡ̇ܐܬ ܡܠܟܐ ܫܡܝܢܐ܀</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="9"/><hi rend="emphasized">ܘܚܝܠܐ ܬܘܒ ܬܫܒܘܚܬܐ܀</hi> ܚܝܠܐ ܒܗ̇ܝ ܕܟܠܗܘܢ ܚܝ̈ܠܐ
+                     ܕܚܝܠܟ <lb n="10"/>ܛܥܝܢ ܠܗܘܢ܆ ܕܬܫܒܚ̈ܬܐ ܕܥܠ̈ܝܐ ܕܬܚܬܝ̈ܐ ܠܟ ܡܬܩܪ̈ܒܢ܆ <lb n="11"
+                     />ܠܥܠܡܥܠܡܝܢ܀</ab>
+               </div>
+            </div>
+            <div type="section" n="Another Commentary">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܦܘܫܩܐ ܐܚܪܢܐ</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܠܐ ܙܕܩ ܕܢܬܒܨܪ ܡ̣ܢ <lb n="12"/>ܛܒ̈ܥܐ ܕܦܘܪܫܢܐ܆ ܐܡܬܝ ܕܣ̇ܠܩܝܢ ܠܡܕܒܚܐ܆ ܐܝܢ ܬܘܣܦܬܐ
+                        <lb n="13"/>ܡܩܒܠܝܢ ܐܝܟ ܙܕܩܐ܆ ܥܕܡܐ ܕܡܬܪܝܡܐ ܐܢܢܦܘܪܐ ܡܢܗܘܢ <lb n="14"/>ܕܪ̈ܐܙܐ܆
+                     ܘܒܬܪܟܢ ܬܘܒ ܠܐ ܡܬܬܘܣܦ ܥܠܝܗܘܢ܆ ܛܘܦܣܐ܆ <lb n="15"/>ܕܟܠ ܒܡܝܐ ܕܐܝܬܘܗܝ ܗܘܐ ܡܫܝܚܐ
+                     ܒܩܒܪܐ܆ ܠܐ ܐܬܡܢܝܘ ܠܗ ܝܘܡܐ <lb n="16"/>ܘܩܕܡܝܐ ܘܕܬܪ̈ܝܢ ܘܕܬܠ̈ܬܐ܆ ܒܬܪܟܢ ܕܩ̣ܡ ܡ̣ܢ
+                     ܩܒܪܐ ܘܗ̇ܝ <pb n="184v"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000374"/>
+                     <lb n="1"/>ܟܐܦܐ ܕܐܬܬܪܝܡܬ܆ ܕܐܚܝܕܐ܆ ܘܡܝܐ ܕܐܢܢܦܘܪܐ܆ ܕܠܐ ܬܘܒ <lb n="2"/>ܐܬܬܘܣܦ ܥܠ
+                     ܡܢܝܢܐ ܕܝܘܡ̈ܬܐ܀</ab>
+               </div>
+            </div>
+            <div type="section" n="The Commentary of Mor Jacob">
+               <div type="subsection">
+                  <ab><hi rend="emphasized">ܦܘܫܩܐ ܕܡܪܝ ܝܥܩܘܒ:</hi></ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <lb n="3"/>ܡܗܝܡܢܝܢܢ ܒܐܒܐ ܘܒܒܪܐ ܘܒܪܘܚܐ ܩܕܝܫܐ܆ ܩܢܘܡ̈ܐ ܬܠܬܐ܀ ܟܝܢܐ <lb n="4"/>ܕܝܢ
+                     ܚܕ܀ ܐܠܗܘܬܐ ܕܝܢ ܚܕܐ܀ ܐܝܬܝܐ ܕܝܢ ܚܕ܀ ܐܝܬܘܬܐ <lb n="5"/>ܕܝܢ ܚܕܐ܀</ab>
+               </div>
+            </div>
+            <div type="section" n="On Priesthood">
+               <div type="subsection">
+                  <ab>ܥܠ ܟܗܢܘܬܐ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܢܦܫܗ ܓܝܪ ܕܟܗܢܐ ܝܬܝܪ ܡ̣ܢ <lb n="6"/>ܙܠܝܩܘ̈ܗܝ ܕܫܡܫܐ ܙ̇ܕܩ ܠܗ̇ ܕܬܗܘܐ ܡܲܦܪܓܐ܆ ܕܕܠܡܐ
+                        <lb n="7"/>ܬܫܒܩܝܘܗܝ ܪܘܚܐ ܕܩܘܕܫܐ܆ ܘܢܫܬܘܚܕ ܡܢ ܐܝܢܐ ܐܠܐ ܕܢܗܘܐ <lb n="8"/>ܡ̣ܨܐ
+                     ܕܢܐܡ̣ܪ܆ ܕܚܲܝ ܐܢܐ܆ ܠܐ ܗܕܐ ܐܠܐ ܚܲܝ ܒܝ ܡܫܝܚܐ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܟܡܐ <lb n="9"/>ܢܛܘܪܘܬܐ܀ ܘܙܗܝܪܘܬܐ ܣܒܪ ܐܢܐ ܕܡܬܒܥܝܐ ܠܟܗܢܐ܆ ܡܫܟܚ <lb n="10"/>ܢܥܕܐ
+                     ܢܦܫܗ ܡܢ ܟܠ ܛܘܠܫܐ܆ ܘܕܢܛܪ ܫܘܦܪܗ ܪܘܚܢܝܐ܆ <lb n="11"/>ܕܠܐ ܢܟܝܢ܆ ܐܦ ܓܝܪ ܝܬܝܪ ܡ̣ܢ
+                     ܟܠܗܘܢ ܒܢܝܢܫ̈ܐ ܙܕܩ ܠܗ <lb n="12"/>ܠܟܗܢܐ ܕܢܗܘܐ ܕܟܶܐ܆ ܐܢܐ ܓܝܪ ܐܡ̇ܪ ܐܢܐ ܕܐܦܠܐ ܓܠܝܘܬ
+                     ܐܦ̈ܐ <lb n="13"/>ܕܡܘܫܐ ܘܕܐܠܝܐ ܣܦܩܐ ܠܟܠܗ̇ ܗܕܐ ܡܘܬܐ܆ ܐܝܟ ܗ̇ܘ ܓܝܪ <lb n="14"/>ܕܟܠܗ
+                     ܥܡܐ ܠܗ ܡܓܥ̰ܠ܆ ܘܐܝܬܘܗܝ ܐܒܐ ܕܟܠܢܫ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>ܗܟܢܐ ܠܘܬ <lb n="15"/>ܐܠܗܐ ܡܬܩܪܒ܆ ܕܢܕܥܟܘܢ ܩܪ̈ܒܐ ܘܫܓܘܫܝ̈ܐ ܡ̣ܢ ܟܠܗ ܐܪܥܐ܆ <lb
+                        n="16"/>ܘܢܗܘܐ ܫܠܝܐ ܘܟܗܝܢܘܬܐ܆ ܢܬܪ̈ܚܩܢ ܥܩ̈ܬܐ ܡ̣ܢ ܟܠܗܘܢ ܒܢܝܢܫ̈ܐ܆</ab>
+               </div>
+               <div type="subsection">
+                  <ab>
+                     <pb n="185r"
+                        facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000375"/>
+                     <lb n="1"/>ܡܐ ܕܝܢ ܕܐܦ ܠܪܘܚܐ ܩܕܝܫܐ ܩܪܐ܆ ܘܢܫܡܫ ܗ̇ܝ ܕܒܚܬܐ <lb n="2"/>ܕܚܝܠܬܐ܆ ܘܩܪܒ
+                     ܒܐܝܕܘ̈ܗܝ ܠܗ̇ܘ ܡܪܐ ܕܟܠܗܝܢ ܒܪ̈ܝܬܐ܆ ܟܡܐ <lb n="3"/>ܙܗܝܘܬܐ܆ ܘܩܕܝܫܘܬܐ ܡܢܗ ܬܒ̇ܥ
+                     ܡܠܐܟ̈ܐ ܓܝܪ ܒܗ̇ܘ ܥܕܢ܆ <lb n="4"/>ܥܠ ܓܢ̣ܒ ܟܗܢ̈ܐ ܩܝܡܝܢ܆ ܘܡ̣ܢ ܟܢܫ̈ܐ ܫܡܝܢ̈ܐ ܡܬܡܠܐ
+                     ܟܠܗ <lb n="5"/>ܡܕܒܚܐ܆ ܟܕ ܕܳܝܠܝܢ ܘܢܚ̇ܬܝܢ ܠܐܝܩܪܗ ܕܗܘ ܕܢܟܝܣ ܘܪܡܐ <lb n="6"/>ܠܐ ܗܘܐ
+                     ܓܝܪ ܕܗܘܐ ܙܗܐ ܒܠܚܘܕ܆ ܐܠܐ ܕܢܗܘܐ ܚܟܝܡ ܘܡܕܪܫ ܒܟܠ <lb n="7"/>ܡܕܡ܆ ܘܠܗ̇ܘ ܕܩܕܡ ܐܠܗܐ
+                     ܩ̇ܐܡ ܒܪܝܫ ܥܡܐ ܡܟܗܢ ܕܝܘܚܢܢ܆ <lb n="8"/>ܐܢܐ ܓܝܪ ܠܐ ܡܗܝܡܢ ܐܢܐ܆ ܕܡܫܟܚ ܕܢܐܚܐ ܟܗܢܐ
+                     ܕܠܐ ܥܡܠ ܥܠ <lb n="9"/>ܐܦ̈ܝ ܚܝ̈ܐ ܕܐܚܪ̈ܢܐ܆ ܐܦܠܐ ܓܝܪ ܗ̇ܘ ܕܘܝܐ ܕܢܣ̰ܒ ܟܟܪܐ܆ ܡܛܠ ܕܠܐ
+                        <lb n="10"/>ܒܨܪ ܡܢܗ̇ ܐܬܗܢܝ܆ ܐܠܐ ܥܠ ܕܠܐ ܐܘܣܦ ܥܠܝܗ̇ ܘܥܦܦܗ̇ ܐܒ̣ܕ܀</ab>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
