@@ -1,0 +1,8 @@
+.logo-round { border-radius: 50%; }
+#wrapper-hero-content-sub {
+	background-color: #efdac5;
+	text-align: center;
+	max-width: 1199px;
+	margin: 0 auto;
+}
+.border-top-brown { border-top: 5px solid #8a423f; }
