@@ -5,13 +5,11 @@ Ephrem Aboud Ishac
 ## Project Researchers
 Thomas Klampfl (DH)
 
-Ivan Petrov
 
 Sophia Pouchkova
 ## Project Collaborators
-Ammar Awad
 
-Meenu Rabecca
+
 ## Technical Details
 ### Naming Convention
 For directories: ```name-of-liturgical-text-library-shelfmark```
