@@ -6,7 +6,6 @@ Ephrem Aboud Ishac
 Thomas Klampfl (DH)
 
 
-Sophia Pouchkova
 ## Project Collaborators
 
 
