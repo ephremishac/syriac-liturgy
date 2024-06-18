@@ -7,6 +7,7 @@ Thomas Klampfl (DH)
 
 
 ## Project Collaborators
+Samir Zakko
 
 
 ## Technical Details
