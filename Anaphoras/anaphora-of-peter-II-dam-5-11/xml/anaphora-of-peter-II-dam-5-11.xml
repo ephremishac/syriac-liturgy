@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anaphora of Peter II</title>
+            <respStmt>
+               <resp>transcribed by</resp>
+               <name>Ephrem Aboud Ishac</name>
+               <note type="project-number">Project P 36649</note>
+               <note type="project-name">Identifying Scattered Puzzles of Syriac Liturgical Manuscripts and Fragments</note>
+            </respStmt>
+            <funder>
+               <orgName><ref target="https://www.fwf.ac.at/de/">FWF Österreichischer Wissenschaftsfond</ref></orgName>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>IMAFO</publisher>
+            <date>14.07.2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Available under the
+                  Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Damascus</repository>
+                  <idno>Dam 5/11 (SOP 143)</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="transcription" xml:lang="syc">
+            <ab type="page" n="25r">
+               <seg type="liturgical-section" n="Prayer Before Peace" xml:id="dam-5-11-1">
+                  <pb n="25r"/>
+                  <lb n="1"/><hi rend="emphasized">ܬܘܒ ܐܢܢܐܦܘܪܐ ܙܥܘܪܬܐ ܕܫܡܥܘܢ ܟܐܦܐ ܪܝܫܐ ܕܫܠܝ̈ܚܐ</hi>
+                  <lb n="2"/>ܩܕܡܝܐ <hi rend="emphasized">ܨܠܘܬܐ ܕܩܕܡ ܫܠܡܐ</hi> ܐܠܗܐ ܕܫܠܡܐ 
+                  <lb n="3"/>ܘܡܪܐ ܕܫܝܢܐ ܡܪܝܐ. ܗܒ ܠܟܠܢ ܘܐܫܘܐ ܠܢ 
+                  <lb n="4"/>ܕܒܢܫܡܬܐ ܕܠܐ ܦܣܝܩܐ ܡܢ ܪܚܡܬܟ. ܢܥܲܦܩ 
+                  <lb n="5"/>ܠܚ̈ܕܕܐ ܒܚܘܒܐ ܕܠܐ ܢܟܠܐ. ܘܢܲܣܩ ܠܟ ܫܘܒܚܐ 
+                  <lb n="6"/>ܘܬܘܕܝܬܐ. ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ 
+                  <lb n="7"/>ܕܝܠܟ ܩܕܝܫ ܒܟܠ. ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ
+                  <lb n="8"/><hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܬܠ ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܫܘܐ ܠܢ <hi rend="emphasized">܏ܡܫܡ</hi> 
+                  <lb n="9"/>ܡܢ ܒܬܪ ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ <hi rend="emphasized">ܟܗܢܐ</hi> ܠܟ ܘܩܕܡܝܟ ܡܪܝܐ. 
+                  <lb n="10"/>ܡܪܟܢܝܢܢ ܨܘܪ̈ܐ ܕܢܦ̈ܫܬܢ. ܐܝܟܢܐ ܕܢܩܲܒܠ ܡܢܟ 
+                  <lb n="11"/>ܒܘܪ̈ܟܬܐ. ܘܣܘܝ̇ܥܐ ܠܡܚܝܠܘܬܢ. ܡܛܠ ܕܥܕܘܪܐ 
+                  <lb n="12"/>ܘܒܝܬܓܘܣܐ ܕܟܠ ܐܝܬܝܟ. ܘܠܟ ܬܫܒܘܚܬܐ ܡܣܩܝܢܢ. 
+                  <lb n="13"/>ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫ ܒܟܠ. 
+                  <lb n="14"/>ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܢܬ ܐܦ ܗܫܐ ܡܪܝܐ ܐܢܗܪ ܦܪܨܘܦܟ 
+                  <lb n="15"/>ܥܠܝܢ ܘܦܪܘܩܝܢ ܘܠܢ ܟܠܗܘܢ ܒܥܠ̈ܕܒܒܐ ܕܣ̇ܢܝܢ 
+                  <lb n="16"/>ܠܢ. ܘܠܚܝ ܘܫܒܘܩ ܟܠܗܝܢ ܠܐ ܝܕܥܬܢ܆  ܕܢܣܩ 
+               </seg>
+            </ab>
+            <ab type="page" n="25v">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-2" prev="#dam-5-11-1">
+                  <pb n="25v"/>
+                  <lb n="1"/>ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܝܚܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ 
+                  <lb n="2"/>ܕܝܠܟ ܩܕܝܫ ܒܟܠ.ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܩܘܡ 
+                  <lb n="3"/>ܫܦܝܪ <hi rend="emphasized">ܥܡܐ</hi> ܪ̈ܚܡܐ ܫܠܡܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܚܘܒܐ ܕܐܠܗܐ ܐܒܐ 
+                  <lb n="4"/><hi rend="emphasized">ܥܡܐ</hi> ܥܡ ܪܘܚܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܠܥܠ ܢܗܘܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܐܝܬܝܗܘܢ <hi rend="emphasized">ܟܗܢܐ</hi>
+                  <lb n="5"/>ܢܘܕܐ ܠܡܪܐ <hi rend="emphasized">ܥܡܐ</hi> ܫܘܐ ܘܙܕܩ <hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܫܪܝܪܐܝܬ 
+                  <lb n="6"/>ܫ̇ܘܐ ܘܙܕܩ. ܕܠܟ ܢܫܒܚ ܘܢܪܡܪܡ ܥܒܘܕܐ 
+                  <lb n="7"/>ܕܟܠܗܝܢ ܒܪ̈ܝܬܐ ܕܥܠ̈ܝܐ ܘܕܬܚ̈ܬܝܐ <hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> 
+                  <lb n="8"/>ܡܫܒܚܝܢܢ ܠܟ ܡܪܝܐ. ܥܡܗܘܢ ܕܡܠܐܟ̈ܐ. ܟܕ 
+                  <lb n="9"/>ܒܒ̈ܢܬ ܩ̈ܠܐ ܕܬܫܒܘܚܬܐ. ܡܙܥܩܝܢܢ ܘܐܡܪܝܢܢ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="10"/>ܩܕܝܫ ܩܕܝܫ <hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܩܕܝܫܐ ܐܝܬܝܟ ܘܣܓܝ 
+                  <lb n="11"/>ܪ̈ܚܡܐ ܡܪܝܐ. ܡܛܠ ܕܒܪܚܡܬ݀ ܐܢܫܘܬܟ ܫܲܕܪܬ 
+                  <lb n="12"/>ܒܪܐ ܕܝܠܟ ܠܥܠܡܐ. ܘܡܢ ܒܬܘܠܬܐ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ 
+                  <lb n="13"/>ܐܬܒܲܣܪ ܐܝܟ ܕܠܦܘܪܩܢܢ <hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܘܟܕ ܨܒ̣ܐ 
+                  <lb n="14"/>ܕܢܛܥܲܡ ܠܡܘܬܐ ܕܚܠܦܝܢ. ܘܠܦܨܚܐ ܕܒܝܬ 
+                  <lb n="15"/>ܪܡܫܐ ܢܫܲܡܠܐ. ܠܚܡܐ  ܢܣܒ ܒܐܝ̈ܕܘܗܝ ܀ 
+                  <lb n="16"/>ܘܒܲܪܟ ܀ ܘܩܲܕܫ ܀ ܩܨܐ. ܘܝܗ̣ܒ ܠܣܕܪܐ ܕܫܠܝ̈ܚܐ 
+                  <lb n="17"/>ܘܐܡ̣ܪ. ܣܒܘ ܐܟܘܠܘ ܡܢܗ ܠܫܘܒܩܢܐ ܕܚ̈ܛܗܐ 
+                  <lb n="18"/>ܘܠܚ̈ܝܐ ܕܠܥܠܡ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܗܟܢܐ ܘܟܣܐ ܟܕ 
+               </seg>
+            </ab>
+            <ab type="page" n="26r">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-3" prev="#dam-5-11-2">
+                  <pb n="26r"/>
+                  <lb n="1"/>ܡܲܙܓ ܡܢ ܚܡܪܐ ܘܡܝ̈ܐ ܘܐܘܕܝ ܀ ܒܲܪܟ 
+                  <lb n="2"/>܀ ܩܲܕܫ ܀ ܘܝܗ̣ܒ ܠܫ̈ܠܝܚܐ ܩܕܝ̈ܫܐ ܘܐܡ̣ܪ. 
+                  <lb n="3"/>ܣ̣ܒܘ ܐܫܬܘ  ܡܢܗ ܟܠܟܘܢ. ܠܚܘܣܝܐ ܕܚܘ̈ܒܐ 
+                  <lb n="4"/>ܘܠܚܝ̈ܐ ܕܠܥܠܡ. <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܗܕܐ ܦܲܩܕ ܘܙܗܪ 
+                  <lb n="5"/>ܐܢܘܢ ܕܟܠ ܐܡܬܝ ܕܪ̈ܐܙܐ ܗܠܝܢ ܡܫܲܡܠܝܢ ܐܢܬܘܢ 
+                  <lb n="6"/>ܠܡܘܬܝ ܘܩܝܡܬܝ ܡܬܥܗܕܝܬܘܢ ܥܕܡܐ 
+                  <lb n="7"/>ܕܐܬܐ ܐܢܐ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܬܟ ܡܪܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܟܕ ܠܡܐܬܝܬܟ 
+                  <lb n="8"/>ܦܪܘܩܝܬܐ. ܘܠܗ̇ܝ ܬܪܝܢܬܐ ܡܥܗܕܝܢܢ ܡܪܝܐ. 
+                  <lb n="9"/>ܬܫܒܘܚܬܐ ܥܡ ܬܚܢܢܬܐ ܠܡܪܘܬܟ ܡܩܪܒܝܢܢ. ܐܝܟܢܐ 
+                  <lb n="10"/>ܕܒܗ̃ܘ ܝܘܡܐ ܕܚܝܠܐ ܘܥܙܝܙܐ ܕܕܝܢܐ. ܕܒܗ ܒܘܚܪܢܐ 
+                  <lb n="11"/>ܕܙܕܝ̈ܩܐ ܘܕܚܛܝ̈ܐ ܥ̇ܒܕ ܐܢܬ. ܠܐ ܠܦܘܬ ܚܛܗ̈ܝܢ 
+                  <lb n="12"/>ܬܲܫܠܸܡܲܢ ܠܢܘܪܐ ܘܠܓܘܙܠܬܐ ܕܒܟܝܐ ܘܐܸܠܝܵܐ. 
+                  <lb n="13"/>ܘܠܐ ܢܬܛܲܪܦ ܘܢܫܬܢܲܩ ܡܛܠ ܒܝ̈ܫܬܐ ܘܣܟ̈ܠܘܬܐ 
+                  <lb n="14"/>ܕܝܠܢ. ܐܠܐ ܚܘܣ ܡܪܝܐ ܘܪܚܡ ܥܠܝܢ. ܘܐܗܦܟ ܐܦ̈ܝܟ 
+                  <lb n="15"/>ܡܢ ܚܛܗ̈ܝܢ ܘܥܕܪܝܢ ܕܡܛܠ ܗܕܐ ܥܕܬܟ ܡܬܟܫܦܐ 
+                  <lb n="16"/>ܠܟ. ܘܒܐܝ̈ܕܝܟ ܘܠܐܒܘܟ ܟܕ ܐܡܪܐ <hi rend="emphasized">ܥܡܐ</hi> ܪܚܡ ܥܠܝܢ 
+                  <lb n="17"/><hi rend="emphasized">ܟܗܢܐ</hi> ܘܐܦܚܢܢ ܡܪܝ <hi rend="emphasized">ܥܡܐ</hi> ܠܟ ܡܫܒܚܝܢܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܡܐ ܕܚܝܠܐ ܗܝ
+                  <lb n="18"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ ܩܪܝܵܬܐ ܕܪܘܚܐ ܩܕܝܫܐ</hi> ܪ̈ܚܡܥܠܝܢ ܡܪܝܐ 
+               </seg>
+            </ab>
+            <ab type="page" n="26v">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-4" prev="#dam-5-11-3">
+                  <pb n="26v"/>
+                  <lb n="1"/>ܪ̈ܚܡ ܥܠܝܢ. ܘܫܲܕܪ ܥܠܝܢ ܘܥܠ ܩܘܪ̈ܒܢܐ ܪ̈ܐܙܝܐ ܗܠܝܢ. 
+                  <lb n="2"/>ܪܘܚܟ ܩܕܝܫܐ. ܘܢܩܲܕܫ ܐܢܘܢ. ܘܐܦܠܢ ܢܥܲܕܪ ܘܢܚܲܣܐ.
+                  <lb n="3"/><hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܥܢܝܢܝ ܡܪܝܐ <hi rend="emphasized">ܥܡܐ</hi> ܩܘܪܝܠܠܝܣܘܢ <hi rend="emphasized">ܟܗܢܐ</hi>
+                  <lb n="4"/>ܐܝܟܢܐ ܕܒܡܓܢܢܘܬܗ ܢܥܒܕ ܠܠܚܡܐ ܗܢܐ ܀ 
+                  <lb n="5"/>ܦܓܪܐ ܀ ܕܡܫܝܚܐ ܐܠܗܐ ܕܝܠܢ܀ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ
+                  <lb n="6"/><hi rend="emphasized">ܟܗܢܐ</hi> ܘܠܟܣܐ ܗܢܐ ܀ ܕܡܐ ܕܝܠܗ܀ ܕܡܫܝܚܐ ܐܠܗܐ
+                  <lb n="7"/>ܕܝܠܢ ܀ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܟܢܐ ܕܢܗܘܘܢ ܠܐܝܠܝܢ 
+                  <lb n="8"/>ܕܒܗܘܢ ܡܫܬܘܬܦܝܢ ܡܕܟ̈ܝܢܐ ܕܡܢ ܟܘ̈ܬܡܬܐ. 
+                  <lb n="9"/>ܘܠܫܘܒܩܢܐ ܕܚ̈ܛܗܐ ܘܠܚܝ̈ܐ ܕܠܥܠܡ ܥܠܡܝܢ. 
+                  <lb n="10"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܩܲܒܠ ܦܝ̇ܣܐ ܕܝܠܢ ܡܪܝܐ. ܘܫܲܟܢ 
+                  <lb n="11"/>ܫܝܢܐ ܠܥܡܟ. ܘܫܠܡܐ ܠܡܪܥܝܬܟ. ܘܢܲܛܪ ܠܪ̈ܥܘܬܐ 
+                  <lb n="12"/>ܫܪ̈ܝܪܐ. ܥܡ ܟܗ̈ܢܐ ܘܡܫܡ̈ܫܢܐ. ܘܩܠܝܪܘܣ ܠܗ ܕܥܕܬܟ 
+                  <lb n="13"/>ܥܕܪ <hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܩܝܘ̈ܡܐ ܚܝ̈ܠܬܢܐ ܡܪܝܐ ܣܝܡ ܐܢܘܢ. 
+                  <lb n="14"/>ܘܒܥܘܕܪ̈ܢܝܟ ܨܒܬ ܐܢܘܢ. ܐܝܟܢܐ ܕܒܲܥܝ̈ܐ ܘܡܦܝ̈ܣܢܐ 
+                  <lb n="15"/>ܚܠܦܝܢ ܢܗܘܘܢ. ܕܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܝܚܝܕܝܐ 
+                  <lb n="16"/>ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫ ܒܟܠ. ܘܛܒܐ <hi rend="emphasized">ܟܗܢܐ ܟܕ</hi> 
+                  <lb n="17"/><hi rend="emphasized">ܓܗܝܢ</hi> ܠܡܬܕܟܪܘ ܐܫܘܐ ܡܪܝܐ. ܠܗܢܘܢ ܕܦܲܩܕܘ ܠܢ.
+                  <lb n="18"/>ܕܢܬܥܗܕ ܐܢܘܢ. ܘܠܐܝܠܝܢ ܕܨܒܘ ܕܢܩܪܒܘܢ ܘܠܐ ܐܬܡܨܝܘ 
+               </seg>
+            </ab>
+            <ab type="page" n="27r">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-5" prev="#dam-5-11-4">
+                  <pb n="27r"/>
+                  <lb n="1"/><hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܐܬܕܟܪ ܡܪܝܐ. ܘܠܡܥܕܪ̈ܢܐ ܕܥܕܬܟ ܩܕܝܫܬܐ. 
+                  <lb n="2"/>ܗܘܝ ܠܗܘܢ ܣܬܪܐ ܘܒܝܬܓܘܣܐ. ܘܦܲܨܐ ܐܢܘܢ ܡܢ 
+                  <lb n="3"/>ܡܟܝܢܘܬܐ ܕܫ̈ܐܕܐ ܘܕܒܢܝ̈ܢܫܐ ܒܝ̈ܫܐ. ܡܛܠ ܕܦܪܘܩܐ 
+                  <lb n="4"/>ܕܟܠ ܐܝܬܝܟ. ܘܠܟ ܫܘܒܚܐ ܡܣܩܝܢܢ. ܘܠܝܚܝܕܝܐ ܒܪܐ 
+                  <lb n="5"/>ܕܝܠܟ. ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫ ܒܟܠ. ܘܛܒܐ. <hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> 
+                  <lb n="6"/>ܐܬܕܟܪ ܡܪܝܐ ܠܡܠ̈ܟܐ ܡܗܝܡ̈ܢܐ. ܘܐܪܡܐ ܒܠܒ̈ܘܬܗܘܢ 
+                  <lb n="7"/>ܡ̈ܫܝܢܵܬܐ ܥܠ ܥܡܐ ܕܝܠܟ <hi rend="emphasized">ܬܠܐ ܩܠܗ</hi> ܫܲܝܢ ܡܪܝܐ 
+                  <lb n="8"/>ܠܬܪ̈ܥܝܬܐ ܕܐܝܠܝܢ ܕܡܲܡܠܟܝܢ ܥܠܝܢ. ܘܡܢ ܐܝܕܐ 
+                  <lb n="9"/>ܕܚܲܣܡ̈ܐ ܘܒܥܠ̈ܕܒܒܐ ܫܲܘܙܒܝܢ. ܘܢܲܣܩ ܠܟ ܫܘܒܚܐ 
+                  <lb n="10"/>ܘܬܘܕܝܬܐ. ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫ
+                  <lb n="11"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܠܡܬܕܟܪܘ ܐܫܘܐ ܡܪܝܐ. ܠܒܬܘܠܬܐ 
+                  <lb n="12"/>ܒܟܠܙܒܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ. ܘܠܫܠܝ̈ܚܐ ܘܠܢܒ̈ܝܐ
+                  <lb n="13"/>ܘܣܗ̈ܕܐ ܘܡܘ̈ܕܝܢܐ ܘܫܪܟܐ ܕܩܕܝ̈ܫܐ. ܘܠܢ ܥܲܕܪ ܒܨ̈ܠܘܬܗܘܢ
+                  <lb n="14"/><hi rend="emphasized">ܬܠܐ ܩܠܗ</hi> ܘܒܨܠ̈ܘܬܐ ܘܬܟܫ̈ܦܬܐ ܕܝܠܗܘܢ ܡܪܝܐ ܥܕܪܝܢ. 
+                  <lb n="15"/>ܘܠܡܢܬܐ ܘܦܸܣܳܐ ܕܥܡܗܘܢ ܐܫܘܐ ܠܢ. ܘܒܝܢܬܗܘܢ 
+                  <lb n="16"/>ܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ
+                  <lb n="17"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܐܬܕܟܪ ܡܪܝܐ ܘܠܗܢܘܢ ܕܒܒܝܬ ܩܕܝ̈ܫܐ 
+                  <lb n="18"/>ܩܕܡܘ ܐܬܬܢܝܚܘ. ܐܒܗ̈ܬܐ ܘܡܠ̈ܦܢܐ ܐܘܪܬܘܕܘܟܣܘ. 
+               </seg>
+            </ab>
+            <ab type="page" n="27v">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-6" prev="#dam-5-11-5">
+                  <pb n="27v"/>
+                  <lb n="1"/>ܐܝܟܢܐ ܕܒܨܠ̈ܘܬܗܘܢ ܢܬܦܲܨܐ ܡܢ ܢܟ̈ܝܢܘܗܝ ܘܗ̇ܘ 
+                  <lb n="2"/>ܕܕܠܩܘܒܠܐ ܘܕܐܢܫ̈ܐ ܒܝܫ̈ܐ <hi rend="emphasized">ܬܠܐ ܩܠܗ</hi> ܘܠܗܢܘܢ ܕܙܗܝܪܐܝܬ 
+                  <lb n="3"/>ܠܣܒܪܬܟ ܐܟܪܙܘ ܒܟܠܗ̇ ܡܬܥܡܪܢܝܬܐ. ܘܠܥܕܬܟ 
+                  <lb n="4"/>ܩܕܝܫܬܐ ܫܲܪܪܘ ܒܗܝܡܢܘܬܐ ܬܪܝܨܬ ܫܘܒܚܐ. ܐܬܕܟܪ ܡܪܝܐ. 
+                  <lb n="5"/>ܘܒܨܠ̈ܘܬܗܘܢ ܕܟ̈ܝܬܐ ܠܟܠܢ ܣܲܬܬ ܒܪܚܡܬܟ. ܘܠܟܠܗܘܢ
+                  <lb n="6"/>ܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ
+                  <lb n="7"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܥܒܕ ܡܪܝ ܒܝܕ ܕܒܚܐ ܗܢܐ ܕܡܢ ܐܝ̈ܕܝܢ 
+                  <lb n="8"/>ܚ̈ܛܝܐ ܡܬܩܲܪܒ ܠܟ.  ܕܘܟܪܢܐ ܛܒܐ ܠܐܒܗ̈ܝܢ ܘܐܚ̈ܝܢ 
+                  <lb n="9"/>ܘܪ̈ܒܢܝܢ ܘܟܠܗܘܢ ܥܢܝ̈ܕܝܢ ܡܗܝ̈ܡܢܐ. ܕܗܪܟܐ ܘܕܒܟܠ 
+                  <lb n="10"/>ܐܬܪ <hi rend="emphasized">ܬܠܐ ܩܠܗ</hi> ܡܪܝܐ ܐܠܗܐ ܪ̈ܚܡ ܒܢܝ̈ܢܫܐ. ܒܥܘ̈ܒܐ 
+                  <lb n="11"/>ܐܒܪ̈ܗܡܝܐ ܐܫܪܐ. ܠܗܢܘܢ ܕܒܗܝܡܢܘܬܐ ܫܪܝܪܬܐ ܫܲܠܡܘ 
+                  <lb n="12"/>ܚܝ̈ܝܗܘܢ. ܟܕ ܡܲܥܒܪ ܐܢܬ ܘܫ̇ܒܩ ܐܢܬ ܡܬܥܲܒܪ̈ܢܘܬܐ 
+                  <lb n="13"/>ܠܐ ܢܡܘܣ̈ܝܘܬܐ ܕܝܠܢ ܘܕܝܠܗܘܢ. ܡܛܠ ܕܠܝܬ ܕܡܚܪܪ 
+                  <lb n="14"/>ܡܢ ܚܛܗ̈ܐ. ܐܠܐ ܐܢ ܦܪܘܩܢ ܝܫܘܥ ܡܫܝܚܐ. ܗܘ ܕܒܐܝ̈ܕܘܗܝ 
+                  <lb n="15"/>ܡܣܒܪܝܢܢ ܪ̈ܚܡܐ ܠܡܫܟܚܘ. ܕܡܛܠܬܗ ܐܦ ܠܢ 
+                  <lb n="16"/>ܘܠܗܘܢ ܐܢܝܚ <hi rend="emphasized">ܥܡܐ</hi> ܐܢܝܚ <hi rend="emphasized">ܟܗܢܐ ܟܕ ܦܫܝܛ</hi> ܚܲܣܐ ܘܫܒܘܩ
+                  <lb n="17"/>ܡܪܝܐ ܣܟ̈ܠܘܬܐ ܕܥܒ̈ܕܐ ܘܕܐܡ̈ܗܬܐ ܕܝܠܟ ܟܣ̈ܝܬܐ 
+                  <lb n="18"/>ܘܓ̈ܠܝܬܐ. ܟܕ ܡܲܫܘܙܒ ܐܢܬ ܠܢ ܡܢ ܒܗܬܬܐ ܕܩܕܡܝܟ. 
+               </seg>
+            </ab>
+            <ab type="page" n="28r">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-7" prev="#dam-5-11-6">
+                  <pb n="28r"/>
+                  <lb n="1"/>ܐܝܟܢܐ ܕܒܢ ܘܚܠܦܝܢ ܘܡܛܠܬܢ ܢܫܬܒܚ ܫܡܟ 
+                  <lb n="2"/>ܡܒܪܟܐ ܥܡ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ. ܘܪܘܚܟ ܩܕܝܫܐ. 
+                  <lb n="3"/><hi rend="emphasized">ܥܡܐ</hi> ܐܝܟܢܐ ܕܐ܏ܝܬܘ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ 
+                  <lb n="4"/><hi rend="emphasized">ܟܗܢܐ</hi> ܢܗܘܘܢ ܪ̈ܚܡܘܗܝ ܕܐܠܗܐ ܪܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܘܥܡ ܪܘܚܐ 
+                  <lb n="5"/><hi rend="emphasized">܏ܡܫܡ</hi> ܬܘܒ ܘܬܘܒ <hi rend="emphasized">ܘܟܗܢܐ</hi> ܩ̇ܨܐ ܘܪܫ̇ܡ <hi rend="emphasized">ܟܗܢܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi> 
+                  <lb n="6"/>ܡܬܟܲܫܦܝܢܢ ܠܟ ܐܠܗܐ ܘܐܒܐ. ܡܒܲܝܐܢܐ ܘܡܲܠܒܢܐ 
+                  <lb n="7"/>ܕܡܚܝܠܘܬܢ. ܕܰܟܳܐ ܠܢ ܡܢ ܟܠ ܛܘܠܫܐ ܕܥܘܠܐ 
+                  <lb n="8"/>ܘܕܫܟܝܪ̈ܬܐ. ܘܩܲܒܠ ܩܘܪ̈ܒܢܐ ܗܠܝܢ ܕܚܠܦ 
+                  <lb n="9"/>ܚܛܗ̈ܝܢ ܡܩܪܒܝܢܢ ܠܟ. ܐܝܟܢܐ ܕܒܚܕܐ ܫܘܝܘܬ 
+                  <lb n="10"/>ܢܫܲܡܬܐ. ܢܙܥܩ ܠܘܬܟ ܘܢܨܠܐ ܘܢܐܡܪ ܐܒܘܢ ܕܒܫܡܝܐ 
+                  <lb n="11"/><hi rend="emphasized">ܥܡܐ</hi> ܢܬܩܕܫ ܫܡܟ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܢ ܐܠܗܢ ܒܣܝܡܐ. ܠܐ 
+                  <lb n="12"/>ܬܥܠܢ ܠܒܘܚܪܢܐ ܕܢܣ̈ܝܘܢܐ. ܡܛܠ ܕܠܐ ܡܨܝܢܢ 
+                  <lb n="13"/>ܚܲܝܠܐ ܕܢܣܝܒܪ. ܐܠܐ ܐܝܟ ܣܓܝܐܘܬ ܪ̈ܚܡܝܟ ܫܲܘܙܒ 
+                  <lb n="14"/>ܘܦܲܨܐ ܠܢ ܡܢ ܟܠܗܝܢ ܡܚ̈ܘܬܐ ܕܪܘܓܙܐ. ܡܛܠ ܕܕܝܠܟ 
+                  <lb n="15"/>ܐܝܬܘܗܝ ܐܘܚܕܢܐ ܘܡܠܟܘܬܐ. ܘܠܟ ܫܘܒܚܐ ܡܣܩܝܢܢ. 
+                  <lb n="16"/>ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ 
+                  <lb n="17"/>ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">܏ܡܫܡ</hi> ܩܕܡ ܡܪܝܐ ܪ̈ܝܫܝܢ ܢܪ̈ܟܢ
+                  <lb n="18"/>ܥܡܐ ܩܕܡܝܟ ܟܗܢܐ ܒܲܪܟ ܡܪܝܐ ܠܥܒ̈ܕܝܟ ܘܠܐܡ̈ܗܬܟ 
+               </seg>
+            </ab>
+            <ab type="page" n="28v">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-8" prev="#dam-5-11-7">
+                  <pb n="28v"/>
+                  <lb n="1"/>ܕܐܪܟܢܘ ܨܘܪ̈ܝܗܘܢ ܩܕܡܝܟ. ܘܠܟ ܡܬܟܫܦܝܢ: ܐܫܘܐ 
+                  <lb n="2"/>ܐܢܘܢ ܠܪ̈ܚܡܝܟ. ܘܠܚܘܣܝܐ ܕܚ̈ܛܗܐ ܕܝܠܢ ܘܕܝܠܗܘܢ. 
+                  <lb n="3"/>ܡܛܠ ܕܣܓܝ ܪ̈ܚܡܐ ܘܡܨܐ ܟܠ ܐܝܬܝܟ. ܘܠܟ ܫܘܒܚܐ 
+                  <lb n="4"/>ܡܣܩܝܢܢ. ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ
+                  <lb n="5"/><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܬܗܘܐ 
+                  <lb n="6"/>ܛܝܒܘܬܐ ܕܬܠܝܬܝܘܬܐ <hi rend="emphasized">ܥܡܐ</hi> ܥܡ ܪܘܚܐ <hi rend="emphasized">܏ܡܫܡ</hi> ܒܕܚܠܬܐ 
+                  <lb n="7"/>ܢܚܘܪ ܟܗܢܐ ܩܘܕܫ̈ܐ ܠܩܕܝܫ̈ܐ <hi rend="emphasized">ܥܡܐ</hi> ܚܕ ܐܒܐ ܩܕܝܫܐ 
+                  <lb n="8"/><hi rend="emphasized">ܟܗܢܐ</hi> ܚܕ ܐܒܐ ܩܕܝܫܐ ܥܡܢ ܐܡܝܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܩܘܡ ܫܦܝܪ
+                  <lb n="9"/>ܟܠܢ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܕܝܢܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܡܘܕܝܢܢ ܠܟ ܡܪܝܐ ܐܠܗܐ 
+                  <lb n="10"/>ܘܡܩܒܠܝܢܢ ܛܝܒܘܬܟ. ܥܠ ܐܦ̈ܝ ܡܘܗܒܬܐ ܗܕܐ 
+                  <lb n="11"/>ܕܝܗܒܬ ܠܢ. ܐܦܠܐ ܫܘܝܢܢ. ܠܐ ܬܣܝܡ ܥܠܝܢ ܒܗܬܬܐ 
+                  <lb n="12"/>ܕܚ̈ܛܗܝܢ. ܐܠܐ ܥܲܕܪ ܘܦܪܘܩܝܢ ܡܢ ܪ̈ܘܚܐ ܣܩܘܒ̈ܠܝܬܐ 
+                  <lb n="13"/>ܕܥܡܢ ܡܬܟܬܫ̈ܢ. ܘܐܟܚܕܐ ܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ 
+                  <lb n="14"/><hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ ܥܡܐ ܘܠܪܘܚܐ 
+                  <lb n="15"/><hi rend="emphasized">܏ܡܫܡ</hi> ܡܢ ܒܬܪ ܢܣܝܒܘܬܐ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ <hi rend="emphasized">ܟܗܢܐ</hi> 
+                  <lb n="16"/>ܐܓܢ ܡܪܝܐ ܝܡܝܢܐ ܕܝܠܟ ܘܒܲܪܟ ܠܥܒ̈ܕܝܟ 
+                  <lb n="17"/>ܘܠܐܡ̈ܗܬܟ ܕܗܪܟܐ ܟܢܝܫܝܢ. ܘܢܛܪ ܐܢܘܢ ܒܨܠܝܒܟ. 
+                  <lb n="18"/>ܗܘܝ ܠܗܘܢ ܣܬܪܐ ܘܒܝܬܓܘܣܐ. ܡܢ ܟܠܗܘܢ 
+               </seg>
+            </ab>
+            <ab type="page" n="29r">
+               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-9" prev="#dam-5-11-8">
+                  <pb n="29r"/>
+                  <lb n="1"/>ܒܥܠܕܒ̈ܒܐ. ܘܫܡܠܐ ܐܢܘܢ ܒܫܦ̈ܥܐ ܕܒܘܪ̈ܟܬܟ. ܘܚܢܢ 
+                  <lb n="2"/>ܘܗܢܘܢ ܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܐܒܘܟ ܘܠܪܘܚܟ 
+                  <lb n="3"/>ܩܕܝܫܐ. ܗܫܐ ܏<hi rend="emphasized">ܡܫܡ</hi> ܒܪܟܡܪܝ <hi rend="emphasized">ܟܗܢܐ</hi> ܒܲܪܟ ܠܟܠܢ 
+                  <lb n="4"/><hi rend="emphasized">ܫܠܡܬ ܐܢܢܐܦܘܪܐ ܕܫܡܥܘܢ ܦܛܪܘܣ ܪܝܫܐ ܕܫܠ̈ܝܚܐ</hi>
+                  <lb n="5"/><hi rend="emphasized">ܨܠܘܬܗ ܥܡܢ</hi>
+               </seg>
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>
