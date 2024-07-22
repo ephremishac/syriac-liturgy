@@ -39,42 +39,42 @@
       <body>
          <div type="transcription" xml:lang="syc">
             <ab type="page" n="25r">
-               <seg type="liturgical-section" n="Prayer Before Peace" xml:id="dam-5-11-1">
+               <seg type="liturgical-section" n="Title" xml:id="dam-5-11-1">
                   <pb n="25r"/>
                   <lb n="1"/><hi rend="emphasized">ܬܘܒ ܐܢܢܐܦܘܪܐ ܙܥܘܪܬܐ ܕܫܡܥܘܢ ܟܐܦܐ ܪܝܫܐ ܕܫܠܝ̈ܚܐ</hi>
-                  <lb n="2"/>ܩܕܡܝܐ <hi rend="emphasized">ܨܠܘܬܐ ܕܩܕܡ ܫܠܡܐ</hi> ܐܠܗܐ ܕܫܠܡܐ 
+                  <lb n="2"/>ܩܕܡܝܐ</seg><seg type="liturgical-section" n="Prayer before Peace" xml:id="dam-5-11-2"><hi rend="emphasized">ܨܠܘܬܐ ܕܩܕܡ ܫܠܡܐ</hi> ܐܠܗܐ ܕܫܠܡܐ 
                   <lb n="3"/>ܘܡܪܐ ܕܫܝܢܐ ܡܪܝܐ. ܗܒ ܠܟܠܢ ܘܐܫܘܐ ܠܢ 
                   <lb n="4"/>ܕܒܢܫܡܬܐ ܕܠܐ ܦܣܝܩܐ ܡܢ ܪܚܡܬܟ. ܢܥܲܦܩ 
                   <lb n="5"/>ܠܚ̈ܕܕܐ ܒܚܘܒܐ ܕܠܐ ܢܟܠܐ. ܘܢܲܣܩ ܠܟ ܫܘܒܚܐ 
                   <lb n="6"/>ܘܬܘܕܝܬܐ. ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ 
-                  <lb n="7"/>ܕܝܠܟ ܩܕܝܫ ܒܟܠ. ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ
+                  <lb n="7"/>ܕܝܠܟ ܩܕܝܫ ܒܟܠ. ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ</seg><seg type="liturgical-section" n="The First Benediction" xml:id="dam-5-11-3"><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ
                   <lb n="8"/><hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܬܠ ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܫܘܐ ܠܢ <hi rend="emphasized">܏ܡܫܡ</hi> 
                   <lb n="9"/>ܡܢ ܒܬܪ ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ <hi rend="emphasized">ܟܗܢܐ</hi> ܠܟ ܘܩܕܡܝܟ ܡܪܝܐ. 
                   <lb n="10"/>ܡܪܟܢܝܢܢ ܨܘܪ̈ܐ ܕܢܦ̈ܫܬܢ. ܐܝܟܢܐ ܕܢܩܲܒܠ ܡܢܟ 
                   <lb n="11"/>ܒܘܪ̈ܟܬܐ. ܘܣܘܝ̇ܥܐ ܠܡܚܝܠܘܬܢ. ܡܛܠ ܕܥܕܘܪܐ 
                   <lb n="12"/>ܘܒܝܬܓܘܣܐ ܕܟܠ ܐܝܬܝܟ. ܘܠܟ ܬܫܒܘܚܬܐ ܡܣܩܝܢܢ. 
                   <lb n="13"/>ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫ ܒܟܠ. 
-                  <lb n="14"/>ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܢܬ ܐܦ ܗܫܐ ܡܪܝܐ ܐܢܗܪ ܦܪܨܘܦܟ 
+                  <lb n="14"/>ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ</seg><seg type="liturgical-section" n="Prayer over the Veil" xml:id="dam-5-11-4"><hi rend="emphasized">ܟܗܢܐ</hi> ܐܢܬ ܐܦ ܗܫܐ ܡܪܝܐ ܐܢܗܪ ܦܪܨܘܦܟ 
                   <lb n="15"/>ܥܠܝܢ ܘܦܪܘܩܝܢ ܘܠܢ ܟܠܗܘܢ ܒܥܠ̈ܕܒܒܐ ܕܣ̇ܢܝܢ 
                   <lb n="16"/>ܠܢ. ܘܠܚܝ ܘܫܒܘܩ ܟܠܗܝܢ ܠܐ ܝܕܥܬܢ܆  ܕܢܣܩ 
                </seg>
             </ab>
             <ab type="page" n="25v">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-2" prev="#dam-5-11-1">
+               <seg type="liturgical-section" n="Prayer over the Veil" xml:id="dam-5-11-5" prev="#dam-5-11-4">
                   <pb n="25v"/>
                   <lb n="1"/>ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܝܚܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ 
                   <lb n="2"/>ܕܝܠܟ ܩܕܝܫ ܒܟܠ.ܘܛܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܩܘܡ 
                   <lb n="3"/>ܫܦܝܪ <hi rend="emphasized">ܥܡܐ</hi> ܪ̈ܚܡܐ ܫܠܡܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܚܘܒܐ ܕܐܠܗܐ ܐܒܐ 
                   <lb n="4"/><hi rend="emphasized">ܥܡܐ</hi> ܥܡ ܪܘܚܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܠܥܠ ܢܗܘܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܐܝܬܝܗܘܢ <hi rend="emphasized">ܟܗܢܐ</hi>
-                  <lb n="5"/>ܢܘܕܐ ܠܡܪܐ <hi rend="emphasized">ܥܡܐ</hi> ܫܘܐ ܘܙܕܩ <hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܫܪܝܪܐܝܬ 
+                  <lb n="5"/>ܢܘܕܐ ܠܡܪܐ <hi rend="emphasized">ܥܡܐ</hi> ܫܘܐ ܘܙܕܩ</seg><seg type="liturgical-section" n="Prayer before Sanctus" xml:id="dam-5-11-6"><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܫܪܝܪܐܝܬ 
                   <lb n="6"/>ܫ̇ܘܐ ܘܙܕܩ. ܕܠܟ ܢܫܒܚ ܘܢܪܡܪܡ ܥܒܘܕܐ 
                   <lb n="7"/>ܕܟܠܗܝܢ ܒܪ̈ܝܬܐ ܕܥܠ̈ܝܐ ܘܕܬܚ̈ܬܝܐ <hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> 
-                  <lb n="8"/>ܡܫܒܚܝܢܢ ܠܟ ܡܪܝܐ. ܥܡܗܘܢ ܕܡܠܐܟ̈ܐ. ܟܕ 
+                  <lb n="8"/>ܡܫܒܚܝܢܢ ܠܟ ܡܪܝܐ. ܥܡܗܘܢ ܕܡܠܐܟ̈ܐ.<note type="textcritical-note"><foreign xml:lang="la">In marg.</foreign> <foreign xml:lang="syc">ܘܠܓ̈ܝܘܢܐ ܕܪ̈ܒܝ ܡܠܐܟ̈ܐ. ܟܕ</foreign></note> ܟܕ 
                   <lb n="9"/>ܒܒ̈ܢܬ ܩ̈ܠܐ ܕܬܫܒܘܚܬܐ. ܡܙܥܩܝܢܢ ܘܐܡܪܝܢܢ <hi rend="emphasized">ܥܡܐ</hi> 
-                  <lb n="10"/>ܩܕܝܫ ܩܕܝܫ <hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܩܕܝܫܐ ܐܝܬܝܟ ܘܣܓܝ 
+                  <lb n="10"/>ܩܕܝܫ ܩܕܝܫ</seg><seg type="liturgical-section" n="Prayer after Sanctus" xml:id="dam-5-11-7"><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܩܕܝܫܐ ܐܝܬܝܟ ܘܣܓܝ 
                   <lb n="11"/>ܪ̈ܚܡܐ ܡܪܝܐ. ܡܛܠ ܕܒܪܚܡܬ݀ ܐܢܫܘܬܟ ܫܲܕܪܬ 
                   <lb n="12"/>ܒܪܐ ܕܝܠܟ ܠܥܠܡܐ. ܘܡܢ ܒܬܘܠܬܐ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ 
-                  <lb n="13"/>ܐܬܒܲܣܪ ܐܝܟ ܕܠܦܘܪܩܢܢ <hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܘܟܕ ܨܒ̣ܐ 
+                  <lb n="13"/>ܐܬܒܲܣܪ ܐܝܟ ܕܠܦܘܪܩܢܢ</seg><seg type="liturgical-section" n="Words of Institution" xml:id="dam-5-11-8"><hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܘܟܕ ܨܒ̣ܐ 
                   <lb n="14"/>ܕܢܛܥܲܡ ܠܡܘܬܐ ܕܚܠܦܝܢ. ܘܠܦܨܚܐ ܕܒܝܬ 
                   <lb n="15"/>ܪܡܫܐ ܢܫܲܡܠܐ. ܠܚܡܐ  ܢܣܒ ܒܐܝ̈ܕܘܗܝ ܀ 
                   <lb n="16"/>ܘܒܲܪܟ ܀ ܘܩܲܕܫ ܀ ܩܨܐ. ܘܝܗ̣ܒ ܠܣܕܪܐ ܕܫܠܝ̈ܚܐ 
@@ -83,7 +83,7 @@
                </seg>
             </ab>
             <ab type="page" n="26r">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-3" prev="#dam-5-11-2">
+               <seg type="liturgical-section" n="Words of Institution" xml:id="dam-5-11-9" prev="#dam-5-11-8">
                   <pb n="26r"/>
                   <lb n="1"/>ܡܲܙܓ ܡܢ ܚܡܪܐ ܘܡܝ̈ܐ ܘܐܘܕܝ ܀ ܒܲܪܟ 
                   <lb n="2"/>܀ ܩܲܕܫ ܀ ܘܝܗ̣ܒ ܠܫ̈ܠܝܚܐ ܩܕܝ̈ܫܐ ܘܐܡ̣ܪ. 
@@ -91,7 +91,7 @@
                   <lb n="4"/>ܘܠܚܝ̈ܐ ܕܠܥܠܡ. <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܗܕܐ ܦܲܩܕ ܘܙܗܪ 
                   <lb n="5"/>ܐܢܘܢ ܕܟܠ ܐܡܬܝ ܕܪ̈ܐܙܐ ܗܠܝܢ ܡܫܲܡܠܝܢ ܐܢܬܘܢ 
                   <lb n="6"/>ܠܡܘܬܝ ܘܩܝܡܬܝ ܡܬܥܗܕܝܬܘܢ ܥܕܡܐ 
-                  <lb n="7"/>ܕܐܬܐ ܐܢܐ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܬܟ ܡܪܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܟܕ ܠܡܐܬܝܬܟ 
+                  <lb n="7"/>ܕܐܬܐ ܐܢܐ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܬܟ ܡܪܢ</seg><seg type="liturgical-section" n="Anamnesis" xml:id="dam-5-11-10"><hi rend="emphasized">ܟܗܢܐ</hi> ܘܟܕ ܠܡܐܬܝܬܟ 
                   <lb n="8"/>ܦܪܘܩܝܬܐ. ܘܠܗ̇ܝ ܬܪܝܢܬܐ ܡܥܗܕܝܢܢ ܡܪܝܐ. 
                   <lb n="9"/>ܬܫܒܘܚܬܐ ܥܡ ܬܚܢܢܬܐ ܠܡܪܘܬܟ ܡܩܪܒܝܢܢ. ܐܝܟܢܐ 
                   <lb n="10"/>ܕܒܗ̃ܘ ܝܘܡܐ ܕܚܝܠܐ ܘܥܙܝܙܐ ܕܕܝܢܐ. ܕܒܗ ܒܘܚܪܢܐ 
@@ -101,12 +101,12 @@
                   <lb n="14"/>ܕܝܠܢ. ܐܠܐ ܚܘܣ ܡܪܝܐ ܘܪܚܡ ܥܠܝܢ. ܘܐܗܦܟ ܐܦ̈ܝܟ 
                   <lb n="15"/>ܡܢ ܚܛܗ̈ܝܢ ܘܥܕܪܝܢ ܕܡܛܠ ܗܕܐ ܥܕܬܟ ܡܬܟܫܦܐ 
                   <lb n="16"/>ܠܟ. ܘܒܐܝ̈ܕܝܟ ܘܠܐܒܘܟ ܟܕ ܐܡܪܐ <hi rend="emphasized">ܥܡܐ</hi> ܪܚܡ ܥܠܝܢ 
-                  <lb n="17"/><hi rend="emphasized">ܟܗܢܐ</hi> ܘܐܦܚܢܢ ܡܪܝ <hi rend="emphasized">ܥܡܐ</hi> ܠܟ ܡܫܒܚܝܢܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܡܐ ܕܚܝܠܐ ܗܝ
+                  <lb n="17"/><hi rend="emphasized">ܟܗܢܐ</hi> ܘܐܦܚܢܢ ܡܪܝ <hi rend="emphasized">ܥܡܐ</hi> ܠܟ ܡܫܒܚܝܢܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܡܐ ܕܚܝܠܐ ܗܝ</seg><seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="dam-5-11-11">
                   <lb n="18"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ ܩܪܝܵܬܐ ܕܪܘܚܐ ܩܕܝܫܐ</hi> ܪ̈ܚܡܥܠܝܢ ܡܪܝܐ 
                </seg>
             </ab>
             <ab type="page" n="26v">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-4" prev="#dam-5-11-3">
+               <seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="dam-5-11-12" prev="#dam-5-11-11">
                   <pb n="26v"/>
                   <lb n="1"/>ܪ̈ܚܡ ܥܠܝܢ. ܘܫܲܕܪ ܥܠܝܢ ܘܥܠ ܩܘܪ̈ܒܢܐ ܪ̈ܐܙܝܐ ܗܠܝܢ. 
                   <lb n="2"/>ܪܘܚܟ ܩܕܝܫܐ. ܘܢܩܲܕܫ ܐܢܘܢ. ܘܐܦܠܢ ܢܥܲܕܪ ܘܢܚܲܣܐ.
@@ -116,7 +116,7 @@
                   <lb n="6"/><hi rend="emphasized">ܟܗܢܐ</hi> ܘܠܟܣܐ ܗܢܐ ܀ ܕܡܐ ܕܝܠܗ܀ ܕܡܫܝܚܐ ܐܠܗܐ
                   <lb n="7"/>ܕܝܠܢ ܀ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܟܢܐ ܕܢܗܘܘܢ ܠܐܝܠܝܢ 
                   <lb n="8"/>ܕܒܗܘܢ ܡܫܬܘܬܦܝܢ ܡܕܟ̈ܝܢܐ ܕܡܢ ܟܘ̈ܬܡܬܐ. 
-                  <lb n="9"/>ܘܠܫܘܒܩܢܐ ܕܚ̈ܛܗܐ ܘܠܚܝ̈ܐ ܕܠܥܠܡ ܥܠܡܝܢ. 
+                  <lb n="9"/>ܘܠܫܘܒܩܢܐ ܕܚ̈ܛܗܐ ܘܠܚܝ̈ܐ ܕܠܥܠܡ ܥܠܡܝܢ.</seg><seg type="liturgical-section" n="Intercession Prayers" xml:id="dam-5-11-13">
                   <lb n="10"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi> ܩܲܒܠ ܦܝ̇ܣܐ ܕܝܠܢ ܡܪܝܐ. ܘܫܲܟܢ 
                   <lb n="11"/>ܫܝܢܐ ܠܥܡܟ. ܘܫܠܡܐ ܠܡܪܥܝܬܟ. ܘܢܲܛܪ ܠܪ̈ܥܘܬܐ 
                   <lb n="12"/>ܫܪ̈ܝܪܐ. ܥܡ ܟܗ̈ܢܐ ܘܡܫܡ̈ܫܢܐ. ܘܩܠܝܪܘܣ ܠܗ ܕܥܕܬܟ 
@@ -129,7 +129,7 @@
                </seg>
             </ab>
             <ab type="page" n="27r">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-5" prev="#dam-5-11-4">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="dam-5-11-14" prev="#dam-5-11-13">
                   <pb n="27r"/>
                   <lb n="1"/><hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܐܬܕܟܪ ܡܪܝܐ. ܘܠܡܥܕܪ̈ܢܐ ܕܥܕܬܟ ܩܕܝܫܬܐ. 
                   <lb n="2"/>ܗܘܝ ܠܗܘܢ ܣܬܪܐ ܘܒܝܬܓܘܣܐ. ܘܦܲܨܐ ܐܢܘܢ ܡܢ 
@@ -152,7 +152,7 @@
                </seg>
             </ab>
             <ab type="page" n="27v">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-6" prev="#dam-5-11-5">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="dam-5-11-15" prev="#dam-5-11-14">
                   <pb n="27v"/>
                   <lb n="1"/>ܐܝܟܢܐ ܕܒܨܠ̈ܘܬܗܘܢ ܢܬܦܲܨܐ ܡܢ ܢܟ̈ܝܢܘܗܝ ܘܗ̇ܘ 
                   <lb n="2"/>ܕܕܠܩܘܒܠܐ ܘܕܐܢܫ̈ܐ ܒܝܫ̈ܐ <hi rend="emphasized">ܬܠܐ ܩܠܗ</hi> ܘܠܗܢܘܢ ܕܙܗܝܪܐܝܬ 
@@ -169,36 +169,36 @@
                   <lb n="13"/>ܠܐ ܢܡܘܣ̈ܝܘܬܐ ܕܝܠܢ ܘܕܝܠܗܘܢ. ܡܛܠ ܕܠܝܬ ܕܡܚܪܪ 
                   <lb n="14"/>ܡܢ ܚܛܗ̈ܐ. ܐܠܐ ܐܢ ܦܪܘܩܢ ܝܫܘܥ ܡܫܝܚܐ. ܗܘ ܕܒܐܝ̈ܕܘܗܝ 
                   <lb n="15"/>ܡܣܒܪܝܢܢ ܪ̈ܚܡܐ ܠܡܫܟܚܘ. ܕܡܛܠܬܗ ܐܦ ܠܢ 
-                  <lb n="16"/>ܘܠܗܘܢ ܐܢܝܚ <hi rend="emphasized">ܥܡܐ</hi> ܐܢܝܚ <hi rend="emphasized">ܟܗܢܐ ܟܕ ܦܫܝܛ</hi> ܚܲܣܐ ܘܫܒܘܩ
+                  <lb n="16"/>ܘܠܗܘܢ ܐܢܝܚ <hi rend="emphasized">ܥܡܐ</hi> ܐܢܝܚ</seg><seg type="liturgical-section" n="Concluding Intercessions" xml:id="dam-5-11-16"><hi rend="emphasized">ܟܗܢܐ ܟܕ ܦܫܝܛ</hi> ܚܲܣܐ ܘܫܒܘܩ
                   <lb n="17"/>ܡܪܝܐ ܣܟ̈ܠܘܬܐ ܕܥܒ̈ܕܐ ܘܕܐܡ̈ܗܬܐ ܕܝܠܟ ܟܣ̈ܝܬܐ 
                   <lb n="18"/>ܘܓ̈ܠܝܬܐ. ܟܕ ܡܲܫܘܙܒ ܐܢܬ ܠܢ ܡܢ ܒܗܬܬܐ ܕܩܕܡܝܟ. 
                </seg>
             </ab>
             <ab type="page" n="28r">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-7" prev="#dam-5-11-6">
+               <seg type="liturgical-section" n="Concluding Intercessions" xml:id="dam-5-11-17" prev="#dam-5-11-16">
                   <pb n="28r"/>
                   <lb n="1"/>ܐܝܟܢܐ ܕܒܢ ܘܚܠܦܝܢ ܘܡܛܠܬܢ ܢܫܬܒܚ ܫܡܟ 
                   <lb n="2"/>ܡܒܪܟܐ ܥܡ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ. ܘܪܘܚܟ ܩܕܝܫܐ. 
-                  <lb n="3"/><hi rend="emphasized">ܥܡܐ</hi> ܐܝܟܢܐ ܕܐ܏ܝܬܘ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ 
+                  <lb n="3"/><hi rend="emphasized">ܥܡܐ</hi> ܐܝܟܢܐ ܕܐ܏ܝܬܘ</seg><seg type="liturgical-section" n="The Second Benediction" xml:id="dam-5-11-18"><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ 
                   <lb n="4"/><hi rend="emphasized">ܟܗܢܐ</hi> ܢܗܘܘܢ ܪ̈ܚܡܘܗܝ ܕܐܠܗܐ ܪܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܘܥܡ ܪܘܚܐ 
-                  <lb n="5"/><hi rend="emphasized">܏ܡܫܡ</hi> ܬܘܒ ܘܬܘܒ <hi rend="emphasized">ܘܟܗܢܐ</hi> ܩ̇ܨܐ ܘܪܫ̇ܡ <hi rend="emphasized">ܟܗܢܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi> 
+                  <lb n="5"/><hi rend="emphasized">܏ܡܫܡ</hi> ܬܘܒ ܘܬܘܒ <hi rend="emphasized">ܘܟܗܢܐ</hi> ܩ̇ܨܐ ܘܪܫ̇ܡ</seg><seg type="liturgical-section" n="Prayer before the Lord's Prayer" xml:id="dam-5-11-19"><hi rend="emphasized">ܟܗܢܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi> 
                   <lb n="6"/>ܡܬܟܲܫܦܝܢܢ ܠܟ ܐܠܗܐ ܘܐܒܐ. ܡܒܲܝܐܢܐ ܘܡܲܠܒܢܐ 
                   <lb n="7"/>ܕܡܚܝܠܘܬܢ. ܕܰܟܳܐ ܠܢ ܡܢ ܟܠ ܛܘܠܫܐ ܕܥܘܠܐ 
                   <lb n="8"/>ܘܕܫܟܝܪ̈ܬܐ. ܘܩܲܒܠ ܩܘܪ̈ܒܢܐ ܗܠܝܢ ܕܚܠܦ 
                   <lb n="9"/>ܚܛܗ̈ܝܢ ܡܩܪܒܝܢܢ ܠܟ. ܐܝܟܢܐ ܕܒܚܕܐ ܫܘܝܘܬ 
                   <lb n="10"/>ܢܫܲܡܬܐ. ܢܙܥܩ ܠܘܬܟ ܘܢܨܠܐ ܘܢܐܡܪ ܐܒܘܢ ܕܒܫܡܝܐ 
-                  <lb n="11"/><hi rend="emphasized">ܥܡܐ</hi> ܢܬܩܕܫ ܫܡܟ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܢ ܐܠܗܢ ܒܣܝܡܐ. ܠܐ 
+                  <lb n="11"/><hi rend="emphasized">ܥܡܐ</hi> ܢܬܩܕܫ ܫܡܟ</seg><seg type="liturgical-section" n="Prayer after the Lord's Prayer" xml:id="dam-5-11-20"><hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܢ ܐܠܗܢ ܒܣܝܡܐ. ܠܐ 
                   <lb n="12"/>ܬܥܠܢ ܠܒܘܚܪܢܐ ܕܢܣ̈ܝܘܢܐ. ܡܛܠ ܕܠܐ ܡܨܝܢܢ 
                   <lb n="13"/>ܚܲܝܠܐ ܕܢܣܝܒܪ. ܐܠܐ ܐܝܟ ܣܓܝܐܘܬ ܪ̈ܚܡܝܟ ܫܲܘܙܒ 
                   <lb n="14"/>ܘܦܲܨܐ ܠܢ ܡܢ ܟܠܗܝܢ ܡܚ̈ܘܬܐ ܕܪܘܓܙܐ. ܡܛܠ ܕܕܝܠܟ 
                   <lb n="15"/>ܐܝܬܘܗܝ ܐܘܚܕܢܐ ܘܡܠܟܘܬܐ. ܘܠܟ ܫܘܒܚܐ ܡܣܩܝܢܢ. 
                   <lb n="16"/>ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ 
                   <lb n="17"/>ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">܏ܡܫܡ</hi> ܩܕܡ ܡܪܝܐ ܪ̈ܝܫܝܢ ܢܪ̈ܟܢ
-                  <lb n="18"/>ܥܡܐ ܩܕܡܝܟ ܟܗܢܐ ܒܲܪܟ ܡܪܝܐ ܠܥܒ̈ܕܝܟ ܘܠܐܡ̈ܗܬܟ 
+                  <lb n="18"/><hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ</seg><seg type="liturgical-section" n="The Third Benediction" xml:id="dam-5-11-21"><hi rend="emphasized">ܟܗܢܐ</hi> ܒܲܪܟ ܡܪܝܐ ܠܥܒ̈ܕܝܟ ܘܠܐܡ̈ܗܬܟ 
                </seg>
             </ab>
             <ab type="page" n="28v">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-8" prev="#dam-5-11-7">
+               <seg type="liturgical-section" n="The Third Benediction" xml:id="dam-5-11-22" prev="#dam-5-11-21">
                   <pb n="28v"/>
                   <lb n="1"/>ܕܐܪܟܢܘ ܨܘܪ̈ܝܗܘܢ ܩܕܡܝܟ. ܘܠܟ ܡܬܟܫܦܝܢ: ܐܫܘܐ 
                   <lb n="2"/>ܐܢܘܢ ܠܪ̈ܚܡܝܟ. ܘܠܚܘܣܝܐ ܕܚ̈ܛܗܐ ܕܝܠܢ ܘܕܝܠܗܘܢ. 
@@ -207,21 +207,21 @@
                   <lb n="5"/><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܬܗܘܐ 
                   <lb n="6"/>ܛܝܒܘܬܐ ܕܬܠܝܬܝܘܬܐ <hi rend="emphasized">ܥܡܐ</hi> ܥܡ ܪܘܚܐ <hi rend="emphasized">܏ܡܫܡ</hi> ܒܕܚܠܬܐ 
                   <lb n="7"/>ܢܚܘܪ ܟܗܢܐ ܩܘܕܫ̈ܐ ܠܩܕܝܫ̈ܐ <hi rend="emphasized">ܥܡܐ</hi> ܚܕ ܐܒܐ ܩܕܝܫܐ 
-                  <lb n="8"/><hi rend="emphasized">ܟܗܢܐ</hi> ܚܕ ܐܒܐ ܩܕܝܫܐ ܥܡܢ ܐܡܝܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܩܘܡ ܫܦܝܪ
+                  <lb n="8"/><hi rend="emphasized">ܟܗܢܐ</hi> ܚܕ ܐܒܐ ܩܕܝܫܐ ܥܡܢ ܐܡܝܢ <hi rend="emphasized">܏ܡܫܡ</hi> ܢܩܘܡ ܫܦܝܪ</seg><seg type="liturgical-section" n="Prayer of Thanksgiving" xml:id="dam-5-11-23">
                   <lb n="9"/>ܟܠܢ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܕܝܢܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܡܘܕܝܢܢ ܠܟ ܡܪܝܐ ܐܠܗܐ 
                   <lb n="10"/>ܘܡܩܒܠܝܢܢ ܛܝܒܘܬܟ. ܥܠ ܐܦ̈ܝ ܡܘܗܒܬܐ ܗܕܐ 
                   <lb n="11"/>ܕܝܗܒܬ ܠܢ. ܐܦܠܐ ܫܘܝܢܢ. ܠܐ ܬܣܝܡ ܥܠܝܢ ܒܗܬܬܐ 
                   <lb n="12"/>ܕܚ̈ܛܗܝܢ. ܐܠܐ ܥܲܕܪ ܘܦܪܘܩܝܢ ܡܢ ܪ̈ܘܚܐ ܣܩܘܒ̈ܠܝܬܐ 
                   <lb n="13"/>ܕܥܡܢ ܡܬܟܬܫ̈ܢ. ܘܐܟܚܕܐ ܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ 
                   <lb n="14"/><hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ ܠܟܠܟܘܢ ܥܡܐ ܘܠܪܘܚܐ 
-                  <lb n="15"/><hi rend="emphasized">܏ܡܫܡ</hi> ܡܢ ܒܬܪ ܢܣܝܒܘܬܐ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ <hi rend="emphasized">ܟܗܢܐ</hi> 
+                  <lb n="15"/><hi rend="emphasized">܏ܡܫܡ</hi> ܡܢ ܒܬܪ ܢܣܝܒܘܬܐ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ</seg><seg type="liturgical-section" n="Concluding Prayer" xml:id="dam-5-11-24"> <hi rend="emphasized">ܟܗܢܐ</hi> 
                   <lb n="16"/>ܐܓܢ ܡܪܝܐ ܝܡܝܢܐ ܕܝܠܟ ܘܒܲܪܟ ܠܥܒ̈ܕܝܟ 
                   <lb n="17"/>ܘܠܐܡ̈ܗܬܟ ܕܗܪܟܐ ܟܢܝܫܝܢ. ܘܢܛܪ ܐܢܘܢ ܒܨܠܝܒܟ. 
                   <lb n="18"/>ܗܘܝ ܠܗܘܢ ܣܬܪܐ ܘܒܝܬܓܘܣܐ. ܡܢ ܟܠܗܘܢ 
                </seg>
             </ab>
             <ab type="page" n="29r">
-               <seg type="liturgical-section" n="N.N." xml:id="dam-5-11-9" prev="#dam-5-11-8">
+               <seg type="liturgical-section" n="Concluding Prayer" xml:id="dam-5-11-25" prev="#dam-5-11-24">
                   <pb n="29r"/>
                   <lb n="1"/>ܒܥܠܕܒ̈ܒܐ. ܘܫܡܠܐ ܐܢܘܢ ܒܫܦ̈ܥܐ ܕܒܘܪ̈ܟܬܟ. ܘܚܢܢ 
                   <lb n="2"/>ܘܗܢܘܢ ܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ. ܘܠܐܒܘܟ ܘܠܪܘܚܟ 

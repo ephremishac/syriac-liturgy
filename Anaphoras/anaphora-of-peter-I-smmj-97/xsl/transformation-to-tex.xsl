@@ -184,6 +184,23 @@
         <xsl:apply-templates select="child::node()"/>
     </xsl:template>
     
+    <xsl:template match="tei:note">
+        <xsl:text>\footnote{\LR{</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>}}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:foreign[@xml:lang = 'la']">
+        <xsl:text>\normalfont </xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:foreign[@xml:lang = 'syc']">
+        <xsl:text>\foreignlanguage{syriac}{</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
+    
     <xsl:template match="text()">
         <xsl:if test="parent::tei:hi[@rend = 'emphasized']">
             <xsl:text>\begin{syriac}\textxecolor{red}{</xsl:text>
