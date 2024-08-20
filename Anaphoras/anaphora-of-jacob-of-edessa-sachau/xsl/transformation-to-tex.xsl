@@ -11,15 +11,16 @@
         \usepackage{polyglossia}
         %\usepackage{fontspec,xltxtra}
         \usepackage{paralist}
+        \usepackage{graphicx}
         \usepackage{xecolor}
         \usepackage{hyperref}
-        \hypersetup{pdftex,colorlinks=true}
+        \hypersetup{pdftex,colorlinks=true,linkcolor=black,urlcolor=black,pdftitle={Anaphora of Jacob of Edessa}}
         \usepackage{hypcap}
         \usepackage{morefloats}
         \let\myfont\normalfont
         \usepackage{fancyhdr}
         \pagestyle{fancy}
-        \chead{\myfont\textit{Annunciation of Theotokos}}
+        \chead{\myfont\textit{Anaphora of Jacob of Edessa}}
         \renewcommand\footrulewidth{0.4pt}
         \fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
         \fancyfoot[C]{\myfont\thepage}
@@ -32,11 +33,17 @@
         \begin{titlepage}
         \begin{center}</xsl:text>
         <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:titleStmt"/>
+        <xsl:text>\end{center}\begin{center}</xsl:text>
+        <xsl:text>\includegraphics[width=8cm]{general.png}</xsl:text>
         <xsl:text>\end{center}</xsl:text>
         <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:publicationStmt"/>
-        <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
+        <!-- <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc"/> -->
         <xsl:text>\end{titlepage}</xsl:text>
+        <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'introduction']"/>
         <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'transcription']"/>
+        <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'translation']"/>
+        <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'literature']"/>
+        <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'weblinks']"/>
         <xsl:text>\end{document}</xsl:text>
     </xsl:template>
     
@@ -112,6 +119,87 @@
         <xsl:text>}</xsl:text>
     </xsl:template>
     
+    <xsl:template match="tei:div[@type = 'translation']">
+        <xsl:text>\pdfbookmark[0]{Translation}{translation}</xsl:text>
+        <xsl:text>\begin{center}\textbf{Translation}\end{center}\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::*"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'introduction']">
+        <xsl:text>\pdfbookmark[0]{Introduction}{introduction}</xsl:text>
+        <xsl:text>\begin{center}\textbf{Introduction}\end{center}\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'introduction-subsection'][parent::tei:div[@type = 'introduction']]">
+        <xsl:text>\pdfbookmark[1]{</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>}{</xsl:text>
+        <xsl:value-of select="lower-case(@n)"/>
+        <xsl:text>}</xsl:text>
+        <xsl:text>\vspace{5mm}\LTR{\textit{</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>}}\par\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:p[parent::tei:div[@type = 'introduction-subsection']]">
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>\par</xsl:text>
+        <xsl:if test="exists(@rend) and (@rend = 'space-after')">
+            <xsl:text>\vspace{2mm}</xsl:text>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="tei:p[parent::tei:div[@type = 'weblinks']]">
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>\par</xsl:text>
+        <xsl:if test="exists(@rend) and (@rend = 'space-after')">
+            <xsl:text>\vspace{2mm}</xsl:text>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="tei:emph[@rend = 'italic']">
+        <xsl:text>\textit{</xsl:text>
+        <xsl:value-of select="text()"/>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:ref">
+        <xsl:text> \url{</xsl:text>
+        <xsl:value-of select="@target"/>
+        <xsl:text>} </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'literature']">
+        <xsl:text>\pdfbookmark[0]{Literature}{literature}</xsl:text>
+        <xsl:text>\begin{center}\textbf{Literature}\end{center}\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'weblinks']">
+        <xsl:text>\pdfbookmark[0]{Weblinks}{weblinks}</xsl:text>
+        <xsl:text>\begin{center}\textbf{Weblinks}\end{center}\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'translation-liturgical-section'][parent::tei:div[@type = 'translation']]">
+        <xsl:text>\pdfbookmark[1]{</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>}{</xsl:text>
+        <xsl:value-of select="lower-case(@n)"/>
+        <xsl:text>}</xsl:text>
+        <xsl:text>\vspace{5mm}\LTR{\textit{</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>}}\par\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:p[parent::tei:div[@type = 'translation-liturgical-section']]">
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>\par</xsl:text>
+    </xsl:template>
+    
     <xsl:template match="tei:div[@type = 'section']">
         <xsl:text>\pdfbookmark[0]{</xsl:text>
         <xsl:value-of select="@n"/>
@@ -134,7 +222,32 @@
         <xsl:apply-templates select="child::node()"/>
     </xsl:template>
     
-    <xsl:template match="tei:pb"/>
+    <xsl:template match="tei:seg[@type = 'liturgical-section'][not(exists(@rend))]">
+        <xsl:if test="not(exists(@prev))">
+            <xsl:text>\pdfbookmark[1]{</xsl:text>
+            <xsl:value-of select="@n"/>
+            <xsl:text>}{</xsl:text>
+            <xsl:value-of select="@n"/>
+            <xsl:text>}</xsl:text>
+            <xsl:text>\par\vspace{3mm}\setLR </xsl:text>
+            <xsl:value-of select="@n"/>
+            <xsl:text>\par\vspace{3mm}</xsl:text>
+        </xsl:if>
+        <xsl:text>\setRL </xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:seg[@type = 'liturgical-section'][exists(@rend) and (@rend = 'empty-page')]">
+        <xsl:text>\par\vspace{3mm}\setLR </xsl:text>
+        <xsl:value-of select="child::tei:pb/@n"/>
+        <xsl:text> blank page\par\vspace{3mm}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:pb">
+        <xsl:text>\LR{\textit{\textbf{(</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>)}}}\nolinebreak\hspace{1.0mm}</xsl:text>
+    </xsl:template>
     
     <xsl:template match="tei:cb">
         <xsl:if test="local-name(preceding-sibling::*[1]) = 'pb'">
@@ -161,7 +274,84 @@
         </xsl:if>
     </xsl:template>
     
+    <xsl:template match="tei:note">
+        <xsl:text>\footnote{\LR{</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>}}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:foreign[@xml:lang = 'la']">
+        <xsl:text>\myfont </xsl:text>
+        <xsl:apply-templates select="child::text()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:foreign[@xml:lang = 'syc']">
+        <xsl:text>\foreignlanguage{syriac}{</xsl:text>
+        <xsl:apply-templates select="child::text()"/>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
+    
     <xsl:template match="tei:hi[@rend = 'emphasized']">
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:listBibl">
+        <xsl:apply-templates select="child::tei:bibl"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl[@type = 'book']">
+        <xsl:text>\textsc{</xsl:text>
+        <xsl:value-of select="child::tei:author/text()"/>
+        <xsl:text>}</xsl:text>
+        <xsl:if test="exists(child::tei:author/@rend) and (child::tei:author/@rend = 'editor')">
+            <xsl:text> (ed.), </xsl:text>
+        </xsl:if>
+        <xsl:if test="not(exists(child::tei:author/@rend))">
+            <xsl:text>, </xsl:text>
+        </xsl:if>
+        <xsl:text>\textit{</xsl:text>
+        <xsl:value-of select="child::tei:title[@subtype = 'main']/text()"/>
+        <xsl:text>}. </xsl:text>
+        <xsl:value-of select="child::tei:title[@subtype = 'addition']/text()"/>
+        <xsl:text>.\par</xsl:text>
+        <xsl:if test="exists(@rend) and (@rend = 'space-after')">
+            <xsl:text>\vspace{2mm}</xsl:text>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl[@type = 'article']">
+        <xsl:text>\textsc{</xsl:text>
+        <xsl:value-of select="child::tei:author/text()"/>
+        <xsl:text>}, </xsl:text>
+        <xsl:value-of select="child::tei:title/text()"/>
+        <xsl:text>, in: </xsl:text>
+        <xsl:text>\textsc{</xsl:text>
+        <xsl:value-of select="child::tei:bibl/child::tei:editor/text()"/>
+        <xsl:text>}</xsl:text>
+        <xsl:if test="child::tei:bibl/child::tei:editor/@rend = 'single'">
+            <xsl:text> (ed.),</xsl:text>
+        </xsl:if>
+        <xsl:if test="child::tei:bibl/child::tei:editor/@rend = 'multiple'">
+            <xsl:text> (eds.),</xsl:text>
+        </xsl:if>
+        <xsl:text> \textit{</xsl:text>
+        <xsl:value-of select="child::tei:bibl/child::tei:title[@subtype = 'main']/text()"/>
+        <xsl:text>}. </xsl:text>
+        <xsl:value-of select="child::tei:bibl/child::tei:title[@subtype = 'addition']/text()"/>
+        <xsl:text>, </xsl:text>
+        <xsl:if test="exists(child::tei:citedRange/child::tei:ref)">
+            <xsl:apply-templates select="child::tei:citedRange"/>
+        </xsl:if>
+        <xsl:if test="not(exists(child::tei:citedRange/child::tei:ref))">
+            <xsl:value-of select="child::tei:citedRange/text()"/>
+        </xsl:if>
+        <xsl:text>.\par</xsl:text>
+        <xsl:if test="exists(@rend) and (@rend = 'space-after')">
+            <xsl:text>\vspace{2mm}</xsl:text>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="tei:citedRange">
         <xsl:apply-templates select="child::node()"/>
     </xsl:template>
     
@@ -174,7 +364,12 @@
         <xsl:if test="not(parent::tei:hi)">
             <xsl:choose>
                 <xsl:when test="normalize-space(.) = ''"></xsl:when>
-                <xsl:when test="normalize-space(.) = ' '"></xsl:when>
+                <!-- <xsl:when test="(normalize-space(.) = ' ') and ancestor::tei:div[@xml:lang = 'en']"><xsl:text> </xsl:text></xsl:when> -->
+                <xsl:when test="ancestor::tei:div[@xml:lang = 'en']">
+                    <xsl:text>\begin{english}</xsl:text>
+                    <xsl:value-of select="."/>
+                    <xsl:text>\end{english}</xsl:text>
+                </xsl:when>
                 <xsl:otherwise>
                     <xsl:text>\begin{syriac}\textxecolor{black}{</xsl:text>
                         <xsl:value-of select="normalize-space(.)"/>
