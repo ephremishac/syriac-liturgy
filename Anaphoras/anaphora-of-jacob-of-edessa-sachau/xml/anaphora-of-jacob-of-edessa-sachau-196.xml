@@ -19,7 +19,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>IMAFO</publisher>
-            <date>19.08.2024</date>
+            <date>21.09.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Available under the
                   Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
@@ -46,7 +46,7 @@
          <div type="introduction" n="Introduction" xml:lang="en">
             <div type="introduction-subsection" n="Jacob of Edessa - Life and Work">
                <p>Two reports about the life of Jacob of Edessa are preserved: One in the <emph rend="italic">Chronicle </emph> of Michael the Syrian (1126–1199 CE; Chabot 1901, 471-472; Chabot 1910, 445-446.) and one in the <emph rend="italic">Church History </emph> of Barhebraeus (1225/26–1286 CE; Abbeloos / Lamy 1872, 289-294.), both of much later time.</p>
-               <p>Jacob of Edessa (c. 633–708) was a prominent Syriac scholar and bishop, significantly contributing to Syriac orthography, biblical studies, and church liturgy. Born in 633 in ʿAin Daba in the Chora of Antioch, a region with a bilingual Greek and Syriac culture, he received his early education under Chorepiscopus Quryaqos and furthered his studies at the famous Miaphysite Monastery of Qenneshrin. Jacob likely studied under Severus Sabukht and became fluent in Greek, enabling him to revise the Syriac Old Testament based on the Greek Septuagint. After studying in Alexandria, he returned to Edessa, where he gained fame as 'the interpreter of the books' and was consecrated as bishop by Patriarch Athanasius of Balad. However, his tenure as bishop lasted only four years due to his strong stance on church canons and opposition to compromises, leading to his resignation. Jacob then dedicated himself to teaching and writing in monasteries, significantly influencing Syriac liturgy and ecclesiastical discipline. In his final years at the Great Monastery of Tal ʿAda (nearby Aleppo), he spent nine years revising the Syriac Bible and producing theological and liturgical texts. He passed away on June 5, 708, leaving a lasting legacy in the Syriac Church.</p>
+               <p>Jacob of Edessa (c. 633–708) was a prominent Syriac scholar and bishop, significantly contributing to Syriac orthography, biblical studies, and church liturgy. Born in 633 in ʿAin Daba in the Chora of Antioch, a region with a bilingual Greek and Syriac culture, he received his early education under Chorepiscopus Quryaqos and furthered his studies at the famous Miaphysite Monastery of Qenneshrin. Jacob likely studied under Severus Sabukht and became fluent in Greek, enabling him to revise the Syriac Old Testament based on the Greek Septuagint. After studying in Alexandria, he returned to Edessa, where he gained fame as ‘the interpreter of the books’ and was consecrated as bishop by Patriarch Athanasius of Balad. However, his tenure as bishop lasted only four years due to his strong stance on church canons and opposition to compromises, leading to his resignation. Jacob then dedicated himself to teaching and writing in monasteries, significantly influencing Syriac liturgy and ecclesiastical discipline. In his final years at the Great Monastery of Tal ʿAda (nearby Aleppo), he spent nine years revising the Syriac Bible and producing theological and liturgical texts. He passed away on June 5, 708, leaving a lasting legacy in the Syriac Church.</p>
             </div>
             <div type="introduction-subsection" n="The Edition of A. Raes">
                <p rend="space-after">A. Raes gives a list of 30 manuscripts containing the anaphora of Jacob of Edessa. (Raes 1981, 47-48.) This list can be supplemented with the following witnesses:</p>
@@ -73,25 +73,25 @@
                <p>Raes casts doubt on Jacob of Edessa's authorship of the anaphora attributed to him, citing the late date of the surviving manuscripts (13th century) as evidence. While this is a valid point, it overlooks the fragility of liturgical texts. Frequent use in rituals can lead to damage and loss, potentially explaining the absence of earlier copies. The lack of earlier manuscripts shouldn't automatically equate to a late composition date for the anaphora.</p>
                <p>More importantly, a closer examination reveals a different story. Stylistic and theological similarities exist between the disputed anaphora and Jacob of Edessa's established works, particularly his commentary on the liturgy. These shared elements, whether specific phrasing, prayer structures, or underlying theological concepts, suggest a potential connection between the author of the anaphora and Jacob’s school of thought. Even if direct authorship remains unclear, this connection strengthens the case for Jacob’s influence on the anaphora's composition.</p>
                <p>Therefore, while Raes' observation on the late manuscripts warrants attention, it should not be the sole factor in determining authorship. Further research is needed to explore the possibility of earlier, damaged, or lost manuscripts. Additionally, investigating historical records or references to the Anaphora in other sources could shed light on its origins.</p>
-               <p>Moreover, the text of this Anaphora shares terminology and imagery with Jacob's translations, and reflects themes from his translated works that suggest the community's suffering. Eschatological elements emphasize hope for the faithful after persecution and a coming judgement. The focus on angelic praise aligns with broader liturgical themes. While the Anaphora's theology might be considered "ecumenical" within West Syriac traditions, the compiler could have used techniques similar to Jacob's to express suffering and encourage perseverance. Ultimately, the presentation highlights the complexities of authorship attribution and the potential historical context embedded within this Syriac Anaphora.</p>
+               <p>Moreover, the text of this Anaphora shares terminology and imagery with Jacob's translations, and reflects themes from his translated works that suggest the community's suffering. Eschatological elements emphasize hope for the faithful after persecution and a coming judgement. The focus on angelic praise aligns with broader liturgical themes. While the Anaphora's theology might be considered “ecumenical” within West Syriac traditions, the compiler could have used techniques similar to Jacob's to express suffering and encourage perseverance. Ultimately, the presentation highlights the complexities of authorship attribution and the potential historical context embedded within this Syriac Anaphora.</p>
                <p>In fact, Jacob lived during a period of significant Muslim influence in Syria. His writings, particularly his canons and responses to inquiries, offer a glimpse into the challenges faced by Christians under Islamic rule. Therefore, as Jacob of Edessa might have used his translation of the Testamentum Domini, a text emphasizing eschatological themes, to comfort his suffering community, so his focus on an afterlife and ultimate judgement could have provided solace amidst present hardships. This connection between the Anaphora's eschatology and the historical context adds another layer.</p>
             </div>
             <div type="introduction-subsection" n="The Present Edition">
                <p>The manuscript chosen, Berlin, Sachau 196, a collection of Syriac Anaphoras dated back to 1280 AD. Several aspects make Sachau 196 a valuable witness for studying the Jacob of Edessa’s Anaphora:</p>
-               <p><emph rend="italic">Evidence of Active Use in Prayer</emph>:  Sachau 196 bears significant evidence of having been actively used in liturgical practices. The presence of wax marks throughout the manuscript, most likely caused by candles during prayer services, clearly demonstrates this. These wax marks are; they are physical proof that the text was not simply a theoretical document but a practical resource used in worship.</p>
+               <p><emph rend="italic">Evidence of Active Use in Prayer</emph>:  Sachau 196 bears significant evidence of having been actively used in liturgical practices. The presence of wax marks throughout the manuscript, most likely caused by candles during prayer services, clearly demonstrates this. These wax marks are physical proof that the text was not simply a theoretical document but a practical resource used in worship.</p>
                <p><emph rend="italic">Potential Reliability</emph>: Liturgical texts used in actual worship are more likely to have remained faithful to the original form compared to purely academic copies. Since Sachau 196 shows clear signs of active use through the presence of wax marks, it offers a potentially more reliable representation of the Anaphora as it was likely used historically.</p>
                <p><emph rend="italic">Relatively Early Date</emph>: While not the earliest surviving Syriac Anaphora manuscript (most pre-9th century examples are fragments), Sachau 196 is relatively old.</p>
                <p><emph rend="italic">Placement of the Anaphora</emph>:  The Anaphora of Jacob of Edessa is the first complete text in Sachau 196, followed by three others. This placement might suggest a level of prominence for our Anaphora within this particular collection.</p>
-               <p><emph rend="italic">Official Note Regarding Another Anaphora</emph>: An interesting note by the Syriac Orthodox Patriarch Ignatius IV appears next to a different Anaphora in the manuscript, instructing clergy to pray using that specific text. This suggests a level of control by the Church hierarchy over which Anaphoras were used, but also highlights the diversity of liturgical texts in circulation during this period.</p>
+               <p><emph rend="italic">Official Note Regarding Another Anaphora</emph>: An interesting note by the Syriac Orthodox Patriarch appears next to a different Anaphora in the manuscript, instructing clergy to pray using that specific text. This suggests a level of control by the Church hierarchy over which Anaphoras were used, but also highlights the diversity of liturgical texts in circulation during this period.</p>
                <p>Finally, while Sachau 196 may not be the definitive version of Jacob of Edessa’s Anaphora, its status as a liturgical text with physical evidence of use (wax marks), along with its unique features, makes it a valuable testimony for examining the content and potential historical context of this liturgy.</p>
             </div>
             <div type="introduction-subsection" n="The Significance of the Anaphora of Jacob of Edessa">
                <p>The Anaphora attributed to Jacob of Edessa holds significance for several reasons:</p> 
-               <p>Firstly, it offers a glimpse into a specific historical context. The repeated emphasis on "true faith" alongside references to suffering suggests the Anaphora originated from a community facing persecution. This could be due to religious conflict or the rise of Islam. By studying this text, we gain insight into the challenges faced by Syriac Christians during that period.</p>
-               <p>Secondly, the Anaphora might be linked to Jacob of Edessa himself. If authorship is confirmed, it would shed light on Jacob's theological views and the conflicts he had with the Church hierarchy. His struggles to uphold Church canons might be reflected in the emphasis on "true faith."</p>
+               <p>Firstly, it offers a glimpse into a specific historical context. The repeated emphasis on “true faith” alongside references to suffering suggests the Anaphora originated from a community facing persecution. This could be due to religious conflict or the rise of Islam. By studying this text, we gain insight into the challenges faced by Syriac Christians during that period.</p>
+               <p>Secondly, the Anaphora might be linked to Jacob of Edessa himself. If authorship is confirmed, it would shed light on Jacob's theological views and the conflicts he had with the Church hierarchy. His struggles to uphold Church canons might be reflected in the emphasis on “true faith.”</p>
                <p>Thirdly, this Anaphora contributes to our understanding of Syriac liturgy. By adding to the known body of Syriac liturgical texts, it helps us comprehend the development and diversity of Syriac Eucharistic prayers.</p>
-               <p>The peculiar features of this Anaphora also deserve attention. The repeated use of "true faith" suggests a community actively defining and defending its beliefs against external pressures or perceived unorthodoxy. The text might even allude to an internal conflict within the Church, with the author's community considering themselves the true believers. Interestingly, the Anaphora links suffering and persecution with maintaining true faith. This suggests an eschatological interpretation – enduring hardship demonstrates true faith and leads to future reward.</p>
-               <p>However, situating this specific Anaphora within the broader liturgical and theological development is challenging due to the uncertainty surrounding its authorship and date. Nevertheless, some general observations can be made. This Anaphora contributes to the rich tradition of Syriac Eucharistic prayers, demonstrating the diversity within Syriac liturgical practices. The emphasis on "true faith" might reflect broader theological debates within the Syriac Orthodox Church during this period. The themes of persecution and endurance might resonate with other Syriac writings that addressed similar challenges faced by the Church.</p>
+               <p>The peculiar features of this Anaphora also deserve attention. The repeated use of “true faith” suggests a community actively defining and defending its beliefs against external pressures or perceived unorthodoxy. The text might even allude to an internal conflict within the Church, with the author's community considering themselves the true believers. Interestingly, the Anaphora links suffering and persecution with maintaining true faith. This suggests an eschatological interpretation – enduring hardship demonstrates true faith and leads to future reward.</p>
+               <p>However, situating this specific Anaphora within the broader liturgical and theological development is challenging due to the uncertainty surrounding its authorship and date. Nevertheless, some general observations can be made. This Anaphora contributes to the rich tradition of Syriac Eucharistic prayers, demonstrating the diversity within Syriac liturgical practices. The emphasis on “true faith” might reflect broader theological debates within the Syriac Orthodox Church during this period. The themes of persecution and endurance might resonate with other Syriac writings that addressed similar challenges faced by the Church.</p>
                <p>Further research is needed to definitively determine the authorship and historical context of the Anaphora. Examining other Syriac theological and liturgical texts from the same period (as hoped from building Syriac Liturgical Corpus) could provide valuable context and help situate this Anaphora within the broader historical and theological landscape.</p>
             </div>
          </div>
@@ -552,86 +552,87 @@
          </div>
          <div type="translation" n="Translation" xml:lang="en">
             <div type="translation-liturgical-section" n="Title" corresp="#sachau-196-1">
-               <p>Anaphora of the holy Mor Jacob of Edessa.</p>
+               <p><hi rend="rubric">Anaphora of the holy Mor Jacob of Edessa</hi></p>
             </div>
             <div type="translation-liturgical-section" n="Prayer before Peace" corresp="#sachau-196-2">
-               <p>Firstly: Prayer before peace. Priest: God, father of all and lord of lordship, who is eternal begetter, who begets the eternal son eternally beyond time and mystically. Source of peace, fountain of tranquility and depth of perfect love.</p>
-               <p>You are the giver of tranquility, make us worthy to embrace and kiss one another spiritually, with true love, without deceit, through your only begotten son, the giver of peace. With him befits you honor and power with your spirit.</p>
-               <p>People: Amen.</p>
-               <p>Deacon: Let us give.</p>
+               <p>Firstly: <hi rend="rubric">Prayer before peace.</hi> <hi rend="rubric">Priest:</hi> God, father of all and lord of lordship, who is eternal begetter, who begets the eternal son eternally beyond time and mystically. Source of peace, fountain of tranquility and depth of perfect love. You are the giver of tranquility, make us worthy to embrace and kiss one another spiritually, with true love, without deceit, through your only begotten son, the giver of peace. With him befits you honor and power with your spirit.</p>
+               <p><hi rend="rubric">People:</hi> Amen.</p>
+               <p><hi rend="rubric">Deacon:</hi> Let us give.</p>
             </div>
             <div type="translation-liturgical-section" n="First Benediction" corresp="#sachau-196-3">
-               <p>Priest: Now therefore, we are mingled and united with one another with true love and with humble spirit. We have taken off the garments of our old man and our necks before your mercy we incline. Therefore, we beseech your genuine grace: to be upon your entire nation and inheritance, which has been bought by the saving blood of your Christ, all sorts of your abundant blessings and your perfect graces, so that with tongues that have been united in the holy body of your only begotten son, through him may we offer up glory and thanks to you and to the Holy Spirit.</p>
-               <p>People: Amen.</p>
+               <p><hi rend="rubric">Priest:</hi> Now therefore, we are mingled and united with one another with true love and with humble spirit. We have taken off the garments of our old man and our necks before your mercy we incline. Therefore, we beseech your genuine grace: to be upon your entire nation and inheritance, which has been bought by the saving blood of your Christ, all sorts of your abundant blessings and your perfect graces, so that with tongues that have been united in the holy body of your only begotten son, through him may we offer up glory and thanks to you and to the Holy Spirit.</p>
+               <p><hi rend="rubric">People:</hi> Amen.</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer over the Veil" corresp="#sachau-196-5">
-               <p>Priest: You are with your graceful benevolence and by the mercies that are essentially united in you, in the beginning, out of nothingness, you have created us in the glorious image of your greatness.</p>
+               <p><hi rend="rubric">Priest:</hi> You are with your graceful benevolence and by the mercies that are essentially united in you, in the beginning, out of nothingness, you have created us in the glorious image of your greatness.</p>
                <p>When we became corrupted and were reduced to destruction, by your grace and not because of our righteousness, you did send God the word, your son, for our salvation.</p>
                <p>Now, O Lord, by the same grace with which you have created us in the beginning and by the natural mercies with which you have redeemed us in the end, treat us now, lest we may be ashamed by our sins when we offer these holy mysteries. Rather, by them may we be cleansed from defilement and impurity of sin and offer up glory.</p>
-               <p>People: Amen.</p>
-               <p>Deacon: Let us stand.</p>
-               <p>Priest: Love of ...</p>
-               <p>People: And with ...</p>
+               <p><hi rend="rubric">People:</hi> Amen.</p>
+               <p><hi rend="rubric">Deacon:</hi> Let us stand.</p>
+               <p><hi rend="rubric">Priest:</hi> Love of ...</p>
+               <p><hi rend="rubric">People:</hi> And with ...</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer before the Sanctus" corresp="#sachau-196-8">
-               <p>Priest inclined: It is meet and very right that you should be blessed, glorified, honored and extolled our God, not only by us, but also by all the heavenly hosts.</p>
-               <p>With raised voice: Before you, they are trembling and terrified and as they make a joyful voice, glorifying your magnificence, the thousands of thousands and myriads of myriads heavenly intelligences and supernatural cohorts, simple and uncompounded substances, from immaterial flame are blessing you. Amazing and terrible orders made from the flames of swift running fire praise you.</p>
+               <p><hi rend="rubric">Priest inclined:</hi> It is meet and very right that you should be blessed, glorified, honored and extolled our God, not only by us, but also by all the heavenly hosts.</p>
+               <p><hi rend="rubric">With raised voice:</hi> Before you, they are trembling and terrified and as they make a joyful voice, glorifying your magnificence, the thousands of thousands and myriads of myriads heavenly intelligences and supernatural cohorts, simple and uncompounded substances, from immaterial flame are blessing you. Amazing and terrible orders made from the flames of swift running fire praise you.</p>
                <p>The mighty troops of awe, whose lips drop burning coals, praise you. The extended bands, with mighty movements, of the Cherubim who bear your invisible nature extol you.</p>
                <p>The orderly ranks of the six-winged Seraphim sanctify you with their thrice-holy hymns, as they cover their fiery faces with fiery wings from your intense flame. With pure melodies exalted above the world, with one voice, they clamor, shout, cry out.</p>
-               <p>People: Holy ...</p>
+               <p><hi rend="rubric">People:</hi> Holy ...</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer after Sanctus" corresp="#sachau-196-9">
-               <p>Priest inclined: O Lord, you are holy and the fount of holiness. When we have erred and fell into the dust, that nature from which we were created, by the exalted grace proper to you, you lifted us up. You sent the prophets for our direction and when they were unable to redeem us, you sent your son, the word of God for our help. He became embodied from our creation, in order to recreate it, and for us he received everything appropriate to a human being, but what is proper to God, he accomplished for our salvation.</p>
+               <p><hi rend="rubric">Priest inclined</hi>: O Lord, you are holy and the fount of holiness. When we have erred and fell into the dust, that nature from which we were created, by the exalted grace proper to you, you lifted us up. You sent the prophets for our direction and when they were unable to redeem us, you sent your son, the word of God for our help. He became embodied from our creation, in order to recreate it, and for us he received everything appropriate to a human being, but what is proper to God, he accomplished for our salvation.</p>
             </div>
             <div type="translation-liturgical-section" n="Words of Institution" corresp="#sachau-196-10">
-               <p>With raised voice: As the lamb of the law typified the heavenly lamb, he ate it with his holy disciples wanting to lift us up from the lambs, kids and the bodily sacrifices, and to raise us to the loftiness of the heavenly sacrifices and the divine mysteries. On that evening in which he was about to give himself as a sacrifice for us, he took bread in his holy and undefiled hands, lifted his subtle gaze above to heaven, to the father and gave thanks, and he blessed, sanctified, broke, ate and gave to the disciples, saying: Take, eat from it. This is my body, which is for the life of the creation broken and divided for the remission of sins and the life eternal. Similarly, again he mixed water with wine proportionately in the cup and gave thanks over it. After having gladdened his disciples at the table of the mysteries he blessed, sanctified and stretched out to his holy apostle, saying: This is my blood which I shed for the life of the world and which invites those who believe in me, to the life eternal. Do thus, whenever you eat this body and drink this cup. Remember my death until I come.</p>
-               <p>People: Your death.</p>
+               <p><hi rend="rubric">With raised voice:</hi> As the lamb of the law typified the heavenly lamb he ate with his holy disciples wanting to lift us up from the lambs, kids and the bodily sacrifices, and to raise us to the loftiness of the heavenly sacrifices and the divine mysteries. On that evening in which he was about to give himself as a sacrifice for us, he took bread in his holy and undefiled hands, lifted his subtle gaze above to heaven, to the father and gave thanks, and he blessed, sanctified, broke, ate and gave to the disciples, saying: Take, eat from it. This is my body, which is for the life of the creation broken and divided for the remission of sins and the life eternal.</p>
+               <p>Similarly, again he mixed water with wine proportionately in the cup and gave thanks over it. After having gladdened his disciples at the table of the mysteries he blessed, sanctified and stretched out to his apostle, saying: This is my blood which I shed for the life of the world and which invites those who believe in me, to the life eternal.</p>
+               <p>Do thus, whenever you eat this body and drink this cup. Remember my death until I come.</p>
+               <p><hi rend="rubric">People:</hi> Your death.</p>
             </div>
             <div type="translation-liturgical-section" n="Anamnesis" corresp="#sachau-196-13">
-               <p>Priest: And as we write upon the tablet of our hearts your dispensation which is above nature, and behold with the eyes of our minds the awe-inspiring mysteries of your wonderful deeds, O God the word we also remember your dreadful and awe-inspiring manifestation in your second coming, when you will shine out from the east as vehement lightening and shake the foundations of the earth with the power of your might. When you come amid great magnificence and sit on the glorious throne of your magnificience amid unspeakable glory, when the earth empties out like the potter's vessel the bodies that are hidden in it and Sheol awkakens from sleep the dead who lie down in it, then there will be no consolation for the lamentation of the wicked, and no sorrow for the joy of the righteous, at that dreadful hour, may your mercy have pity on your people and inheritance. Do not cut off our hope from your grace. Do not deprive our trust of your benevolence.
+               <p><hi rend="rubric">Priest:</hi> And as we write upon the tablet of our hearts your dispensation which is above nature, and behold with the eyes of our minds the awe-inspiring mysteries of your wonderful deeds, O God the word we also remember your dreadful and awe-inspiring manifestation in your second coming, when you will shine out from the east as vehement lightening and shake the foundations of the earth with the power of your might. When you come amid great magnificence and sit on the glorious throne of your magnificience amid unspeakable glory, when the earth empties out like the potter's vessel the bodies that are hidden in it and Sheol awkakens from sleep the dead who lie down in it, then there will be no consolation for the lamentation of the wicked, and no sorrow for the joy of the righteous, at that dreadful hour, may your mercy have pity on your people and inheritance. Do not cut off our hope from your grace. Do not deprive our trust of your benevolence.
  May our sins not cover the seal of your holy myron. As a result of our sins, may we not be stripped off from your divine baptism. Do not treat us without mercy, Lord. Do not turn your face from us. May we not beseech mercy, having nobody to pity on us. May we not cry out in suffering, having nobody to console us.
  May we not be tormented in hell having nobody to show compassion. May not your true promises be withheld from us on account of our sins and transgressions. May those who did not deny your cross, not be found guilty with those who forsook your sufferings and passions.
  May those who believed in you, not be counted with those who did not confess you. O Lord, we have suffered insult and mocking for the sake of your holy name and we have been buffeted by the foreign peoples for your true faith.</p>
-               <p>I think that the translation has an error here because the text is doubled. To be translated: dl' kprnn ... kd 'mr' (p. 5r)</p>
-               <p>People: Have mercy.</p>
-               <p>Priest: So we are ...</p>
-               <p>People: To you we glorify.</p>
-               <p>Deacon: How fearful is ...</p>
+               <p>Since we have not renounced you, do not renounce us. Since we have not rejected your meekness, may we not be prevented from the joy with you. For all these, your church and your flock beseech you, through you, and with you, to your father, saying:</p>
+               <p><hi rend="rubric">People:</hi> Have mercy.</p>
+               <p><hi rend="rubric">Priest:</hi> So we are ...</p>
+               <p><hi rend="rubric">People:</hi> To you we glorify.</p>
+               <p><hi rend="rubric">Deacon:</hi> How fearful is ...</p>
             </div>
             <div type="translation-liturgical-section" n="Invocation of the Holy Spirit" corresp="#sachau-196-17">
-               <p>Priest. Invocation of the Holy Spirit while being inclined: Indeed, O God, have mercy upon us and send the grace of your Holy Spirit, who is the giver of life, who is consubstantial to you, who spoke through the prophets, who made the apostles wise and who encouraged the martyrs, may he tabernacle upon these mysteries.</p>
-               <p>Priest: Answer me.</p>
-               <p>People: Lord have mercy.</p>
-               <p>Priest: So that by tabernacling, may he make his bread the body of Christ our God. Amen. And may he manifest this cup to be the blood of Christ our God. Amen. When they are mingled and united with our souls and body, may they be for our absolution and not for indictment; for the purification and not for condemnation; for the confidence before the dreadful throne of your greatness and for the mingling with the lambs of your right hand side. For your promises are true and trustworthy, O Father, Son and the Holy Spirit.</p>
+               <p><hi rend="rubric">Priest.</hi> <hi rend="rubric">Invocation of the Holy Spirit while being inclined:</hi> Indeed, O God, have mercy upon us and send the grace of your Holy Spirit, who is the giver of life, who is consubstantial to you, who spoke through the prophets, who made the apostles wise and who encouraged the martyrs, may he tabernacle upon these mysteries.</p>
+               <p><hi rend="rubric">Priest:</hi> Answer me.</p>
+               <p><hi rend="rubric">People:</hi> Lord have mercy.</p>
+               <p><hi rend="rubric">Priest:</hi> So that by tabernacling, may he make his bread the body of Christ our God. Amen. And may he manifest this cup to be the blood of Christ our God. Amen. When they are mingled and united with our souls and body, may they be for our absolution and not for indictment; for the purification and not for condemnation; for the confidence before the dreadful throne of your greatness and for the mingling with the lambs of your right hand side. For your promises are true and trustworthy, O Father, Son and the Holy Spirit.</p>
             </div>
             <div type="translation-liturgical-section" n="Intercession Prayers" corresp="#sachau-196-19">
-               <p>Inclined: We offer you this sacrifice for the entire Orthodox Church, for the patriarchs, bishops, priests, deacons, true believers and for my wretchedness which is full of hateful things.</p>
-               <p>With raised voice: So that through these mysteries may your glorious Church be exalted and triumphant, whose tents you have broadened from one end of the world to the other. May she be strengthened by the might of your arm. Make her mighty by your heroism and may she offer up praise.</p>
-               <p>Inclined: By your mercy, you alone accept these offerings from my sinful hands. Remember also all those who desired to offer but could not.</p>
-               <p>Proclamation: O Lord, remember at the time of this offering, those who, with true faith, set apart the first fruits, offerings and gifts for the holy Church and participated in the need and poverty of those who are in tribulation. O Lord, do not disregard the supplication and imploring of those who are distressed in heart, for you are gracious, benevolent and the lover of mankind. To you is the glory and thanksgiving.</p>
-               <p>Inclination: Remember, O Lord, the believing kings who assist your holy Church. Fight for them and pronounce judgment against their enemies.</p>
-               <p>Proclamation: Annihilate and disperse the ravening wolves that are greedily gnashing their teeth against the sheeps of your holy sheepfold. By the intense might of your arm, make blunt and shatter the swords thirsting for the blood of your worshippers. Strengthen, O Lord, and help by your invincible strength the army that fights for the edification of the Church of your only begotten son, because you are the shelter, saviour and our help. To you is the glory.</p>
-               <p>Inclination: O Lord, as you make good remembrance of the prophets and those who have declared your revelations, remember Mary, the mother of God, the apostles and martyrs and confessors.</p>
-               <p>With raised voice: The divine teachers of the inscrutable mysteries of the dispensation of your only begotten, the onlookers of the hidden, the prophets of the events to come, who by simple word, have put to shame the wisdom of the wise, and in weakness of body have shaken the thrones of the mighty kings and have given their necks to torments and afflictions for your holy name, who have renounced the world and its desires and have run after the commandments of your Christ, o Lord, by their supplications, strengthen our souls in your truth, make firm our hearts in your faith, for you are the giver of good gifts. We offer up glory.</p>
-               <p>Inclination: At this hour, remember, O Lord, the Orthodox teachers, namely Ignatius, Athanasius, Gregorius and those who follow their footsteps.</p>
-               <p>Proclamation: O Lord, those who, by the brilliancy of theology, inspired by your Holy Spirit have illumined the darkness of every nation, who have extended the cords of the daughter of gentiles, bought by the blood of your only begotten son, from one end of the world to the other, why by the swords of the spirit have cut away the dead limbs from the holy body of your Christ. By their acceptable prayers, make us, O Lord, firm in their Orthodox faith, so that with them we may offer up praise and thanksgiving.</p>
-               <p>Inclination: Remember, O Lord, at this hour the faithful departed for whom this sacrifice has been offered, especially our spiritual and temporal fathers and brethren.</p>
-               <p>With raised voice: Those who, with true hope and trust in faith in you, have departed from this world of sadness and left this life of groans and have reached you, our fathers, brethren and teachers. Remember, receive and give rest in Abraham's bosom in the tents of joy, in the tents of light in the world of cheerfulness, in the Church of Jerusalem where there is no place for sorrow, or the way of sadness. Let them be avsolved by your mercy and may they be sheltered under the wings of your compassion. May their sins be not remembered, for there is no one among those who have clothed in the flesh on earth free from the world's defilements, except our Lord Jesus Christ, your only begotten son, through whom, we also hope to find mercy.</p>
-               <p>People: Give rest.</p>
+               <p><hi rend="rubric">Inclined:</hi> We offer you this sacrifice for the entire Orthodox Church, for the patriarchs, bishops, priests, deacons, true believers and for my wretchedness which is full of hateful things.</p>
+               <p><hi rend="rubric">With raised voice:</hi> So that through these mysteries may your glorious Church be exalted and triumphant, whose tents you have broadened from one end of the world to the other. May she be strengthened by the might of your arm. Make her mighty by your heroism and may she offer up praise.</p>
+               <p><hi rend="rubric">Inclined:</hi> By your mercy, you alone accept these offerings from my sinful hands. Remember also all those who desired to offer but could not.</p>
+               <p><hi rend="rubric">Proclamation:</hi> O Lord, remember at the time of this offering, those who, with true faith, set apart the first fruits, offerings and gifts for the holy Church and participated in the need and poverty of those who are in tribulation. O Lord, do not disregard the supplication and imploring of those who are distressed in heart, for you are gracious, benevolent and the lover of mankind. To you is the glory and thanksgiving.</p>
+               <p><hi rend="rubric">Inclination:</hi> Remember, O Lord, the believing kings who assist your holy Church. Fight for them and pronounce judgment against their enemies.</p>
+               <p><hi rend="rubric">Proclamation:</hi> Annihilate and disperse the ravening wolves that are greedily gnashing their teeth against the sheeps of your holy sheepfold. By the intense might of your arm, make blunt and shatter the swords thirsting for the blood of your worshippers. Strengthen, O Lord, and help by your invincible strength the army that fights for the edification of the Church of your only begotten son, because you are the shelter, saviour and our help. To you is the glory.</p>
+               <p><hi rend="rubric">Inclination:</hi> O Lord, as you make good remembrance of the prophets and those who have declared your revelations, remember Mary, the mother of God, the apostles and martyrs and confessors.</p>
+               <p><hi rend="rubric">With raised voice:</hi> The divine teachers of the inscrutable mysteries of the dispensation of your only begotten, the onlookers of the hidden, the prophets of the events to come, who by simple word, have put to shame the wisdom of the wise, and in weakness of body have shaken the thrones of the mighty kings and have given their necks to torments and afflictions for your holy name, who have renounced the world and its desires and have run after the commandments of your Christ, o Lord, by their supplications, strengthen our souls in your truth, make firm our hearts in your faith, for you are the giver of good gifts. We offer up glory.</p>
+               <p><hi rend="rubric">Inclination:</hi> At this hour, remember, O Lord, the Orthodox teachers, namely Ignatius, Athanasius, Gregorius and those who follow their footsteps.</p>
+               <p><hi rend="rubric">Proclamation:</hi> O Lord, those who, by the brilliancy of theology, inspired by your Holy Spirit have illumined the darkness of every nation, who have extended the cords of the daughter of gentiles, bought by the blood of your only begotten son, from one end of the world to the other, why by the swords of the spirit have cut away the dead limbs from the holy body of your Christ. By their acceptable prayers, make us, O Lord, firm in their Orthodox faith, so that with them we may offer up praise and thanksgiving.</p>
+               <p><hi rend="rubric">Inclination:</hi> Remember, O Lord, at this hour the faithful departed for whom this sacrifice has been offered, especially our spiritual and temporal fathers and brethren.</p>
+               <p><hi rend="rubric">With raised voice:</hi> Those who, with true hope and trust in faith in you, have departed from this world of sadness and left this life of groans and have reached you, our fathers, brethren and teachers. Remember, receive and give rest in Abraham's bosom in the tents of joy, in the tents of light in the world of cheerfulness, in the Church of Jerusalem where there is no place for sorrow, or the way of sadness. Let them be avsolved by your mercy and may they be sheltered under the wings of your compassion. May their sins be not remembered, for there is no one among those who have clothed in the flesh on earth free from the world's defilements, except our Lord Jesus Christ, your only begotten son, through whom, we also hope to find mercy.</p>
+               <p><hi rend="rubric">People:</hi> Give rest.</p>
             </div>
             <div type="translation-liturgical-section" n="Concluding Intercessions" corresp="#sachau-196-25">
-               <p>Priest: Relieve us from our necks, O Lord, the heavy burdens that we engaged in this world, and absolve; forgive and remove our and their sins, willingly or unwillingly, with or without knowledge. Do not examine us minutely, when we stand before the fearful throne of your greatness; look and treat us with mercy. May our enemies not rejoice in our ruin, so that in this and in all things your most honoured and praised name may be glorified and praised with that of our Lord.</p>
+               <p><hi rend="rubric">Priest:</hi> Relieve us from our necks, O Lord, the heavy burdens that we engaged in this world, and absolve; forgive and remove our and their sins, willingly or unwillingly, with or without knowledge. Do not examine us minutely, when we stand before the fearful throne of your greatness; look and treat us with mercy. May our enemies not rejoice in our ruin, so that in this and in all things your most honoured and praised name may be glorified and praised.</p>
             </div>
             <div type="translation-liturgical-section" n="The Second Benediction" corresp="#sachau-196-27">
-               <p>People: As it was.</p>
-               <p>Priest: May ...</p>
-               <p>People: With ...</p>
-               <p>Deacon: Qatuliqi.</p>
-               <p>Priest: Breaking (the bread).</p>
+               <p><hi rend="rubric">People:</hi> As it was.</p>
+               <p><hi rend="rubric">Priest:</hi> May ...</p>
+               <p><hi rend="rubric">People:</hi> With ...</p>
+               <p><hi rend="rubric">Deacon:</hi> Qatuliqi.</p>
+               <p><hi rend="rubric">Priest:</hi> Breaking (the bread).</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer before the Lord's Prayer" corresp="#sachau-196-28">
-               <p>Prayer of our father. Ethernal principle, holy father of the eternal son, hidden and inscrutable, glorious, incomparable, incomprehensible and ineffable, who brought forth God the word without beginning and time, and in the end of days and times in a manner beyond word realized the dispensation beyond description, by your essential mercy that is substantially found in you. You acted for mortal creation which was reduced to destruction. You did send the word, your son, our saviour Jesus Christ for its help. He completed everything for our salvation and taught us to pray and to offer you supplication. Hold us all worthy, O Lord, with unsullied lips, with the fervour of true faith and with openness befitting sons, may se shout towards you with one mouth, and pray and say: Our father in heaven.</p>
-               <p>People: Hallowed be they name.</p>
+               <p><hi rend="rubric">Prayer of our father.</hi> Eternal principle, holy father of the eternal son, hidden and inscrutable, glorious, incomparable, incomprehensible and ineffable, who brought forth God the word without beginning and time, and in the end of days and times in a manner beyond word realized the dispensation beyond description, by your essential mercy that is substantially found in you. You acted for mortal creation which was reduced to destruction. You did send the word, your son, our saviour Jesus Christ for its help. He completed everything for our salvation and taught us to pray and to offer you supplication. Hold us all worthy, O Lord, with unsullied lips, with the fervour of true faith and with openness befitting sons, may we shout towards you with one mouth, and pray and say: Our father in heaven.</p>
+               <p><hi rend="rubric">People:</hi> Hallowed be they name.</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer after the Lord's Prayer" corresp="#sachau-196-30">
                <p>Priest: O merciful father, do not loose hold of us so that we fall into temptations that we are unable to bear. But as a compassionate father, visit (us) the weak children. Do not deprive us of your grace. Do not hold back from us your gentle chastening. Do not turn your face from us. Do not cast from us your sheepfold, because yours is the splendor, glory and kingdom and of your only begotten son.</p>
@@ -640,23 +641,23 @@
                <p>People: In front of you.</p>
             </div>
             <div type="translation-liturgical-section" n="The Third Benediction" corresp="#sachau-196-31">
-               <p>Priest: O Lord, bless with your right hand carrying blessings this your believing people who with meekness of mind bend their necks before your mercy and await your overflowing gifts, so that from every filth and blemish of sin, we may be cleansed as we partake in the holy body and divine bloos of your Christ. We offer up all praises and exaltations and glories proper to the richness of your compassion and to your only begotten son and the Holy Spirit.</p>
-               <p>People: Amen.</p>
+               <p><hi rend="rubric">Priest:</hi> O Lord, bless with your right hand carrying blessings this your believing people who with meekness of mind bend their necks before your mercy and await your overflowing gifts, so that from every filth and blemish of sin, we may be cleansed as we partake in the holy body and divine bloos of your Christ. We offer up all praises and exaltations and glories proper to the richness of your compassion and to your only begotten son and the Holy Spirit.</p>
+               <p><hi rend="rubric">People:</hi> Amen.</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer of Thanksgiving" corresp="#sachau-196-33">
-               <p>Priest: Peace.</p>
-               <p>People: With ...</p>
-               <p>Priest: May ...</p>
-               <p>Deacon: With fear.</p>
-               <p>Priest: The holies ...</p>
-               <p>People: One is the father.</p>
-               <p>Priest: One is the holy father.</p>
-               <p>Priest. Prayer after communion: We offer up due thanksgiving to you, O God. Continually, to the best of our power, we give thanks as we implore you, O our God, that these mysteries which we have received may be for us for the remission of debts and for the forgiveness of the sins. By the grace and mercy and philanthropy of your only begotten son with your Holy Spirit preserve and redeem us now.</p>
-               <p>People: Amen.</p>
-               <p>Deacon: For the Lord.</p>
+               <p><hi rend="rubric">Priest:</hi> Peace.</p>
+               <p><hi rend="rubric">People:</hi> With ...</p>
+               <p><hi rend="rubric">Priest:</hi> May ...</p>
+               <p><hi rend="rubric">Deacon:</hi> With fear.</p>
+               <p><hi rend="rubric">Priest:</hi> The holies ...</p>
+               <p><hi rend="rubric">People:</hi> One is the father.</p>
+               <p><hi rend="rubric">Priest:</hi> One is the holy father.</p>
+               <p><hi rend="rubric">Priest.</hi> <hi rend="rubric">Prayer after communion:</hi> We offer up due thanksgiving to you, O God. Continually, to the best of our power, we give thanks as we implore you, O our God, that these mysteries which we have received may be for us for the remission of debts and for the forgiveness of the sins. By the grace and mercy and philanthropy of your only begotten son with your Holy Spirit preserve and redeem us now.</p>
+               <p><hi rend="rubric">People:</hi> Amen.</p>
+               <p><hi rend="rubric">Deacon:</hi> For the Lord.</p>
             </div>
             <div type="translation-liturgical-section" n="Concluding Prayer" corresp="#sachau-196-34">
-               <p>Priest: Before you, merciful Lord, we bow down our necks. Grant them, O benevolent Lord, the harmony of true love and right standing, showering on them by your mercy all abundant goodness and everlasting blessings. Preserve them from all afflictions, for you alone are the compassionate shepherd, who gave up himself and saved the lost souls. We offer up praise to you and to your father who answers supplications, and to your Holy Spirit, the giver of live to the creatures, now. (Completed)</p>
+               <p><hi rend="rubric">Priest:</hi> Before you, merciful Lord, we bow down our necks. Grant them, O benevolent Lord, the harmony of true love and right standing, showering on them by your mercy all abundant goodness and everlasting blessings. Preserve them from all afflictions, for you alone are the compassionate shepherd, who gave up himself and saved the lost souls. We offer up praise to you and to your father who answers supplications, and to your Holy Spirit, the giver of live to the creatures, now. (Completed)</p>
             </div>
          </div>
          <div type="literature" n="Literature" xml:lang="en">
@@ -685,11 +686,11 @@
                   <author>Drijvers, Hendrik J. W.</author>
                   <title>Jakob von Edessa (633 - 708)</title>
                   <bibl>
-                     <editor rend="single">XXX</editor>
+                     <editor rend="single">Müller, Gerhard</editor>
                      <title type="book" subtype="main">Theologische Realenzyklopädie</title>
-                     <title type="book" subtype="addition">16, 2010</title>
+                     <title type="book" subtype="addition">Berlin / New York: Walter de Gruyter, 16 (1987)</title>
                   </bibl>
-                  <citedRange>xxx-xxx</citedRange>
+                  <citedRange>468-470</citedRange>
                </bibl>
                <bibl type="book" rend="space-after">
                   <author>Duval, Ruben</author>
@@ -765,9 +766,9 @@
                   <author>Tilly, Michael</author>
                   <title type="article">Jakob von Edessa</title>
                   <bibl>
-                     <editor rend="single">XXX</editor>
+                     <editor rend="single">Bautz, Friedrich Wilhelm</editor>
                      <title type="book" subtype="main">Biographisch-bibliographisches Kirchenlexikon</title>
-                     <title type="book" subtype="addition">2. xxx: xxx, 1990</title>
+                     <title type="book" subtype="addition">Herzberg: Verlag Traugott Bautz, 2 (1990)</title>
                   </bibl>
                   <citedRange>1461-1463</citedRange>
                </bibl>
@@ -775,11 +776,11 @@
                   <author>Tubach, J.</author>
                   <title type="article">Jakob von Edessa</title>
                   <bibl>
-                     <editor rend="single">XXX</editor>
+                     <editor rend="single">Betz, Hans Dieter</editor>
                      <title type="book" subtype="main">Religion in Geschichte und Gegenwart</title>
-                     <title type="book" subtype="addition">4. Tübingen et al: Mohr Siebeck et al., 2008</title>
+                     <title type="book" subtype="addition">Tübingen et al: Mohr Siebeck, 4 (2001)</title>
                   </bibl>
-                  <citedRange>xxx-xxx</citedRange>
+                  <citedRange>357</citedRange>
                </bibl>
                <bibl type="article" rend="space-after">
                   <author>van Ginkel, Jan J.</author>

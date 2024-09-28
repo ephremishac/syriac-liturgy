@@ -9,7 +9,8 @@
     <xsl:template match="tei:TEI">
         <xsl:text>\documentclass[11pt,a4paper,titlepage]{article}
         \usepackage{polyglossia}
-        %\usepackage{fontspec,xltxtra}
+        \usepackage{fontspec}
+        \usepackage{libertine}
         \usepackage{paralist}
         \usepackage{graphicx}
         \usepackage{xecolor}
@@ -22,7 +23,7 @@
         \pagestyle{fancy}
         \chead{\myfont\textit{Anaphora of Jacob of Edessa}}
         \renewcommand\footrulewidth{0.4pt}
-        \fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
+        <!-- \fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}} -->
         \fancyfoot[C]{\myfont\thepage}
         \setmainlanguage{english}
         \setotherlanguages{syriac}
@@ -166,9 +167,9 @@
     </xsl:template>
     
     <xsl:template match="tei:ref">
-        <xsl:text> \url{</xsl:text>
+        <xsl:text> \small\url{</xsl:text>
         <xsl:value-of select="@target"/>
-        <xsl:text>} </xsl:text>
+        <xsl:text>}\normalsize{} </xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:div[@type = 'literature']">
@@ -353,6 +354,12 @@
     
     <xsl:template match="tei:citedRange">
         <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@rend = 'rubric']">
+        <xsl:text>\textxecolor{red}{</xsl:text>
+        <xsl:value-of select="normalize-space(text())"/>
+        <xsl:text>} </xsl:text>
     </xsl:template>
     
     <xsl:template match="text()">
