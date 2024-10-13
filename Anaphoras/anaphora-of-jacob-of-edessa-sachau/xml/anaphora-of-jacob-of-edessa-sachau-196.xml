@@ -97,11 +97,11 @@
          </div>
          <div type="transcription" xml:lang="syc">
             <ab type="page" n="1r">
-               <seg type="liturgical-section" n="Title" xml:id="sachau-196-1">
+               <seg type="liturgical-section" n="Title" xml:id="sachau-196-1-1">
                   <pb n="1r"/>
                <lb n="1"/><hi rend="emphasized">ܬܘܒ ܐܢܢܐܦܘܪܐ ܕܩܕ̄[ܝܫܐ] ܡܪܝ ܝܥܩܘܒ</hi>
-               <lb n="2"/><hi rend="emphasized">ܕܐܘܪܗܝ</hi></seg><seg type="liturgical-section" n="Prayer before Peace" xml:id="sachau-196-2">ܩ܏ܕܡ<hi rend="emphasized">ܨܠܘܬܐ ܕܩܕܡ ܫܠܡܐ</hi> 
-               <lb n="3"/><hi rend="emphasized">[ܟܗܢܐ]</hi>ܐܠܗܐ ܐܒܐ ܕܟܠ ܘܡܪܐ ܡܪ̈ܘܬܐ. ܗ̇ܘ
+               <lb n="2"/><hi rend="emphasized">ܕܐܘܪܗܝ</hi></seg><seg type="liturgical-section" n="Prayer before Peace" xml:id="sachau-196-1-2">ܩ܏ܕܡ <hi rend="emphasized">ܨܠܘܬܐ ܕܩܕܡ ܫܠܡܐ</hi> 
+               <lb n="3"/><hi rend="emphasized">[ܟܗܢܐ]</hi> ܐܠܗܐ ܐܒܐ ܕܟܠ ܘܡܪܐ ܡܪ̈ܘܬܐ. ܗ̇ܘ 
                <lb n="4"/>ܝܠܘܕܐ ܡܬܘܡܝܐ <note type="textcritical-note"><foreign xml:lang="la">in marg.</foreign> <foreign xml:lang="syc">ܕܝܠܕ ܡܠܬܐ</foreign></note> ܡܬܘܡܝܐ ܘܠܐ ܙܒܢܐܝܬ ܘܠܐ
                <lb n="5"/>ܡܬܦܫܩܢܐܝܬ. ܗ̇ܘ ܡܒܘܥܐ ܕܫܠܡܐ
                <lb n="6"/>ܘܢܒܥܐ ܕܫܝܢܐ ܘܬܗܘܡܐ ܕܚܘܒܐ ܡܫܡܠܝܐ.
@@ -112,7 +112,7 @@
                <lb n="11"/>ܕܝܠܗ ܕܡܫܲܟܢܢܐ ܕܫܝܢܐ ܕܝܚܝܕܝܐ
                <lb n="12"/>ܒܪܐ ܕܝܠܟ. ܕܥܡܗ ܠܟ ܦܐܐ ܏ܫܘ[ܒܚܐ]
                <lb n="13"/>ܘܐܝܩܪܐ ܘܐܘܚܕܢܐ ܥܡ ܪܘܚܐ ܕܝܠܟ.
-               <lb n="14"/><hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ<hi rend="emphasized">ܡܫܡ</hi>ܢܬܠ</seg><seg type="liturgical-section" n="First Benediction" xml:id="sachau-196-3"><hi rend="emphasized">ܟܗܢܐ</hi>ܡܟܝܠ
+               <lb n="14"/><hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ<hi rend="emphasized">ܡܫܡ</hi>ܢܬܠ</seg><seg type="liturgical-section" n="First Benediction" xml:id="sachau-196-1-3" next="#sachau-196-1-4"><hi rend="emphasized">ܟܗܢܐ</hi>ܡܟܝܠ
                <lb n="15"/>ܕܐܬܡܲܙܓܢܢ ܘܐܬܚܲܝܕܢܢ ܚܕ ܠܚܕ
                <lb n="16"/>ܒܚܘܒܐ ܫܪܝܪܐ ܘܒܪܘܚܐ ܡܟܝܟܬܐ.
                <lb n="17"/>ܘܫܠܚܢܢ ܠܥܬܝܩܘܬ ܡ̈ܐܢܐ ܕܒܪܢܫܢ
@@ -122,7 +122,7 @@
                </seg>
             </ab>
             <ab type="page" n="1v">
-               <seg type="liturgical-section" n="First Benediction" xml:id="sachau-196-4" prev="#sachau-196-3">
+               <seg type="liturgical-section" n="First Benediction" xml:id="sachau-196-1-4" prev="#sachau-196-1-3">
                   <pb n="1v"/>
                <lb n="1"/>ܘܝܪܬܘܬܐ ܕܝܠܟ ܗ̇ܝ ܕܒܕܡܐ ܦܪܘܩܝܐ
                <lb n="2"/>ܕܡܫܝܚܟ ܐܙܕܒܢܬ݀. ܟܠܗܝܢ ܒܘܪ̈ܟܬܟ
@@ -130,7 +130,7 @@
                <lb n="4"/>ܐܝܟܢܐ ܕܒܠܫ̈ܢܐ ܕܡܚܲܝܕܝܢ ܒܚܕ ܓܘܫܡܐ
                <lb n="5"/>ܩܕܝܫܐ ܕܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܒܐܝܕ̈ܘܗܝ
                <lb n="6"/>ܢܣܩ ܠܟ ܏ܫܘ[ܒܚܐ] ܘܬܘܕܝܬܐ ܘܠܪܘܚܐ ܏ܩܕ[ܝܫܐ].
-               <lb n="7"/><hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ</seg><seg type="liturgical-section" n="Prayer over the Veil" xml:id="sachau-196-5"><hi rend="emphasized">ܟܗܢܐ</hi>ܐܢܬ ܗܘ ܗ̇ܘ ܕܒܛܒܘܬ
+               <lb n="7"/><hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ</seg><seg type="liturgical-section" n="Prayer over the Veil" xml:id="sachau-196-1-5" next="#sachau-196-1-6"><hi rend="emphasized">ܟܗܢܐ</hi>ܐܢܬ ܗܘ ܗ̇ܘ ܕܒܛܒܘܬ
                <lb n="8"/>ܛܘܒܬܢܘܬܐ ܕܝܠܟ ܕܝܠܟ ܟܝ̇ܢܝܬܐ ܘܒܪ̈ܚܡܐ
                <lb n="9"/>ܠـܚܘܕ ܕܐܘܣܝܐܝܬ ܥܙܝ̣ܠܝܢ ܒܟ. ܡܢ
                <lb n="10"/>ܠܐ ܡܕܡ ܡܢ ܒܪܝܫܝܬ ܠܢ ܒܪܝ̣ܬ
@@ -148,11 +148,11 @@
                </seg>
             </ab>
             <ab type="page" n="2r">
-               <seg type="liturgical-section" n="Prayer over the Veil" xml:id="sachau-196-6" prev="#sachau-196-5">
+               <seg type="liturgical-section" n="Prayer over the Veil" xml:id="sachau-196-1-6" prev="#sachau-196-1-5">
                   <pb n="2r"/>
                <lb n="1"/>ܢܬܚ̇ܠܠ ܡܢ ܨ̈ܘܥܨܥܐ ܘܨܐܬܐ ܕܚܛܝ̣ܬܐ.<hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ
                <lb n="2"/><hi rend="emphasized">ܡܫܡ</hi>ܢܩܘܡ<hi rend="emphasized">ܟܗܢܐ</hi>ܚܘ̣ܒܐ<hi rend="emphasized">ܥܡܐ</hi>ܘܥܡ</seg>
-               <seg type="liturgical-section" n="Prayer before the Sanctus" xml:id="sachau-196-7">
+               <seg type="liturgical-section" n="Prayer before the Sanctus" xml:id="sachau-196-1-7" next="#sachau-196-1-8">
                <lb n="3"/><hi rend="emphasized">ܟܗܢܐ ܟܕ ܓܗܝܢ</hi>ܢܫ̇ܘܐ ܘܛܒ ܙ̇ܕܩ
                <lb n="4"/>ܕܬܬܒܪܟ ܘܬܫܬܒܚ ܘܬܬܗ̇ܕܪ.
                <lb n="5"/>ܘܬܬܪܡܪܡ ܡܢܢ ܐܘ ܐܠܗܐ ܕܝܠܢ. ܘܠܘ
@@ -174,7 +174,7 @@
                </seg>
             </ab>
             <ab type="page" n="2v">
-               <seg type="liturgical-section" n="Prayer before the Sanctus" xml:id="sachau-196-8" prev="#sachau-196-7">
+               <seg type="liturgical-section" n="Prayer before the Sanctus" xml:id="sachau-196-1-8" prev="#sachau-196-1-7">
                   <pb n="2v"/>
                   <lb n="1"/>ܕܣܪ̈ܦܐ ܫܬܝܬܝ̈ܝ ܓܦ̈ܐ ܬܠܝܬܝ̈ܝ
                <lb n="2"/>ܩܘ̈ܕܫܐ ܠܟ ܡܩܕܫܝܢ. ܗ̇ܢܘܢ ܕܟܕ
@@ -183,7 +183,7 @@
                <lb n="5"/>ܒܩܝܢ̈ܬܐ ܫܦ̈ܝܬܐ ܘܣ̈ܦܘܬܐ ܪ̈ܡܬ ܡܢ
                <lb n="6"/>ܥܠ̈ܡܐ. ܩܘ̈ܕܫܐ ܬܠ̈ܝܬܝܐ ܒܒܪܬ ܩܠܐ
                <lb n="7"/>ܚܕܢܝܬܐ ܖ̈ܥܡܝܢ. ܘܡܝܒܒܝܢ ܘܡ̇ܙܥܩܝܢ
-               <lb n="8"/>ܘܩ̇ܥܝܢ ܘܐܡܪܝܢ<hi rend="emphasized">ܥܡܐ</hi>ܩܕܝܫ</seg><seg type="liturgical-section" n="Prayer after Sanctus" xml:id="sachau-196-9"><hi rend="emphasized">ܟܗܢܐ</hi>
+               <lb n="8"/>ܘܩ̇ܥܝܢ ܘܐܡܪܝܢ<hi rend="emphasized">ܥܡܐ</hi>ܩܕܝܫ</seg><seg type="liturgical-section" n="Prayer after Sanctus" xml:id="sachau-196-1-9"><hi rend="emphasized">ܟܗܢܐ</hi>
                <lb n="9"/><hi rend="emphasized">ܟܕ ܓܗܝܢ</hi>ܩܕܝܫܐ ܐܝܬܝܟ ܘܢܒܥܐ ܕ܏ܩܕܝܫܘ[ܬܐ]
                <lb n="10"/>ܡܪܝܐ. ܗ̇ܘ ܕܟܕ ܫܪܥ̣ܢܢ ܘܠܥܦܪܐ ܢܦ̣ܠܢܢ.
                <lb n="11"/>ܠܗ̇ܘ ܟܝ̇ܢܐ ܕܡܢܗ ܐܬܒ̣ܪܝܢܢ. ܡܢ ܗ̇ܘ
@@ -194,12 +194,12 @@
                <lb n="16"/>ܘܐܬܓܫܡ ܡܢ ܓܒܝ̣ܠܬܐ ܕܝܠܢ ܕܢܗ̣ܦܘܟ
                <lb n="17"/>ܢܓܒܠܝܗ̇ ܡ̣ܢ ܕܪܝܫ. ܘܟܠܡܕܡ ܕܦܐܐ
                <lb n="18"/>ܠܒܪܢܫܐ ܩܒ̣ܠ ܚܠܦܝܢ. ܘܕܦܐܐ ܠܐܠܗܐ
-               <lb n="19"/>ܣܥ̣ܪ ܠܦܘܪܩܢܢ.</seg><seg type="liturgical-section" n="Words of Institution" xml:id="sachau-196-10"><hi rend="emphasized">ܬܠܐ ܩܠܗ</hi>ܟܕ ܕܝܢ
+               <lb n="19"/>ܣܥ̣ܪ ܠܦܘܪܩܢܢ.</seg><seg type="liturgical-section" n="Words of Institution" xml:id="sachau-196-1-10" next="#sachau-196-1-11"><hi rend="emphasized">ܬܠܐ ܩܠܗ</hi>ܟܕ ܕܝܢ
                <lb n="20"/>ܠܐܡܪܐ ܢܡܘܣܝܐ ܗ̇ܘ ܕܠܗ ܠܐܡ̣ܪܐ          
                </seg>
             </ab>
             <ab type="page" n="3r">
-               <seg type="liturgical-section" n="Words of Institution" xml:id="sachau-196-11" prev="#sachau-196-10">
+               <seg type="liturgical-section" n="Words of Institution" xml:id="sachau-196-1-11" prev="#sachau-196-1-10" next="#sachau-196-1-12">
                   <pb n="3r"/>
                <lb n="1"/>ܫܡ̇ܝܢܐ ܡܛܦܣ ܗܘܐ. ܥܡ ܬܠ̈ܡܝܕܐ
                <lb n="2"/>ܕܝܠܗ ܩܕܝܫ̈ܐ ܐܟ̣ܠ. ܘܨܒ̰ܐ ܕܡܢ ܐܡܪ̈ܐ
@@ -224,7 +224,7 @@
                </seg>
             </ab>
             <ab type="page" n="3v">
-               <seg type="liturgical-section" n="Words of Institution" xml:id="sachau-196-12" prev="#sachau-196-11">
+               <seg type="liturgical-section" n="Words of Institution" xml:id="sachau-196-1-12" prev="#sachau-196-1-11">
                   <pb n="3v"/>
                <lb n="1"/>ܕܝܠܝ. ܕܐܫ̇ܕ ܐܢܐ ܠܗ ܚܠܦ ܚ̈ܝܐ
                <lb n="2"/>ܕܥܠܡܐ. ܘܠܐܝܠܝܢ ܕܡܗܝܡܢܝܢ ܡܙܡܢ
@@ -232,7 +232,7 @@
                <lb n="4"/>ܥܒܕܘ. ܟܠ ܐܡܬܝ ܕܐܟܠܝܢ ܐܢܬܘܢ
                <lb n="5"/>ܦܓܪܐ ܗܢܐ ܘܫ̇ܬܝܢ ܐܢܬܘܢ ܟܣܐ ܗܢܐ.
                <lb n="6"/>ܐܬܥ̇ܗܕܘ ܠܡܘܬܐ ܕܝܠܝ ܥܕܡܐ
-               <lb n="7"/>ܕܐܬܐ ܐܢ̣ܐ.<hi rend="emphasized">ܥܡܐ</hi>ܡܘܬܟ</seg><seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-13"><hi rend="emphasized">ܟܗܢܐ</hi>ܘܟܕ
+               <lb n="7"/>ܕܐܬܐ ܐܢ̣ܐ.<hi rend="emphasized">ܥܡܐ</hi>ܡܘܬܟ</seg><seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-1-13" next="#sachau-196-1-14"><hi rend="emphasized">ܟܗܢܐ</hi>ܘܟܕ
                <lb n="8"/>ܠܡܕܒܪܢܘܬܐ ܕܝܠܟ ܗ̇ܝ ܕܠܥܠ ܡ̣ܢ
                <lb n="9"/>ܟܝ̇ܢܐ: ܥܠ ܠܘܚ̈ܐ ܕܠܒܘ̈ܬܢ ܟܬܒܝܢܢ.
                <lb n="10"/>ܘܠܪ̈ܙܐ ܬܡܝ̈ܗܐ ܕܬܡ̈ܝܗܬܟ ܐܘ
@@ -249,7 +249,7 @@
                </seg>
             </ab>
             <ab type="page" n="4r">
-               <seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-14" prev="#sachau-196-13">
+               <seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-1-14" prev="#sachau-196-1-13" next="#sachau-196-1-15">
                   <pb n="4r"/>
                <lb n="1"/>ܝ̇ܬܒ ܐܢܬ. ܐܡܬܝ ܕܡܣܲܪܩܐ ܐܪܥܐ
                <lb n="2"/>ܐܝܟ ܡܐܢܐ ܕܦܲܚܪܐ ܠܦܓܖ̈ܐ ܕܚܡܝ̣ܠܝܢ
@@ -272,13 +272,13 @@
                </seg>
             </ab>
             <ab type="page" n="4v">
-               <seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-15" prev="#sachau-196-14" rend="empty-page">
+               <seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-1-15" prev="#sachau-196-1-14" next="#sachau-196-1-16" rend="empty-page">
                   <pb n="4v"/>
                   Blank page
                </seg>
             </ab>
             <ab type="page" n="5r">
-               <seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-16" prev="#sachau-196-15">
+               <seg type="liturgical-section" n="Anamnesis" xml:id="sachau-196-1-16" prev="#sachau-196-1-15">
                   <pb n="5r"/>
                <lb n="1"/>ܕܡܒܲܝܐܐ. ܠܐ ܢܫܬܢܲܩ ܒܓܗܢܐ ܘܠܝܬ
                <lb n="2"/>ܕܚ̇ܐܣ. ܠܐ ܢܬܕܓܠܘܢ ܠܘܬܢ ܫܘ̈ܘܕܝܟ
@@ -297,12 +297,12 @@
                <lb n="15"/>ܘܡܪܥܝܬܟ. ܡܬܟܲܫܦܐ ܠܟ ܘܒܐܝܕ̈ܝܟ
                <lb n="16"/>ܥܡܟ ܠܐܒܘܟ ܟܕ ܐܡ̇ܪܐ<hi rend="emphasized">ܥܡܐ</hi>ܪܚܡ
                <lb n="17"/><hi rend="emphasized">ܟܗܢܐ</hi>ܐܦܚܢܢ<hi rend="emphasized">ܥܡܐ</hi>ܠܟ ܡܫ̇ܒܚܝܢܢ
-               <lb n="18"/><hi rend="emphasized">ܡܫܡ</hi>ܡܐ ܕܚܝ̣ܠܐ</seg><seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="sachau-196-17"><hi rend="emphasized">ܟܗܢܐ ܩܪܝܬܐ ܕܪܘܚܐ</hi>
+               <lb n="18"/><hi rend="emphasized">ܡܫܡ</hi>ܡܐ ܕܚܝ̣ܠܐ</seg><seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="sachau-196-1-17" next="#sachau-196-1-18"><hi rend="emphasized">ܟܗܢܐ ܩܪܝܬܐ ܕܪܘܚܐ</hi>
                <lb n="19"/><hi rend="emphasized">ܩܕ[ܝܫܐ] ܟܕ ܓܗܝܢ</hi>ܐܝܢ ܐܠܗܐ ܪܚܡܥܠܝܢ
                </seg>
             </ab>
             <ab type="page" n="5v">
-               <seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="sachau-196-18" prev="#sachau-196-17">
+               <seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="sachau-196-1-18" prev="#sachau-196-1-17">
                   <pb n="5v"/>
                <lb n="1"/>ܘܫܕܪ ܛܝܒܘܬܐ ܕܪܘܚܐ ܕܝܠܟ ܩܕܝܫܐ
                <lb n="2"/>ܗ̇ܘ ܡܲܥܒܕ ܚܝ̈ܐ. ܗ̇ܘ ܫ̇ܘܐ ܠܟ
@@ -320,14 +320,14 @@
                <lb n="14"/>ܕܩܕܡ ܬܪܘܢܘܣ ܕܚܝ̣ܠܐ ܕܪܒܘܬܟ.
                <lb n="15"/>ܘܠܚܘܠܛܢܐ ܕܥܡ ܐܡܪ̈ܐ ܒܢ̈ܝ
                <lb n="16"/>ܝܡܝܢܟ. ܡܛܠ ܕܫܪܝܪܝܢ ܘܡܗ̇ܝܡܢܢ
-               <lb n="17"/>ܫܘ̈ܘܕܝܐ ܕܝܠܟ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܏ܩܕ[ܝܫܐ]</seg><seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-19">
+               <lb n="17"/>ܫܘ̈ܘܕܝܐ ܕܝܠܟ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܏ܩܕ[ܝܫܐ]</seg><seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-1-19" next="#sachau-196-1-20">
                <lb n="18"/><hi rend="emphasized">ܓܗܢܬܐ</hi>ܠܗܕܐ ܕܒܚܬܐ ܡܩܪܒܝܢܢ
                <lb n="19"/>ܠܟ ܚܠܦ ܟܠܗ̇ ܥܕܬܐ ܬܪܝܨܬ
                <lb n="20"/>ܫܘ[ܒܚܐ]. ܚܠܦ ܦܐܛܪ̈ܝܪܟܘ ܚܠܦ ܐܦܝ̈܏ܣܩـ[ܘܦܐ].
                </seg>
             </ab>
             <ab type="page" n="6r">
-               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-20" prev="#sachau-196-19">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-1-20" prev="#sachau-196-1-19" next="#sachau-196-1-21">
                   <pb n="6r"/>
                <lb n="1"/>ܚܠܦ ܩܫܝ̈ܫܐ. ܚܠܦ ܡܫ̈܏ܡـ[ܫܢܐ]. ܚܠܦ
                <lb n="2"/>ܡܗ̈܏ܝܡـ[ܢܐ] ܫܪ̈ܝܪܐ. ܚܠܦ ܕܘܝܘܬܐ ܕܝܠܝ
@@ -351,7 +351,7 @@
                </seg>
             </ab>
             <ab type="page" n="6v">
-               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-21" prev="#sachau-196-20">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-1-21" prev="#sachau-196-1-20" next="#sachau-196-1-22">
                   <pb n="6v"/>
                   <lb n="1"/>ܬܗ̇ܡܐ ܡܪܝܐ. ܡܛܠ ܕܛܘܒܬܢܐ
                <lb n="2"/>ܘܚܲܝܘܣܬܢܐ ܘܪܚܡ ܐܢܫܐ ܐܝܬܝܟ. ܘܠܟ 
@@ -376,7 +376,7 @@
                </seg>
             </ab>
             <ab type="page" n="7r">
-               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-22" prev="#sachau-196-21">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-1-22" prev="#sachau-196-1-21" next="#sachau-196-1-23">
                   <pb n="7r"/>
                <lb n="1"/>ܕܡܕܒܪܢܘܬܗ ܕܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ.
                <lb n="2"/>ܚܙܝ̈ܐ ܕܓܢ̈ܝܙܬܐ ܘ ܡܒܕܩܢ̈ܐ ܕܥܬܝ̈ܕܬܐ
@@ -400,7 +400,7 @@
                </seg>
             </ab>
             <ab type="page" n="7v">
-               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-23" prev="#sachau-196-22">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-1-23" prev="#sachau-196-1-22" next="#sachau-196-1-24">
                   <pb n="7v"/>
                <lb n="1"/>ܕܟܠܗܝܢ ܐܡ̈ܘܬܐ ܐܢܗܪܘ. ܠܗ̇ܢܘܢ
                <lb n="2"/>ܕܡܬܚܘ ܛܘܢ̈ܒܝܗ̇ ܕܒܪܬ ܥܡܡ̈ܐ 
@@ -426,7 +426,7 @@
                </seg>
             </ab>
             <ab type="page" n="8r">
-               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-24" prev="#sachau-196-23">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="sachau-196-1-24" prev="#sachau-196-1-23">
                   <pb n="8r"/>
                <lb n="1"/>ܒܡܛ̈ܐܠܐ ܢܗܝܪ̈ܬܐ. ܒܥܠܡܐ ܕܦܨܝܚ̈ܘܬܐ.
                <lb n="2"/>ܒܥܕܬܐ ܐܘܪܫܠܡܝܬܐ. ܐܝܟܐ ܕܠܐ ܐܝܬ ܐܬܪܐ
@@ -438,7 +438,7 @@
                <lb n="8"/>ܒܣܪܐ ܕܗܘ̣ܘ ܥܠ ܐܪܥܐ. ܐܠܐ ܐܢ
                <lb n="9"/>ܦܪܘܩܐ ܕܝܠܢ ܝܫܘܥ ܡܫܝܚܐ ܝܚܝܕܝܐ
                <lb n="10"/>ܒܪܐ ܕܝܠܟ: ܕܒܐܝ̈ܕܘܗܝ ܐܦܚܢܢ ܣܲܒܪܢܢ
-               <lb n="11"/>ܪ̈ܚܡܐ ܠܡܫ̣ܟܚܘ<hi rend="emphasized">ܥܡܐ</hi>ܐܢܝܚ</seg><seg type="liturgical-section" n="Concluding Intercessions" xml:id="sachau-196-25">
+               <lb n="11"/>ܪ̈ܚܡܐ ܠܡܫ̣ܟܚܘ<hi rend="emphasized">ܥܡܐ</hi>ܐܢܝܚ</seg><seg type="liturgical-section" n="Concluding Intercessions" xml:id="sachau-196-1-25" next="#sachau-196-1-26">
                <lb n="12"/><hi rend="emphasized">ܟܗܢܐ</hi>ܘܠܡ̈ܘܒܠܐ ܝܩܝܪ̈ܬܐ ܕܚܢܢ ܠܢ
                <lb n="13"/>ܐܬܬܓܪܢܢ. ܒܥܠܡܐ ܗܢܐ. ܐܢܝܚ ܡܢ
                <lb n="14"/>ܨܘܪ̈ܐ ܕܝܠܢ ܡܪܝܐ. ܘܠܚ̈ܛܗܐ ܕܝܠܢ
@@ -450,17 +450,17 @@
                </seg>
             </ab>
             <ab type="page" n="8v">
-               <seg type="liturgical-section" n="Concluding Intercessions" xml:id="sachau-196-26" prev="#sachau-196-25">
+               <seg type="liturgical-section" n="Concluding Intercessions" xml:id="sachau-196-1-26" prev="#sachau-196-1-25">
                   <pb n="8v"/>
                <lb n="1"/>ܐܬܚ̇ܫܚ ܥܡܢ. ܘܠܐ ܢܚ̣ܕܘܢ
                <lb n="2"/>ܒܥܠܕܒܒ̈ܝܢ ܒܐܒܕܢܐ ܕܝܠܢ. ܐܝܟܢܐ
                <lb n="3"/>ܕܐܦ ܒܗܕܐ ܐܟܡܐ ܕܒܟܠܗܝܢ
-               <lb n="4"/>ܢܫܬܒܚ ܘܢܬܩܠܣ ܫܡܐ ܕܝܠܟ.</seg><seg type="liturgical-section" n="The Second Benediction" xml:id="sachau-196-27">
+               <lb n="4"/>ܢܫܬܒܚ ܘܢܬܩܠܣ ܫܡܐ ܕܝܠܟ.</seg><seg type="liturgical-section" n="The Second Benediction" xml:id="sachau-196-1-27">
                <lb n="5"/><hi rend="emphasized">ܥܡܐ</hi>ܐܝܟܢܐ<hi rend="emphasized">ܟܗܢܐ</hi>ܢܗܘܘܢ<hi rend="emphasized">ܥܡܐ</hi>
                <lb n="6"/>ܥܡ<hi rend="emphasized">ܡܫܡ</hi>ܩܬܘܠܝܩܝ<hi rend="emphasized">ܟܗܢܐ</hi>ܩ̇ܨܐ ܘܪܫ̇ܡ</seg>
             </ab>
             <ab type="page" n="9r">
-               <seg type="liturgical-section" n="Prayer before the Lord's Prayer" xml:id="sachau-196-28">
+               <seg type="liturgical-section" n="Prayer before the Lord's Prayer" xml:id="sachau-196-1-28" next="#sachau-196-1-29">
                   <pb n="9r"/>
                <lb n="1"/><hi rend="emphasized">ܨܠܘܬܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi>ܐܝܬܝܐ ܡܬܘܡܝܐ
                <lb n="2"/>ܘܐܒܐ ܩܕܝܫܐ ܕܒܪܐ ܡܬܘܡܝܐ. ܓܐܝܐ
@@ -484,9 +484,9 @@
                </seg>
             </ab>
             <ab type="page" n="9v">
-               <seg type="liturgical-section" n="Prayer before the Lord's Prayer" xml:id="sachau-196-29" prev="#sachau-196-28">
+               <seg type="liturgical-section" n="Prayer before the Lord's Prayer" xml:id="sachau-196-1-29" prev="#sachau-196-1-28">
                   <pb n="9v"/>
-               <lb n="1"/>ܐܒܘܢ ܕܒܫܡܝܐ<hi rend="emphasized">ܥܡܐ</hi>ܢܬܩܕܫ ܫܡܟ</seg><seg type="liturgical-section" n="Prayer after the Lord's Prayer" xml:id="sachau-196-30">
+               <lb n="1"/>ܐܒܘܢ ܕܒܫܡܝܐ<hi rend="emphasized">ܥܡܐ</hi>ܢܬܩܕܫ ܫܡܟ</seg><seg type="liturgical-section" n="Prayer after the Lord's Prayer" xml:id="sachau-196-1-30">
                <lb n="2"/><hi rend="emphasized">ܟܗܢܐ</hi>ܐܝܢ ܐܘ ܐܒܐ ܡܪܚܡܢܐ. ܠܐ
                <lb n="3"/>ܬܪܦܐ ܒܢ ܐܝܕ̈ܝܐ ܕܢܦܠ ܒܢܣ̈ܝܘܢܐ.
                <lb n="4"/>ܕܠܐ ܡܨܝܢܢ ܠܡܛܥܢ. ܐܠܐ ܐܝܟ ܐܒܐ
@@ -499,7 +499,7 @@
                <lb n="11"/>ܒܪܐ ܕܝܠܟ. ܕܒܐܝ̈ܕܘܗܝ ܘܥܡܗ
                <lb n="12"/>ܠܟ ܦܐܐ ܫ̣ܘܒܚܐ ܘܐܝܩܪܐ ܘܐܘܚܕܢܐ
                <lb n="13"/>ܥܡ ܪܘܚܐ ܕܝܠܟ<hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ<hi rend="emphasized">ܡܫܡ</hi>
-               <lb n="14"/>ܠܡܪܝܐ ܖ̈ܝܫܝܢ<hi rend="emphasized">ܥܡܐ</hi>ܩܕܡܝܟ</seg><seg type="liturgical-section" n="The Third Benediction" xml:id="sachau-196-31"><hi rend="emphasized">ܟܗܢܐ</hi>
+               <lb n="14"/>ܠܡܪܝܐ ܖ̈ܝܫܝܢ<hi rend="emphasized">ܥܡܐ</hi>ܩܕܡܝܟ</seg><seg type="liturgical-section" n="The Third Benediction" xml:id="sachau-196-1-31" next="#sachau-196-1-32"><hi rend="emphasized">ܟܗܢܐ</hi>
                <lb n="15"/>ܘܠܥܡܐ ܕܝܠܟ ܡܪܝܐ ܗܢܐ ܕܥܡ
                <lb n="16"/>ܡܟܝܟܘܬܐ ܬܪܥܝܬܐ ܠܨܘܪܗ ܟ̇ܐܦ
                <lb n="17"/>ܩܕܡ ܪ̈ܚܡ̣ܝܟ. ܘܡܣܲܟܐ ܠܡ̇ܘܗ̈ܒܬܟ
@@ -509,13 +509,13 @@
                </seg>
             </ab>
             <ab type="page" n="10r">
-               <seg type="liturgical-section" n="The Third Benediction" xml:id="sachau-196-32" prev="#sachau-196-31">
+               <seg type="liturgical-section" n="The Third Benediction" xml:id="sachau-196-1-32" prev="#sachau-196-1-31">
                   <pb n="10r"/>
                <lb n="1"/>ܘܒܦܓܪܐ ܏ܩܕ[ܝܫܐ] ܘܕܡܐ ܐܠܗܝܐ ܕܡܫܝܚܟ
                <lb n="2"/>ܡܫܬܘܬܦܝܢܢ. ܟܠ ܩܘܠ̈ܣܐ ܘܪ̈ܘܡܪܡܐ
                <lb n="3"/>ܘܬܫܒܚ̈ܬܐ ܦܐܝ̈ܬܐ ܠܥܘܬܪܐ ܕܚܢܢܟ
                <lb n="4"/>ܡܣܩܝܢܢ ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ
-               <lb n="5"/>ܘܠܪܘܚܐ ܕܝܠܟ ܏ܩܕ[ܝܫܐ] ܗܫܐ<hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ</seg><seg type="liturgical-section" n="Prayer of Thanksgiving" xml:id="sachau-196-33">
+               <lb n="5"/>ܘܠܪܘܚܐ ܕܝܠܟ ܏ܩܕ[ܝܫܐ] ܗܫܐ<hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ</seg><seg type="liturgical-section" n="Prayer of Thanksgiving" xml:id="sachau-196-1-33">
                <lb n="6"/><hi rend="emphasized">ܟܗܢܐ</hi>ܫܠܡܐ<hi rend="emphasized">ܥܡܐ</hi>ܥܡ<hi rend="emphasized">ܟܗܢܐ</hi>ܬܗܘܐ
                <lb n="7"/><hi rend="emphasized">ܥܡܐ</hi>ܥܡ<hi rend="emphasized">ܡܫܡ</hi>ܒܕܚܠܬܐ<hi rend="emphasized">ܟܗܢܐ</hi>
                <lb n="8"/>ܩܘܕܫ̈ܐ<hi rend="emphasized">ܥܡܐ</hi>ܚܕ ܐܒܐ<hi rend="emphasized">ܟܗܢܐ</hi>ܚܕ ܐܒܐ ܏ܩܕ[ܝܫܐ]
@@ -529,12 +529,12 @@
                <lb n="16"/>ܘܒܪ̈ܚܡܐ ܘܪܚܡ̣ܬ݀ ܐܢܫܘܬܐ ܕܝܚܝܕܝܐ
                <lb n="17"/>ܒܪܐ ܕܝܠܟ ܡܲܐܚܝܢܢ. ܥܡ ܪܘܚܐ
                <lb n="18"/>ܕܝܠܟ ܏ܩܕ[ܝܫܐ] ܡܢܛܪܢܢ ܘܡܫܘܙܒܢܢ ܗܫܐ
-               <lb n="19"/><hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ<hi rend="emphasized">ܡܫܡ</hi>ܠܡܪܝܐ</seg><seg type="liturgical-section" n="Concluding Prayer" xml:id="sachau-196-34"><hi rend="emphasized">ܟܗܢܐ</hi>ܩܕܡܝܟ
+               <lb n="19"/><hi rend="emphasized">ܥܡܐ</hi>ܐܡܝܢ<hi rend="emphasized">ܡܫܡ</hi>ܠܡܪܝܐ</seg><seg type="liturgical-section" n="Concluding Prayer" xml:id="sachau-196-1-34" next="#sachau-196-1-35"><hi rend="emphasized">ܟܗܢܐ</hi>ܩܕܡܝܟ
                <lb n="20"/>ܡܪܝܐ ܡܪܚܡܢܐ. ܪܟܝܢܝܢ ܨܘܪ̈ܐ
                </seg>
             </ab>
             <ab type="page" n="10v">
-               <seg type="liturgical-section" n="Concluding Prayer" xml:id="sachau-196-35" prev="#sachau-196-34">
+               <seg type="liturgical-section" n="Concluding Prayer" xml:id="sachau-196-1-35" prev="#sachau-196-1-34">
                   <pb n="10v"/>
                <lb n="1"/>ܕܥܡܐ ܕܝܠܟ ܡܗ܏ܝܡ[ܢܐ]. ܫܟܢ ܠܗܘܢ 
                <lb n="2"/>ܐܘ ܒܣܝܡܐ. ܐܘܝܘܬ ܚܘܒ̣ܐ ܫܪܝܪܐ ܘܝܐܝܘܬ 
@@ -551,19 +551,19 @@
             </ab>
          </div>
          <div type="translation" n="Translation" xml:lang="en">
-            <div type="translation-liturgical-section" n="Title" corresp="#sachau-196-1">
+            <div type="translation-liturgical-section" n="Title" xml:id="sachau-196-translation-1-1" corresp="#sachau-196-1-1">
                <p><hi rend="rubric">Anaphora of the holy Mor Jacob of Edessa</hi></p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer before Peace" corresp="#sachau-196-2">
+            <div type="translation-liturgical-section" n="Prayer before Peace" xml:id="sachau-196-translation-1-2" corresp="#sachau-196-1-2">
                <p>Firstly: <hi rend="rubric">Prayer before peace.</hi> <hi rend="rubric">Priest:</hi> God, father of all and lord of lordship, who is eternal begetter, who begets the eternal son eternally beyond time and mystically. Source of peace, fountain of tranquility and depth of perfect love. You are the giver of tranquility, make us worthy to embrace and kiss one another spiritually, with true love, without deceit, through your only begotten son, the giver of peace. With him befits you honor and power with your spirit.</p>
                <p><hi rend="rubric">People:</hi> Amen.</p>
                <p><hi rend="rubric">Deacon:</hi> Let us give.</p>
             </div>
-            <div type="translation-liturgical-section" n="First Benediction" corresp="#sachau-196-3">
+            <div type="translation-liturgical-section" n="First Benediction" xml:id="sachau-196-translation-1-3" corresp="#sachau-196-1-3">
                <p><hi rend="rubric">Priest:</hi> Now therefore, we are mingled and united with one another with true love and with humble spirit. We have taken off the garments of our old man and our necks before your mercy we incline. Therefore, we beseech your genuine grace: to be upon your entire nation and inheritance, which has been bought by the saving blood of your Christ, all sorts of your abundant blessings and your perfect graces, so that with tongues that have been united in the holy body of your only begotten son, through him may we offer up glory and thanks to you and to the Holy Spirit.</p>
                <p><hi rend="rubric">People:</hi> Amen.</p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer over the Veil" corresp="#sachau-196-5">
+            <div type="translation-liturgical-section" n="Prayer over the Veil" xml:id="sachau-196-translation-1-4" corresp="#sachau-196-1-5">
                <p><hi rend="rubric">Priest:</hi> You are with your graceful benevolence and by the mercies that are essentially united in you, in the beginning, out of nothingness, you have created us in the glorious image of your greatness.</p>
                <p>When we became corrupted and were reduced to destruction, by your grace and not because of our righteousness, you did send God the word, your son, for our salvation.</p>
                <p>Now, O Lord, by the same grace with which you have created us in the beginning and by the natural mercies with which you have redeemed us in the end, treat us now, lest we may be ashamed by our sins when we offer these holy mysteries. Rather, by them may we be cleansed from defilement and impurity of sin and offer up glory.</p>
@@ -572,40 +572,37 @@
                <p><hi rend="rubric">Priest:</hi> Love of ...</p>
                <p><hi rend="rubric">People:</hi> And with ...</p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer before the Sanctus" corresp="#sachau-196-8">
+            <div type="translation-liturgical-section" n="Prayer before the Sanctus" xml:id="sachau-196-translation-1-5" corresp="#sachau-196-1-8">
                <p><hi rend="rubric">Priest inclined:</hi> It is meet and very right that you should be blessed, glorified, honored and extolled our God, not only by us, but also by all the heavenly hosts.</p>
                <p><hi rend="rubric">With raised voice:</hi> Before you, they are trembling and terrified and as they make a joyful voice, glorifying your magnificence, the thousands of thousands and myriads of myriads heavenly intelligences and supernatural cohorts, simple and uncompounded substances, from immaterial flame are blessing you. Amazing and terrible orders made from the flames of swift running fire praise you.</p>
                <p>The mighty troops of awe, whose lips drop burning coals, praise you. The extended bands, with mighty movements, of the Cherubim who bear your invisible nature extol you.</p>
                <p>The orderly ranks of the six-winged Seraphim sanctify you with their thrice-holy hymns, as they cover their fiery faces with fiery wings from your intense flame. With pure melodies exalted above the world, with one voice, they clamor, shout, cry out.</p>
                <p><hi rend="rubric">People:</hi> Holy ...</p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer after Sanctus" corresp="#sachau-196-9">
-               <p><hi rend="rubric">Priest inclined</hi>: O Lord, you are holy and the fount of holiness. When we have erred and fell into the dust, that nature from which we were created, by the exalted grace proper to you, you lifted us up. You sent the prophets for our direction and when they were unable to redeem us, you sent your son, the word of God for our help. He became embodied from our creation, in order to recreate it, and for us he received everything appropriate to a human being, but what is proper to God, he accomplished for our salvation.</p>
+            <div type="translation-liturgical-section" n="Prayer after Sanctus" xml:id="sachau-196-translation-1-6" corresp="#sachau-196-1-9">
+               <p><hi rend="rubric">Priest inclined:</hi> O Lord, you are holy and the fount of holiness. When we have erred and fell into the dust, that nature from which we were created, by the exalted grace proper to you, you lifted us up. You sent the prophets for our direction and when they were unable to redeem us, you sent your son, the word of God for our help. He became embodied from our creation, in order to recreate it, and for us he received everything appropriate to a human being, but what is proper to God, he accomplished for our salvation.</p>
             </div>
-            <div type="translation-liturgical-section" n="Words of Institution" corresp="#sachau-196-10">
+            <div type="translation-liturgical-section" n="Words of Institution" xml:id="sachau-196-translation-1-7" corresp="#sachau-196-1-10">
                <p><hi rend="rubric">With raised voice:</hi> As the lamb of the law typified the heavenly lamb he ate with his holy disciples wanting to lift us up from the lambs, kids and the bodily sacrifices, and to raise us to the loftiness of the heavenly sacrifices and the divine mysteries. On that evening in which he was about to give himself as a sacrifice for us, he took bread in his holy and undefiled hands, lifted his subtle gaze above to heaven, to the father and gave thanks, and he blessed, sanctified, broke, ate and gave to the disciples, saying: Take, eat from it. This is my body, which is for the life of the creation broken and divided for the remission of sins and the life eternal.</p>
                <p>Similarly, again he mixed water with wine proportionately in the cup and gave thanks over it. After having gladdened his disciples at the table of the mysteries he blessed, sanctified and stretched out to his apostle, saying: This is my blood which I shed for the life of the world and which invites those who believe in me, to the life eternal.</p>
                <p>Do thus, whenever you eat this body and drink this cup. Remember my death until I come.</p>
                <p><hi rend="rubric">People:</hi> Your death.</p>
             </div>
-            <div type="translation-liturgical-section" n="Anamnesis" corresp="#sachau-196-13">
-               <p><hi rend="rubric">Priest:</hi> And as we write upon the tablet of our hearts your dispensation which is above nature, and behold with the eyes of our minds the awe-inspiring mysteries of your wonderful deeds, O God the word we also remember your dreadful and awe-inspiring manifestation in your second coming, when you will shine out from the east as vehement lightening and shake the foundations of the earth with the power of your might. When you come amid great magnificence and sit on the glorious throne of your magnificience amid unspeakable glory, when the earth empties out like the potter's vessel the bodies that are hidden in it and Sheol awkakens from sleep the dead who lie down in it, then there will be no consolation for the lamentation of the wicked, and no sorrow for the joy of the righteous, at that dreadful hour, may your mercy have pity on your people and inheritance. Do not cut off our hope from your grace. Do not deprive our trust of your benevolence.
- May our sins not cover the seal of your holy myron. As a result of our sins, may we not be stripped off from your divine baptism. Do not treat us without mercy, Lord. Do not turn your face from us. May we not beseech mercy, having nobody to pity on us. May we not cry out in suffering, having nobody to console us.
- May we not be tormented in hell having nobody to show compassion. May not your true promises be withheld from us on account of our sins and transgressions. May those who did not deny your cross, not be found guilty with those who forsook your sufferings and passions.
- May those who believed in you, not be counted with those who did not confess you. O Lord, we have suffered insult and mocking for the sake of your holy name and we have been buffeted by the foreign peoples for your true faith.</p>
+            <div type="translation-liturgical-section" n="Anamnesis" xml:id="sachau-196-translation-1-8" corresp="#sachau-196-1-13">
+               <p><hi rend="rubric">Priest:</hi> And as we write upon the tablet of our hearts your dispensation which is above nature, and behold with the eyes of our minds the awe-inspiring mysteries of your wonderful deeds, O God the word we also remember your dreadful and awe-inspiring manifestation in your second coming, when you will shine out from the east as vehement lightening and shake the foundations of the earth with the power of your might. When you come amid great magnificence and sit on the glorious throne of your magnificience amid unspeakable glory, when the earth empties out like the potter's vessel the bodies that are hidden in it and Sheol awkakens from sleep the dead who lie down in it, then there will be no consolation for the lamentation of the wicked, and no sorrow for the joy of the righteous, at that dreadful hour, may your mercy have pity on your people and inheritance. Do not cut off our hope from your grace. Do not deprive our trust of your benevolence. May our sins not cover the seal of your holy myron. As a result of our sins, may we not be stripped off from your divine baptism. Do not treat us without mercy, Lord. Do not turn your face from us. May we not beseech mercy, having nobody to pity on us. May we not cry out in suffering, having nobody to console us. May we not be tormented in hell having nobody to show compassion. May not your true promises be withheld from us on account of our sins and transgressions. May those who did not deny your cross, not be found guilty with those who forsook your sufferings and passions. May those who believed in you, not be counted with those who did not confess you. O Lord, we have suffered insult and mocking for the sake of your holy name and we have been buffeted by the foreign peoples for your true faith.</p>
                <p>Since we have not renounced you, do not renounce us. Since we have not rejected your meekness, may we not be prevented from the joy with you. For all these, your church and your flock beseech you, through you, and with you, to your father, saying:</p>
                <p><hi rend="rubric">People:</hi> Have mercy.</p>
                <p><hi rend="rubric">Priest:</hi> So we are ...</p>
                <p><hi rend="rubric">People:</hi> To you we glorify.</p>
                <p><hi rend="rubric">Deacon:</hi> How fearful is ...</p>
             </div>
-            <div type="translation-liturgical-section" n="Invocation of the Holy Spirit" corresp="#sachau-196-17">
+            <div type="translation-liturgical-section" n="Invocation of the Holy Spirit" xml:id="sachau-196-translation-1-9" corresp="#sachau-196-1-17">
                <p><hi rend="rubric">Priest.</hi> <hi rend="rubric">Invocation of the Holy Spirit while being inclined:</hi> Indeed, O God, have mercy upon us and send the grace of your Holy Spirit, who is the giver of life, who is consubstantial to you, who spoke through the prophets, who made the apostles wise and who encouraged the martyrs, may he tabernacle upon these mysteries.</p>
                <p><hi rend="rubric">Priest:</hi> Answer me.</p>
                <p><hi rend="rubric">People:</hi> Lord have mercy.</p>
                <p><hi rend="rubric">Priest:</hi> So that by tabernacling, may he make his bread the body of Christ our God. Amen. And may he manifest this cup to be the blood of Christ our God. Amen. When they are mingled and united with our souls and body, may they be for our absolution and not for indictment; for the purification and not for condemnation; for the confidence before the dreadful throne of your greatness and for the mingling with the lambs of your right hand side. For your promises are true and trustworthy, O Father, Son and the Holy Spirit.</p>
             </div>
-            <div type="translation-liturgical-section" n="Intercession Prayers" corresp="#sachau-196-19">
+            <div type="translation-liturgical-section" n="Intercession Prayers" xml:id="sachau-196-translation-1-10" corresp="#sachau-196-1-19">
                <p><hi rend="rubric">Inclined:</hi> We offer you this sacrifice for the entire Orthodox Church, for the patriarchs, bishops, priests, deacons, true believers and for my wretchedness which is full of hateful things.</p>
                <p><hi rend="rubric">With raised voice:</hi> So that through these mysteries may your glorious Church be exalted and triumphant, whose tents you have broadened from one end of the world to the other. May she be strengthened by the might of your arm. Make her mighty by your heroism and may she offer up praise.</p>
                <p><hi rend="rubric">Inclined:</hi> By your mercy, you alone accept these offerings from my sinful hands. Remember also all those who desired to offer but could not.</p>
@@ -620,31 +617,31 @@
                <p><hi rend="rubric">With raised voice:</hi> Those who, with true hope and trust in faith in you, have departed from this world of sadness and left this life of groans and have reached you, our fathers, brethren and teachers. Remember, receive and give rest in Abraham's bosom in the tents of joy, in the tents of light in the world of cheerfulness, in the Church of Jerusalem where there is no place for sorrow, or the way of sadness. Let them be avsolved by your mercy and may they be sheltered under the wings of your compassion. May their sins be not remembered, for there is no one among those who have clothed in the flesh on earth free from the world's defilements, except our Lord Jesus Christ, your only begotten son, through whom, we also hope to find mercy.</p>
                <p><hi rend="rubric">People:</hi> Give rest.</p>
             </div>
-            <div type="translation-liturgical-section" n="Concluding Intercessions" corresp="#sachau-196-25">
+            <div type="translation-liturgical-section" n="Concluding Intercessions" xml:id="sachau-196-translation-1-11" corresp="#sachau-196-1-25">
                <p><hi rend="rubric">Priest:</hi> Relieve us from our necks, O Lord, the heavy burdens that we engaged in this world, and absolve; forgive and remove our and their sins, willingly or unwillingly, with or without knowledge. Do not examine us minutely, when we stand before the fearful throne of your greatness; look and treat us with mercy. May our enemies not rejoice in our ruin, so that in this and in all things your most honoured and praised name may be glorified and praised.</p>
             </div>
-            <div type="translation-liturgical-section" n="The Second Benediction" corresp="#sachau-196-27">
+            <div type="translation-liturgical-section" n="The Second Benediction" xml:id="sachau-196-translation-1-12" corresp="#sachau-196-1-27">
                <p><hi rend="rubric">People:</hi> As it was.</p>
                <p><hi rend="rubric">Priest:</hi> May ...</p>
                <p><hi rend="rubric">People:</hi> With ...</p>
                <p><hi rend="rubric">Deacon:</hi> Qatuliqi.</p>
                <p><hi rend="rubric">Priest:</hi> Breaking (the bread).</p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer before the Lord's Prayer" corresp="#sachau-196-28">
+            <div type="translation-liturgical-section" n="Prayer before the Lord's Prayer" xml:id="sachau-196-translation-1-13" corresp="#sachau-196-1-28">
                <p><hi rend="rubric">Prayer of our father.</hi> Eternal principle, holy father of the eternal son, hidden and inscrutable, glorious, incomparable, incomprehensible and ineffable, who brought forth God the word without beginning and time, and in the end of days and times in a manner beyond word realized the dispensation beyond description, by your essential mercy that is substantially found in you. You acted for mortal creation which was reduced to destruction. You did send the word, your son, our saviour Jesus Christ for its help. He completed everything for our salvation and taught us to pray and to offer you supplication. Hold us all worthy, O Lord, with unsullied lips, with the fervour of true faith and with openness befitting sons, may we shout towards you with one mouth, and pray and say: Our father in heaven.</p>
                <p><hi rend="rubric">People:</hi> Hallowed be they name.</p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer after the Lord's Prayer" corresp="#sachau-196-30">
+            <div type="translation-liturgical-section" n="Prayer after the Lord's Prayer" xml:id="sachau-196-translation-1-14" corresp="#sachau-196-1-30">
                <p><hi rend="rubric">Priest:</hi> O merciful father, do not loose hold of us so that we fall into temptations that we are unable to bear. But as a compassionate father, visit (us) the weak children. Do not deprive us of your grace. Do not hold back from us your gentle chastening. Do not turn your face from us. Do not cast from us your sheepfold, because yours is the splendor, glory and kingdom and of your only begotten son.</p>
                <p><hi rend="rubric">People:</hi> Amen.</p>
                <p><hi rend="rubric">Deacon:</hi> To the Lord our heads.</p>
                <p><hi rend="rubric">People:</hi> In front of you.</p>
             </div>
-            <div type="translation-liturgical-section" n="The Third Benediction" corresp="#sachau-196-31">
+            <div type="translation-liturgical-section" n="The Third Benediction" xml:id="sachau-196-translation-1-15" corresp="#sachau-196-1-31">
                <p><hi rend="rubric">Priest:</hi> O Lord, bless with your right hand carrying blessings this your believing people who with meekness of mind bend their necks before your mercy and await your overflowing gifts, so that from every filth and blemish of sin, we may be cleansed as we partake in the holy body and divine bloos of your Christ. We offer up all praises and exaltations and glories proper to the richness of your compassion and to your only begotten son and the Holy Spirit.</p>
                <p><hi rend="rubric">People:</hi> Amen.</p>
             </div>
-            <div type="translation-liturgical-section" n="Prayer of Thanksgiving" corresp="#sachau-196-33">
+            <div type="translation-liturgical-section" n="Prayer of Thanksgiving" xml:id="sachau-196-translation-1-16" corresp="#sachau-196-1-33">
                <p><hi rend="rubric">Priest:</hi> Peace.</p>
                <p><hi rend="rubric">People:</hi> With ...</p>
                <p><hi rend="rubric">Priest:</hi> May ...</p>
@@ -656,7 +653,7 @@
                <p><hi rend="rubric">People:</hi> Amen.</p>
                <p><hi rend="rubric">Deacon:</hi> For the Lord.</p>
             </div>
-            <div type="translation-liturgical-section" n="Concluding Prayer" corresp="#sachau-196-34">
+            <div type="translation-liturgical-section" n="Concluding Prayer" xml:id="sachau-196-translation-1-17" corresp="#sachau-196-1-34">
                <p><hi rend="rubric">Priest:</hi> Before you, merciful Lord, we bow down our necks. Grant them, O benevolent Lord, the harmony of true love and right standing, showering on them by your mercy all abundant goodness and everlasting blessings. Preserve them from all afflictions, for you alone are the compassionate shepherd, who gave up himself and saved the lost souls. We offer up praise to you and to your father who answers supplications, and to your Holy Spirit, the giver of live to the creatures, now. ... (Completed)</p>
             </div>
          </div>
