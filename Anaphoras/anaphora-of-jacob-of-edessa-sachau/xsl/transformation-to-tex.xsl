@@ -323,9 +323,9 @@
     <xsl:template match="tei:bibl[@type = 'article']">
         <xsl:text>\textsc{</xsl:text>
         <xsl:value-of select="child::tei:author/text()"/>
-        <xsl:text>}, </xsl:text>
+        <xsl:text>}, “</xsl:text>
         <xsl:value-of select="child::tei:title/text()"/>
-        <xsl:text>, in: </xsl:text>
+        <xsl:text>”, in: </xsl:text>
         <xsl:text>\textsc{</xsl:text>
         <xsl:value-of select="child::tei:bibl/child::tei:editor/text()"/>
         <xsl:text>}</xsl:text>

@@ -46,7 +46,7 @@
          <div type="introduction" n="Introduction" xml:lang="en">
             <div type="introduction-subsection" n="Jacob of Edessa - Life and Work">
                <p>Two reports about the life of Jacob of Edessa are preserved: One in the <emph rend="italic">Chronicle </emph> of Michael the Syrian (1126–1199 CE; Chabot 1901, 471-472; Chabot 1910, 445-446.) and one in the <emph rend="italic">Church History </emph> of Barhebraeus (1225/26–1286 CE; Abbeloos / Lamy 1872, 289-294.), both of much later time.</p>
-               <p>Jacob of Edessa (c. 633–708) was a prominent Syriac scholar and bishop, significantly contributing to Syriac orthography, biblical studies, and church liturgy. Born in 633 in ʿAin Daba in the Chora of Antioch, a region with a bilingual Greek and Syriac culture, he received his early education under Chorepiscopus Quryaqos and furthered his studies at the famous Miaphysite Monastery of Qenneshrin. Jacob likely studied under Severus Sabukht and became fluent in Greek, enabling him to revise the Syriac Old Testament based on the Greek Septuagint. After studying in Alexandria, he returned to Edessa, where he gained fame as ‘the interpreter of the books’ and was consecrated as bishop by Patriarch Athanasius of Balad. However, his tenure as bishop lasted only four years due to his strong stance on church canons and opposition to compromises, leading to his resignation. Jacob then dedicated himself to teaching and writing in monasteries, significantly influencing Syriac liturgy and ecclesiastical discipline. In his final years at the Great Monastery of Tal ʿAda (nearby Aleppo), he spent nine years revising the Syriac Bible and producing theological and liturgical texts. He passed away on June 5, 708, leaving a lasting legacy in the Syriac Church.</p>
+               <p>Jacob of Edessa (c. 633–708) was a prominent Syriac scholar and bishop, significantly contributing to Syriac orthography, biblical studies, and church liturgy. Born in 633 in ʿAin Daba in the Chora of Antioch, a region with a bilingual Greek and Syriac culture, he received his early education under Chorepiscopus Quryaqos and furthered his studies at the famous Miaphysite Monastery of Qenneshrin. Jacob likely studied under Severus Sabukht and became fluent in Greek, enabling him to revise the Syriac Old Testament based on the Greek Septuagint. After studying in Alexandria, he returned to Edessa, where he gained fame as ‘the interpreter of the books’ and was consecrated as bishop by Patriarch Athanasius of Balad. However, his tenure as bishop lasted only four years due to his strong stance on church canons and opposition to compromises, leading to his resignation. Jacob then dedicated himself to teaching and writing in monasteries, significantly influencing Syriac liturgy and ecclesiastical discipline. In his final years at the Great Monastery of Tal ʿAda (nearby Aleppo), he spent nine years revising the Syriac Bible and producing theological and liturgical texts. He passed away on June 5th, 708, leaving a lasting legacy in the Syriac Church.</p>
             </div>
             <div type="introduction-subsection" n="The Edition of A. Raes">
                <p rend="space-after">A. Raes gives a list of 30 manuscripts containing the anaphora of Jacob of Edessa. (Raes 1981, 47-48.) This list can be supplemented with the following witnesses:</p>
@@ -70,7 +70,7 @@
                <p>Dayro d-Mor Gabriel, Midyat, Turkey MGMT 00181; 18th century, 408 pages. Available via the Hill Museum and Manuscript Library: <ref target="https://w3id.org/vhmml/readingRoom/view/500675"/></p>
             </div>
             <div type="introduction-subsection" n="The Author of the Anaphora">
-               <p>Raes casts doubt on Jacob of Edessa's authorship of the anaphora attributed to him, citing the late date of the surviving manuscripts (13th century) as evidence. While this is a valid point, it overlooks the fragility of liturgical texts. Frequent use in rituals can lead to damage and loss, potentially explaining the absence of earlier copies. The lack of earlier manuscripts shouldn't automatically equate to a late composition date for the anaphora.</p>
+               <p>Raes casts doubt on Jacob of Edessa's authorship of the anaphora attributed to him, citing the late date of the surviving manuscripts (13th century) as evidence. While this is a valid point, it overlooks the fragility of liturgical texts. Frequent use in rituals can lead to damage and loss, potentially explaining the absence of earlier copies. The lack of earlier manuscripts should not automatically equate to a late composition date for the anaphora.</p>
                <p>More importantly, a closer examination reveals a different story. Stylistic and theological similarities exist between the disputed anaphora and Jacob of Edessa's established works, particularly his commentary on the liturgy. These shared elements, whether specific phrasing, prayer structures, or underlying theological concepts, suggest a potential connection between the author of the anaphora and Jacob’s school of thought. Even if direct authorship remains unclear, this connection strengthens the case for Jacob’s influence on the anaphora's composition.</p>
                <p>Therefore, while Raes' observation on the late manuscripts warrants attention, it should not be the sole factor in determining authorship. Further research is needed to explore the possibility of earlier, damaged, or lost manuscripts. Additionally, investigating historical records or references to the Anaphora in other sources could shed light on its origins.</p>
                <p>Moreover, the text of this Anaphora shares terminology and imagery with Jacob's translations, and reflects themes from his translated works that suggest the community's suffering. Eschatological elements emphasize hope for the faithful after persecution and a coming judgement. The focus on angelic praise aligns with broader liturgical themes. While the Anaphora's theology might be considered “ecumenical” within West Syriac traditions, the compiler could have used techniques similar to Jacob's to express suffering and encourage perseverance. Ultimately, the presentation highlights the complexities of authorship attribution and the potential historical context embedded within this Syriac Anaphora.</p>
@@ -635,10 +635,10 @@
                <p><hi rend="rubric">People:</hi> Hallowed be they name.</p>
             </div>
             <div type="translation-liturgical-section" n="Prayer after the Lord's Prayer" corresp="#sachau-196-30">
-               <p>Priest: O merciful father, do not loose hold of us so that we fall into temptations that we are unable to bear. But as a compassionate father, visit (us) the weak children. Do not deprive us of your grace. Do not hold back from us your gentle chastening. Do not turn your face from us. Do not cast from us your sheepfold, because yours is the splendor, glory and kingdom and of your only begotten son.</p>
-               <p>People: Amen.</p>
-               <p>Deacon: To the Lord our heads.</p>
-               <p>People: In front of you.</p>
+               <p><hi rend="rubric">Priest:</hi> O merciful father, do not loose hold of us so that we fall into temptations that we are unable to bear. But as a compassionate father, visit (us) the weak children. Do not deprive us of your grace. Do not hold back from us your gentle chastening. Do not turn your face from us. Do not cast from us your sheepfold, because yours is the splendor, glory and kingdom and of your only begotten son.</p>
+               <p><hi rend="rubric">People:</hi> Amen.</p>
+               <p><hi rend="rubric">Deacon:</hi> To the Lord our heads.</p>
+               <p><hi rend="rubric">People:</hi> In front of you.</p>
             </div>
             <div type="translation-liturgical-section" n="The Third Benediction" corresp="#sachau-196-31">
                <p><hi rend="rubric">Priest:</hi> O Lord, bless with your right hand carrying blessings this your believing people who with meekness of mind bend their necks before your mercy and await your overflowing gifts, so that from every filth and blemish of sin, we may be cleansed as we partake in the holy body and divine bloos of your Christ. We offer up all praises and exaltations and glories proper to the richness of your compassion and to your only begotten son and the Holy Spirit.</p>
@@ -650,14 +650,14 @@
                <p><hi rend="rubric">Priest:</hi> May ...</p>
                <p><hi rend="rubric">Deacon:</hi> With fear.</p>
                <p><hi rend="rubric">Priest:</hi> The holies ...</p>
-               <p><hi rend="rubric">People:</hi> One is the father.</p>
-               <p><hi rend="rubric">Priest:</hi> One is the holy father.</p>
+               <p><hi rend="rubric">People:</hi> One is the Father.</p>
+               <p><hi rend="rubric">Priest:</hi> One is the Holy Father.</p>
                <p><hi rend="rubric">Priest.</hi> <hi rend="rubric">Prayer after communion:</hi> We offer up due thanksgiving to you, O God. Continually, to the best of our power, we give thanks as we implore you, O our God, that these mysteries which we have received may be for us for the remission of debts and for the forgiveness of the sins. By the grace and mercy and philanthropy of your only begotten son with your Holy Spirit preserve and redeem us now.</p>
                <p><hi rend="rubric">People:</hi> Amen.</p>
                <p><hi rend="rubric">Deacon:</hi> For the Lord.</p>
             </div>
             <div type="translation-liturgical-section" n="Concluding Prayer" corresp="#sachau-196-34">
-               <p><hi rend="rubric">Priest:</hi> Before you, merciful Lord, we bow down our necks. Grant them, O benevolent Lord, the harmony of true love and right standing, showering on them by your mercy all abundant goodness and everlasting blessings. Preserve them from all afflictions, for you alone are the compassionate shepherd, who gave up himself and saved the lost souls. We offer up praise to you and to your father who answers supplications, and to your Holy Spirit, the giver of live to the creatures, now. (Completed)</p>
+               <p><hi rend="rubric">Priest:</hi> Before you, merciful Lord, we bow down our necks. Grant them, O benevolent Lord, the harmony of true love and right standing, showering on them by your mercy all abundant goodness and everlasting blessings. Preserve them from all afflictions, for you alone are the compassionate shepherd, who gave up himself and saved the lost souls. We offer up praise to you and to your father who answers supplications, and to your Holy Spirit, the giver of live to the creatures, now. ... (Completed)</p>
             </div>
          </div>
          <div type="literature" n="Literature" xml:lang="en">
@@ -815,14 +815,14 @@
             </listBibl>
          </div>
          <div type="weblinks" n="Weblinks" xml:lang="en">
+            <p rend="space-after">Nr. 151 (Sachau 185. 196. 152.) in the catalogue of Sachau 1899: Available online via the Staatsbibliothek Berlin: <ref target="http://resolver.staatsbibliothek-berlin.de/SBB0000720B00160037"/></p>
             <p rend="space-after">The pictures of manuscript Sachau 196 are available online via the Staatsbibliothek Berlin: <ref target="http://resolver.staatsbibliothek-berlin.de/SBB000055A900000007"/></p>
             <p rend="space-after">Abbeloos / Lamy 1872: Available online via Internet Archive: <ref target="https://archive.org/details/BarHebraeusChroniconEcclesiasticumVol.1/mode/2up"/></p>
+            <p>Baumstark 1922: Available online via Internet Archive: <ref target="https://archive.org/details/geschichtedersyr00baumuoft"/></p>
             <p rend="space-after">Chabot 1901: Available online via Internet Archive: <ref target="https://archive.org/details/MichelLeSyrien2"/></p>
             <p rend="space-after">Chabot 1910: Available online via Internet Archive: <ref target="https://archive.org/details/ChroniqueDeMichelLeSyrienTome4/mode/2up"/></p>
             <p rend="space-after">Duval 1907: Available online via Internet Archive: <ref target="https://archive.org/details/LaLittratureSyriaque"/></p>
-            <p rend="space-after">Nr. 151 (Sachau 185. 196. 152.) in the catalogue of Sachau 1899: Available online via the Staatsbibliothek Berlin: <ref target="http://resolver.staatsbibliothek-berlin.de/SBB0000720B00160037"/></p>
             <p rend="space-after">Wright 1894: Available online via Internet Archive: <ref target="https://archive.org/details/shorthsy00wrig/mode/2up"/></p>
-            <p>Baumstark 1922: Available online via Internet Archive: <ref target="https://archive.org/details/geschichtedersyr00baumuoft"/></p>
          </div>
       </body>
   </text>
