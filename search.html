@@ -10,6 +10,7 @@
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <title>Syriac Liturgy - Search</title>
     <link rel="stylesheet" id="fundament-styles"  href="./fundament/css/fundament.min.css" type="text/css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css">
 	<link rel="stylesheet" href="./fundament/css/custom.css" type="text/css"/>
 	<link rel="icon" type="image/png" href="./favicon.png"/>
   </head>
@@ -92,7 +93,15 @@
                     <h1 class="entry-title">Search</h1>
                   </header><!-- .entry-header -->
                   <div class="entry-content">
-                    <p>Content follows soon.</p>
+                    <div class="container">
+                      <div>
+                          <div>
+                              <div id="searchbox"></div>
+                              <div id="hits"></div>
+                          </div>
+                      </div>
+                      <div id="pagination"></div>
+                  </div>
                   </div><!-- .entry-content -->
                 </article>
               </main><!-- #main -->
@@ -165,5 +174,8 @@
     <!-- #page we need this extra closing tag here -->
     <script type="text/javascript" src="./fundament/vendor/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="./fundament/js/fundament.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.44.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script>
+    <script src="./fundament/js/search-client.js" type="module"></script>
   </body>
 </html>
