@@ -37,6 +37,7 @@
         <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
         <xsl:text>\end{titlepage}</xsl:text>
         <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'transcription']"/>
+        <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'translation']"/>
         <xsl:text>\end{document}</xsl:text>
     </xsl:template>
     
@@ -58,6 +59,9 @@
     
     <xsl:template match="tei:publicationStmt">
         <xsl:text>\pdfbookmark[0]{Publication Statement}{publication}</xsl:text>
+        <xsl:text>Publisher: \textit{</xsl:text>
+            <xsl:value-of select="./tei:publisher/text()"/>
+        <xsl:text>}\par </xsl:text>
         <xsl:text>Licence: \textit{</xsl:text>
             <xsl:value-of select="./tei:availability/tei:licence"/>
         <xsl:text>}\par</xsl:text>
@@ -110,8 +114,8 @@
         <xsl:apply-templates select="child::*"/>
     </xsl:template>
     
-    <xsl:template match="tei:div[@type = 'section']">
-        <xsl:text>\pdfbookmark[0]{</xsl:text>
+    <xsl:template match="tei:div[@type = 'section'][parent::tei:div[@type = 'transcription']]">
+        <xsl:text>\pdfbookmark[1]{</xsl:text>
         <xsl:value-of select="@n"/>
         <xsl:text>}{</xsl:text>
         <xsl:value-of select="lower-case(@n)"/>
@@ -125,7 +129,7 @@
     <xsl:template match="tei:div[@type = 'subsection']">
         <xsl:text>\RTL{</xsl:text>
         <xsl:apply-templates select="child::*"/>
-        <xsl:text>}\par </xsl:text>
+        <xsl:text>}\par\vspace{3mm}</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:ab">
@@ -152,7 +156,30 @@
         <xsl:apply-templates select="child::node()"/>
     </xsl:template>
     
-    <xsl:template match="text()">
+    <xsl:template match="tei:div[@type = 'translation']">
+        <xsl:text>\pdfbookmark[0]{Translation}{translation}</xsl:text>
+        <xsl:text>\begin{center}\textbf{Translation}\end{center}\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::*"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'section'][parent::tei:div[@type = 'translation']]">
+        <xsl:text>\pdfbookmark[1]{</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>}{</xsl:text>
+        <xsl:value-of select="concat(lower-case(@n),'-translation')"/>
+        <xsl:text>}</xsl:text>
+        <xsl:text>\vspace{5mm}\LTR{\textit{</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>}}\par\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::*"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:p[ancestor::tei:div[@type = 'translation']]">
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>\par\vspace{3mm}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="text()[ancestor::tei:div[@type = 'transcription']]">
         <xsl:if test="parent::tei:hi[@rend = 'emphasized']">
             <xsl:text>\begin{syriac}\textxecolor{red}{</xsl:text>
                 <xsl:value-of select="normalize-space(.)"/>
@@ -169,6 +196,10 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="text()[ancestor::tei:div[@type = 'translation']]">
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
     
 </xsl:stylesheet>

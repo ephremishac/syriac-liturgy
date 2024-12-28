@@ -39,7 +39,7 @@
    </teiHeader>
   <text>
       <body>
-         <div type="transcription">
+         <div type="transcription" xml:lang="syc">
             <ab type="page" n="257">
                <seg type="liturgical-section" n="Title" xml:id="dam-5-11-2-1">
                   <pb n="257"/>

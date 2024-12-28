@@ -14,7 +14,6 @@
     
     <xsl:template match="/">
         <xsl:apply-templates select="//tei:seg[@type = 'liturgical-section'][not(exists(@prev))]"/>
-        <xsl:apply-templates select="//tei:div[@type = 'translation-liturgical-section']"/>
     </xsl:template>
     
     <xsl:template match="tei:seg[@type = 'liturgical-section'][not(exists(@prev))]">
@@ -26,7 +25,7 @@
         <xsl:value-of select="@n"/>
         <xsl:text>",</xsl:text>
         <xsl:text>"document_title" : "</xsl:text>
-        <xsl:value-of select="root()/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()"/>
+        <xsl:value-of select="root()/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[1]/text()"/>
         <xsl:text>",</xsl:text>
         <xsl:text>"language" : "</xsl:text>
         <xsl:value-of select="ancestor::tei:div[@type = 'transcription']/@xml:lang"/>
@@ -39,7 +38,7 @@
         </xsl:if>
         <xsl:text>",</xsl:text>
         <xsl:text>"document_url" : "</xsl:text>
-        <xsl:text>./anaphoras/anaphora-of-jacob-of-edessa-sachau-196.html</xsl:text>
+        <xsl:text>./anaphoras/anaphora-of-john-chrysostom-dam-5-11.html</xsl:text>
         <xsl:text>"</xsl:text>
         <xsl:text>}
 </xsl:text>
@@ -51,35 +50,6 @@
             <xsl:variable name="next-segment" select="substring-after(@next,'#')"/>
             <xsl:apply-templates select="root()//tei:seg[@type = 'liturgical-section'][@xml:id = $next-segment]"/>
         </xsl:if>
-    </xsl:template>
-    
-    <xsl:template match="tei:div[@type = 'translation-liturgical-section']">
-        <xsl:text>{</xsl:text>
-        <xsl:text>"section_id" : "</xsl:text>
-        <xsl:value-of select="@xml:id"/>
-        <xsl:text>",</xsl:text>
-        <xsl:text>"title_of_section" : "</xsl:text>
-        <xsl:value-of select="@n"/>
-        <xsl:text>",</xsl:text>
-        <xsl:text>"document_title" : "</xsl:text>
-        <xsl:value-of select="root()/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()"/>
-        <xsl:text>",</xsl:text>
-        <xsl:text>"language" : "</xsl:text>
-        <xsl:value-of select="ancestor::tei:div[@type = 'translation']/@xml:lang"/>
-        <xsl:text>",</xsl:text>
-        <xsl:text>"text_of_section" : "</xsl:text>
-        <xsl:for-each select="child::tei:p">
-            <xsl:apply-templates select="."/>
-            <xsl:if test="position() != last()">
-                <xsl:text> </xsl:text>
-            </xsl:if>
-        </xsl:for-each>
-        <xsl:text>",</xsl:text>
-        <xsl:text>"document_url" : "</xsl:text>
-        <xsl:text>./anaphoras/anaphora-of-jacob-of-edessa-sachau-196.html</xsl:text>
-        <xsl:text>"</xsl:text>
-        <xsl:text>}
-</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:pb"/>

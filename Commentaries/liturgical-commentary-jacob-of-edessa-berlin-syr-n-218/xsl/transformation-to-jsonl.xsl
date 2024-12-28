@@ -13,11 +13,19 @@
     </xsl:character-map>
     
     <xsl:template match="/">
-        <xsl:apply-templates select="//tei:seg[@type = 'liturgical-section'][not(exists(@prev))]"/>
-        <xsl:apply-templates select="//tei:div[@type = 'translation-liturgical-section']"/>
+        <xsl:apply-templates select="//tei:div[@type = 'transcription']"/>
+        <xsl:apply-templates select="//tei:div[@type = 'translation']"/>
     </xsl:template>
     
-    <xsl:template match="tei:seg[@type = 'liturgical-section'][not(exists(@prev))]">
+    <xsl:template match="tei:div[@type = 'transcription']">
+        <xsl:apply-templates select="child::tei:div[@type = 'section']"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'translation']">
+        <xsl:apply-templates select="child::tei:div[@type = 'section']"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'section'][parent::tei:div[@type = 'transcription']]">
         <xsl:text>{</xsl:text>
         <xsl:text>"section_id" : "</xsl:text>
         <xsl:value-of select="@xml:id"/>
@@ -32,28 +40,25 @@
         <xsl:value-of select="ancestor::tei:div[@type = 'transcription']/@xml:lang"/>
         <xsl:text>",</xsl:text>
         <xsl:text>"text_of_section" : "</xsl:text>
-        <xsl:apply-templates select="child::node()"/>
-        <xsl:if test="exists(@next)">
-            <xsl:variable name="next-segment" select="substring-after(@next,'#')"/>
-            <xsl:apply-templates select="root()//tei:seg[@type = 'liturgical-section'][@xml:id = $next-segment]"/>
-        </xsl:if>
+        <xsl:for-each select="child::tei:div[@type = 'subsection']">
+            <xsl:apply-templates select="./child::node()"/>
+            <xsl:if test="position() != last()">
+                <xsl:text> </xsl:text>
+            </xsl:if>
+        </xsl:for-each>
         <xsl:text>",</xsl:text>
         <xsl:text>"document_url" : "</xsl:text>
-        <xsl:text>./anaphoras/anaphora-of-jacob-of-edessa-sachau-196.html</xsl:text>
+        <xsl:text>./commentaries/liturgical-commentary-jacob-of-edessa-berlin-syr-n-218.html</xsl:text>
         <xsl:text>"</xsl:text>
         <xsl:text>}
 </xsl:text>
     </xsl:template>
     
-    <xsl:template match="tei:seg[@type = 'liturgical-section'][exists(@prev)][not(exists(@rend))]">
+    <xsl:template match="tei:ab">
         <xsl:apply-templates select="child::node()"/>
-        <xsl:if test="exists(@next)">
-            <xsl:variable name="next-segment" select="substring-after(@next,'#')"/>
-            <xsl:apply-templates select="root()//tei:seg[@type = 'liturgical-section'][@xml:id = $next-segment]"/>
-        </xsl:if>
     </xsl:template>
     
-    <xsl:template match="tei:div[@type = 'translation-liturgical-section']">
+    <xsl:template match="tei:div[@type = 'section'][parent::tei:div[@type = 'translation']]">
         <xsl:text>{</xsl:text>
         <xsl:text>"section_id" : "</xsl:text>
         <xsl:value-of select="@xml:id"/>
@@ -76,7 +81,7 @@
         </xsl:for-each>
         <xsl:text>",</xsl:text>
         <xsl:text>"document_url" : "</xsl:text>
-        <xsl:text>./anaphoras/anaphora-of-jacob-of-edessa-sachau-196.html</xsl:text>
+        <xsl:text>./commentaries/liturgical-commentary-jacob-of-edessa-berlin-syr-n-218.html</xsl:text>
         <xsl:text>"</xsl:text>
         <xsl:text>}
 </xsl:text>

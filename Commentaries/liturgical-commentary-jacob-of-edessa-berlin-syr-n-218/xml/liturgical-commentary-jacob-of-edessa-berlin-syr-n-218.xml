@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Liturgical Commentary of Jacob of Edessa to George the Stylite of Serugh - Berlin, Sachau Syr. N. 218</title>
             <respStmt>
-               <resp>transcribed by</resp>
+               <resp>edited by</resp>
                <name>Ephrem Aboud Ishac</name>
                <note type="project-number">Project P 36649</note>
                <note type="project-name">Identifying Scattered Puzzles of Syriac Liturgical
@@ -21,7 +21,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>IMAFO</publisher>
-            <date>10.12.2023</date>
+            <date>26.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Available under the
                   Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
@@ -52,7 +52,7 @@
    <text>
       <body>
          <div type="transcription" xml:lang="syc">
-            <div type="section" n="Title">
+            <div type="section" n="Title" xml:id="berlin-syr-n-218-1-1">
                <div type="subsection">
                   <ab>
                      <pb n="178v" facs="http://resolver.staatsbibliothek-berlin.de/SBB0000144300000362"/>
@@ -63,7 +63,7 @@
                      <lb n="5"/><hi rend="emphasized">ܐܣܛܘܢܪܐ ܕܣܪܘܓ</hi></ab>
                </div>
             </div>
-            <div type="section" n="The Semantron">
+            <div type="section" n="The Semantron" xml:id="berlin-syr-n-218-1-2">
                <div type="subsection">
                   <ab><hi rend="emphasized">܏ܩܕܡ ܕܥܠ ܢܩܘܫܐ:</hi></ab>
                </div>
@@ -98,7 +98,7 @@
                      ܘܡܨܝܒ ܠܫܡܘܥܐ <lb n="8"/>ܠܩܪܒܐ ܪܘܚܢܝܐ܆ ܝܬܝܪ ܡܢ ܩܠܐ ܕܢܚܫܐ܀</ab>
                </div>
             </div>
-            <div type="section" n="The Sanctuary">
+            <div type="section" n="The Sanctuary" xml:id="berlin-syr-n-218-1-3">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܕܥܠ</hi>
                      <lb n="9"/><hi rend="emphasized">ܡܕܒܚܐ܆</hi></ab>
@@ -107,7 +107,7 @@
                   <ab>ܡܕܒܚܐ ܨ̇ܐܪ ܠܫܡܝܐ: ܘܝܠܕܐ ܥܕܬܐ: <lb n="10"/>ܟܠܗ̇ ܛܘܦܣܐ ܐܝܬܝܗ̇ ܕܟܠܗ̇ ܒܪܝܬܐ.</ab>
                </div>
             </div>
-            <div type="section" n="The Table">
+            <div type="section" n="The Table" xml:id="berlin-syr-n-218-1-4">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܕܥܠ ܦܬܘܪܐ܆</hi></ab>
                </div>
@@ -116,7 +116,7 @@
                      <lb n="11"/>ܦܬܘܪ ܚܝ̈ܐ ܛܘܦܣܐ ܐܝܬܘܗܝ ܘܩܒܪܗ ܕܡܪܢ.</ab>
                </div>
             </div>
-            <div type="section" n="The Tablet">
+            <div type="section" n="The Tablet" xml:id="berlin-syr-n-218-1-5">
                <div type="subsection">
                   <ab>
                      <lb n="12"/><hi rend="emphasized">ܕܥܠ ܛܒܠܝܬܐ܆</hi></ab>
@@ -126,7 +126,7 @@
                      ܚܝ̈ܐ</ab>
                </div>
             </div>
-            <div type="section" n="The Anaphora">
+            <div type="section" n="The Anaphora" xml:id="berlin-syr-n-218-1-6">
                <div type="subsection">
                   <ab>
                      <lb n="14"/><hi rend="emphasized">ܥܠ ܐܢܢܦܘܪܐ</hi></ab>
@@ -138,7 +138,7 @@
                      <lb n="1"/>ܫܡܝܐ: ܕܐܝܬܝܗ̇ ܚܝܘ̈ܬܐ ܘܟܠ ܓܢܣ.</ab>
                </div>
             </div>
-            <div type="section" n="The Veil">
+            <div type="section" n="The Veil" xml:id="berlin-syr-n-218-1-7">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܥܠ ܦܪܳܣܳܐ</hi></ab>
                </div>
@@ -148,7 +148,7 @@
                      ܕܟ̇ܠܐ ܒܝܬ ܠܢ ܠܟܝ̇ܢܐ ܪܘܚܢܝܐ ܕܡܠܐܟ̈ܐ</ab>
                </div>
             </div>
-            <div type="section" n="The Cymbals">
+            <div type="section" n="The Cymbals" xml:id="berlin-syr-n-218-1-8">
                <div type="subsection">
                   <ab>
                      <lb n="4"/><hi rend="emphasized">ܕܥܠ ܦܪ̈ܘܚܐ</hi></ab>
@@ -157,7 +157,7 @@
                   <ab>ܛܘܦܣܐ ܐܝܬܝܗܘܢ ܕܣܪ̈ܦܐ <lb n="5"/>ܫܬܝܬܝܲܝ ܓܦ̈ܐ.</ab>
                </div>
             </div>
-            <div type="section" n="The Order of Nine Hosts">
+            <div type="section" n="The Order of Nine Hosts" xml:id="berlin-syr-n-218-1-9">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܥܠ ܛܟܣܐ ܕܚܝܠܘ̈ܬܐ</hi></ab>
                </div>
@@ -167,7 +167,7 @@
                      ܗ̇ܢܘܢ ܕܐܝܬܝܗܘܢ ܪܐܙ ܚܝܠܘ̈ܬܐ <lb n="9"/>ܥܠ̈ܝܐ.</ab>
                </div>
             </div>
-            <div type="section" n="The Deacons">
+            <div type="section" n="The Deacons" xml:id="berlin-syr-n-218-1-10">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܥܠ ܡܫܡܫܢܐ</hi></ab>
                </div>
@@ -176,7 +176,7 @@
                      ܡܠܐܟܝ̈ܐ ܟܘܬܝܢܐ ܕܠ̇ܒܫ <lb n="11"/>ܟܕ ܠܐ ܐܣ̇ܪ ܥܠܝܗ̇: ܛܘܦܣܐ ܐܝܬܝܗ̇ ܕܚܐܪܘܬܐ.</ab>
                </div>
             </div>
-            <div type="section" n="The Priest">
+            <div type="section" n="The Priest" xml:id="berlin-syr-n-218-1-11">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܕܥܠ ܩܫܝܫܐ</hi></ab>
                </div>
@@ -193,7 +193,7 @@
                      ܕܘܡܝܐ ܐܝܬܘܗܝ ܕܡܪܢ.</ab>
                </div>
             </div>
-            <div type="section" n="The Censer">
+            <div type="section" n="The Censer" xml:id="berlin-syr-n-218-1-12">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܕܥܠ ܦܝܪܡܐ</hi></ab>
                </div>
@@ -222,7 +222,7 @@
                      ܥܡܐ ܘܫܳܠܡܝܢ</ab>
                </div>
             </div>
-            <div type="section" n="The Eucharistic Service">
+            <div type="section" n="The Eucharistic Service" xml:id="berlin-syr-n-218-1-13">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܕܥܠ ܩܽܘܪܳܒܳܐ</hi></ab>
                </div>
@@ -230,7 +230,7 @@
                   <ab>ܩܘܪܒܐ <lb n="5"/>ܡܬܦܫܩ ܡܬܩܪܒܢܘܬܐ ܕܠܘܬ ܐܠܗܐ.</ab>
                </div>
             </div>
-            <div type="section" n="The Crosses">
+            <div type="section" n="The Crosses" xml:id="berlin-syr-n-218-1-14">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܕܥܠ ܨܠܝܒ̈ܐ</hi></ab>
                </div>
@@ -277,7 +277,7 @@
                      />ܥܡܐ ܘܒܠܚܘܕܘܗܝ ܡܩܪܒ ܟܗܢܐ: ܠܐ ܐܠܨܐ ܕܢܬܢܐ ܐܢܘܢ.</ab>
                </div>
             </div>
-            <div type="section" n="The Opening of the Eucharistic Service">
+            <div type="section" n="The Opening of the Eucharistic Service" xml:id="berlin-syr-n-218-1-15">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܫܘܪܝܐ</hi>
                      <lb n="13"/><hi rend="emphasized">ܕܩܘܪܒܐ</hi></ab>
@@ -464,7 +464,7 @@
                      ܢܗܘܐ܀</ab>
                </div>
             </div>
-            <div type="section" n="The Lord's Prayer">
+            <div type="section" n="The Lord's Prayer" xml:id="berlin-syr-n-218-1-16">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܨܠܘܬܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi></ab>
                </div>
@@ -521,7 +521,7 @@
                      />ܠܥܠܡܥܠܡܝܢ܀</ab>
                </div>
             </div>
-            <div type="section" n="Another Commentary">
+            <div type="section" n="Another Commentary" xml:id="berlin-syr-n-218-1-17">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܦܘܫܩܐ ܐܚܪܢܐ</hi></ab>
                </div>
@@ -536,7 +536,7 @@
                      ܡܢܝܢܐ ܕܝܘܡ̈ܬܐ܀</ab>
                </div>
             </div>
-            <div type="section" n="The Commentary of Mor Jacob">
+            <div type="section" n="The Commentary of Mor Jacob" xml:id="berlin-syr-n-218-1-18">
                <div type="subsection">
                   <ab><hi rend="emphasized">ܦܘܫܩܐ ܕܡܪܝ ܝܥܩܘܒ:</hi></ab>
                </div>
@@ -546,7 +546,7 @@
                      ܚܕ܀ ܐܠܗܘܬܐ ܕܝܢ ܚܕܐ܀ ܐܝܬܝܐ ܕܝܢ ܚܕ܀ ܐܝܬܘܬܐ <lb n="5"/>ܕܝܢ ܚܕܐ܀</ab>
                </div>
             </div>
-            <div type="section" n="On Priesthood">
+            <div type="section" n="On Priesthood" xml:id="berlin-syr-n-218-1-19">
                <div type="subsection">
                   <ab>ܥܠ ܟܗܢܘܬܐ܆</ab>
                </div>
@@ -579,6 +579,143 @@
                      ܕܠܐ ܥܡܠ ܥܠ <lb n="9"/>ܐܦ̈ܝ ܚܝ̈ܐ ܕܐܚܪ̈ܢܐ܆ ܐܦܠܐ ܓܝܪ ܗ̇ܘ ܕܘܝܐ ܕܢܣ̰ܒ ܟܟܪܐ܆ ܡܛܠ ܕܠܐ
                         <lb n="10"/>ܒܨܪ ܡܢܗ̇ ܐܬܗܢܝ܆ ܐܠܐ ܥܠ ܕܠܐ ܐܘܣܦ ܥܠܝܗ̇ ܘܥܦܦܗ̇ ܐܒ̣ܕ܀</ab>
                </div>
+            </div>
+         </div>
+         <div type="translation" xml:lang="en" n="Translation">
+            <div type="section" n="Title" xml:id="berlin-syr-n-218-1-translation-1">
+               <p>Once more, with the help of God, we write the order before the oblation.</p>
+               <p>First, the commentary, that is, the interpretation of the offering of holy Mor Jacob of Edessa, which he sent to George the stylite of Serugh.</p>
+            </div>
+            <div type="section" n="The Semantron" xml:id="berlin-syr-n-218-1-translation-2">
+               <p>First, concerning the Semantron.</p>
+               <p>The Semantron is beaten in church on the account of being a symbol of a trumpet. As the trumpet gathers soldiers to a war, in the same way the Semantron gathers Christians into the church in order to wrestle with Satan.</p>
+               <p>Second, as the king wants to gather his kingdoms to offer them gifts, he sounds a trumpet, likewise, when Christ wants to offer gifts to the believers, gathers them to the church.</p>
+               <p>Again, as with wood, we had transgressed the commandment, and so we were expelled from Paradise; in like manner, by the sound of the Semantron, which is the symbol of the wood, we gather to the church which is a type of Paradise.</p>
+               <p>Again, by God's command, he commanded Noah to build the ark and construct the Semantron as well. In the time of morning, he was beating it and the craftsmen would gather for building the ark, and at noon to enjoy the food, and in the evening, to rest from the labor.</p>
+               <p>We say also that the Semantron is constructed of wood, because for hearing it is better for hearing than the human voice and invites the people to prayer. Likewise, more than the sound of bronze, which is solid and powerful, it summons the listener to the spiritual battle.</p>
+            </div>
+            <div type="section" n="The Sanctuary" xml:id="berlin-syr-n-218-1-translation-3">
+               <p>On the Santuary.</p>
+               <p>The sanctuary depicts the heaven, giving birth to the church, all is a type of the whole creation.</p>
+            </div>
+            <div type="section" n="The Table" xml:id="berlin-syr-n-218-1-translation-4">
+               <p>On the Table.</p>
+               <p>The table of life is a type: our Lord's tomb.</p>
+            </div>
+            <div type="section" n="The Tablet" xml:id="berlin-syr-n-218-1-translation-5">
+               <p>The Tablet.</p>
+               <p>The tablet is a type of the cross of our Lord, and therefore is placed on the table of life.</p>
+            </div>
+            <div type="section" n="The Anaphora" xml:id="berlin-syr-n-218-1-translation-6">
+               <p>On the Anaphora.</p>
+               <p>The anaphora is a type of the stone which was put on the door of our Lord's tomb. It is a type of the vessel / sheet which Simon saw descending from heaven wherein all types of animals were.</p>
+            </div>
+            <div type="section" n="The Curtain" xml:id="berlin-syr-n-218-1-translation-7">
+               <p>On the Curtain.</p>
+               <p>The curtain of the altar is a sign of the firmament of heaven, that which holds back between us and the spiritual nature of angels.</p>
+            </div>
+            <div type="section" n="The Cymbals" xml:id="berlin-syr-n-218-1-translation-8">
+               <p>On the Cymbals.</p>
+               <p>They are a type of six-winged seraphim.</p>
+            </div>
+            <div type="section" n="The Hosts" xml:id="berlin-syr-n-218-1-translation-9">
+               <p>On the Order of the Hosts.</p>
+               <p>Nine is the order of the hosts: the heavenly (hosts) are in heaven above, who are placed and organized into three churches. In the same way, our Lord and his disciples organized nine orders in this earthly church which are the symbol of the heavenly hosts.</p>
+            </div>
+            <div type="section" n="The Deacon" xml:id="berlin-syr-n-218-1-translation-10">
+               <p>On the Deacon.</p>
+               <p>The deacon is a type of an angel, and the stole over his shoulder is a type of angelic wings. The alb which he wears without tying (a girdle) upon it is a type of freedom.</p>
+            </div>
+            <div type="section" n="The Priest" xml:id="berlin-syr-n-218-1-translation-11">
+               <p>The Priest.</p>
+               <p>When the priest is ordained, he bends down on his two knees in order to show that in his soul and in his body he is matured and perfected in the priesthood and in the richness of the sacraments. The alb that the priest wears is the type of the sub-deaconate, and the stole which is placed on him is the type and order of the deacons. And the chasuble above the stole resembles the cloak of Elijah the prophet, and the vestment as well as the clothing of the heavenly hosts. And when the priest stands and stretches out his hands during the offering / mass, he depicts a symbol of our Lord stretched out on the cross. And the priest himself is a resemblance of our Lord.</p>
+            </div>
+            <div type="section" n="The Censer" xml:id="berlin-syr-n-218-1-translation-12">
+               <p>On the Censer.</p>
+               <p>The censer depicts Christ; the fire that is placed in it symbolizes the Godhead. The incense which is put on (fire) symbolizes the Humanity. The lower part of the censer symbolizes the earth, and the top part the heaven. The three chains (attached to the censer) symbolize and are the type of the holy Trinity.</p>
+               <p>The fact that the censer proceeds out from the nave (of the church) symbolizes the descent of Christ Jesus from heaven. And that the deacon goes around to the priest to take incense, and then circles around the church, symbolizes that God descended and went around in the world and pleased the entire creation with the Gospel teaching, and then ascended to his Father. In the same way, the deacon circulates in the church and then comes back ascending to the holy of holies.</p>
+               <p>When the deacon carries the censer, he must enter the altar and incense three times the center of the table of life which is a type of the Father. Then he shall move to the northern corner of the altar and incense it three times, which is a type of the Son, and then shall move to the southern corner of the altar and incense it three times which is a symbol of the Holy Spirit. Immediately after that, the deacon shall go to the priest and give hime the censer. The deacon shall incline his head and saying: 'I have read what you wrote before the king and received the seal.' The deacon immediately turns to the people and incenses them as they incline their heads, saying: 'We consent.' Then the deacon returns to the priest, saying: 'I read your letter before the people and they consent.'</p>
+            </div>
+            <div type="section" n="The Eucharistic Service" xml:id="berlin-syr-n-218-1-translation-13">
+               <p>On the Qurbono.</p>
+               <p>The Qurbono is interpreted as an approachment towards God.</p>
+            </div>
+            <div type="section" n="The Crosses" xml:id="berlin-syr-n-218-1-translation-14">
+               <p>On the Crosses.</p>
+               <p>How many crosses are made during the Qurbono offering, and how are they made? The bishop warns that the people or the deacon should not make the sign of the cross or cross themselves during the Qurbono apart from the crosses made on the body and blood and upon the people (by the celebrant), strange is the moderation of the order. The crosses which are made towards the deacon on the right and the left of the priest, and towards the people. If there are deacons only on one side, the sign should be made towards that side only. It there are people, the sign of the cross must be made towards them three times at every time, as we mention below. If there are no (people), let him not make the sign of the cross. Thus, the priest should know as he begins how the sign of the crosses are made during the Qurbono, (and) how many (crosses are to be made) in each place.</p>
+               <p>Altogether, there are eighteen (crosses). That is, first, the priest makes a sign of the cross once towards each side. If there are no deacons, it is not necessary to do that, but the priest should cross himself three times and towards the people three times where he says: 'The love of God the Father.'</p>
+               <p>The second time, he makes three times the sign of the cross over the (eucharistic) body, and three times over the cup where he says: 'He blessed and sanctified'.</p>
+               <p>The third time, likewise, he makes the sign of the cross three times over the (eucharistic) body and three times over the cup where he says: 'So that, by His indwelling, may He make this bread and this cup'.</p>
+               <p>The fourth time, he makes (the sign of the cross) upon his face, to his right and to his left, and towards the people where he says: 'May the mercies ...'</p>
+               <p>The fifth time, he makes the sign of the cross three times during the fraction of the eucharistic bread through the blood over the body, and three times over the cup when he fractures and signs, and unites the body with the blood. It is not necessary to sprinkle, as there was a custom for some people to do this again.</p>
+               <p>The sixth and last time, he makes the sign of the cross upon his face, to his left, and to his right, and towards people three times where he says: 'May the grace of the Trinity'. Then, 'the holy mysteries (be given) to the holy ones', and to the priests which is said by the deacon, if there are no people and the priest is celebrating by himself, (the above named Bishop ordered that) it is not necessary to recite them.</p>
+            </div>
+            <div type="section" n="The Opening of the Eucharistic Service" xml:id="berlin-syr-n-218-1-translation-15">
+               <p>The Beginning of the Qurbono.</p>
+               <p>Then at the beginning, as the priest begins by declaring: '(Glory) be to the Father and the Son and the Holy Spirit,' (he declares) the union of one nature and substance of the Trinity, showing that is being divided undividedly, and being unified undiffusedly. Now this is said about the Son, that is during his incarnation, and at all times he is God forever.</p>
+               <p>Then, the (sign of) peace which is given.</p>
+               <p>The word of our Lord is fulfilled: 'Leave your offering there on your altar, and (first) be reconciled to your brother.' It is like the spiritual beings are gathered there, and give peace to those who had peace with us through the killing / death of the Lord.</p>
+               <p>(On) that of 'The love of God the Father'. It shows that God through his love gave his son for us, according to what Paul has said.</p>
+               <p>'The grace of the only-begotten Son' shows that by grace he tasted death for the sake of everyone.</p>
+               <p>And 'the fellowship of the Holy Spirit'. For through the communion of the Holy Spirit the sacrifice is fulfilled. The priest says these three 'be with you,' and they respond, and 'also with you.' As Saint Gregory the Great says: '(it is that) peace which the priest receives.'</p>
+               <p>Again he (the priest) adds: 'Let your minds be lifted up,' that is, apply your mind to heavenly things, and be cleansed from earthly matters.</p>
+               <p>They respond: 'We are with the Lord.' That is, mercy, the incarnation, and through repentance; the mercy of the Father who created us, the Son who saved us, and through the repentance by the Holy Spirit we were inscribed in the heaven as adoption of sons. Also, as it stands written, 'we have in heaven a Paraclete, Jesus Christ the Victorious' (1 John 2:1), which means the Advocate Paraclete. Also, 'rejoice because your names are inscribed in heaven' (Luke 10:20). Because of these three, our hearts are with the Lord. Again, the priest says: 'Let us give thanks to the Lord for these.' They respond to him: 'It is meet and right.'</p>
+               <p>Then he offers / brings the angelic praise (Sanctus) that they cry out with one voice: 'Holy, holy, holy' of the three holy persons in heaven and on earth, on the sanctuary, and in everything unceasingly.</p>
+               <p>Hosanna is explained as a praise.</p>
+               <p>Again, 'He took the bread,' saying, 'he looked up into heaven' indicates the will of the Father.</p>
+               <p>'He gave thanks': It is a confession and not a petition. It is neither a prayer nor consent.</p>
+               <p>'I confess': I agree to your will to accept the passion of death.</p>
+               <p>'He blesses and sanctifies': He himself is holy.</p>
+               <p>'He broke': He sacrified himself.</p>
+               <p>'He distributed': Forgiveness poured out from him.</p>
+               <p>'He gave them': The gift is from him.</p>
+               <p>Some people say, 'He did not eat from his body,' but indeed he ate. For the holy Mor Ephrem says, 'They eat his body and he is with them. They drink his blood and he drank his blood and makes them worthy.' The holy Mor Iwannis (John Chrysostom) said, 'When he ate, he gave to his disciples.'</p>
+               <p>Afterwards, in that spiritual glory. The fact that 'We praise you' - you made us rational beings, and we bless you through heart, mouth and tongue, that you made us worthy to be your worshippers.</p>
+               <p>We give you thanks for you have gathered us from the wandering of sin.</p>
+               <p>After the invocation of the Holy Spirit, he fulfilled the holy mysteries.</p>
+               <p>Then, the commemoration (diptychs) of the church and all its ranks - of the shepherds, of the priests, of the kings, of the apostles, of the prophets, of the (church) fathers, of the martyrs, and of all the saints, of the mother of God, and of the departed ones.</p>
+               <p>And then, 'Give rest and let go,' the prayer showing that there is no one pure among human beings, except our Lord Jesus Christ.</p>
+               <p>The priest says to the Father, 'For his (Christ's) sake, both for us and for them.' The people say, 'Give rest and let go.'</p>
+               <p>Then, 'As it was and is now' - before he became incarnate, he is God; and after death, he is God, and remains in the body forever without corruption. The Godhead is infinite, and God remains incomprehensible forever; as it is with his holy flesh, one God.</p>
+               <p>'Amen' in Greek is interpreted as 'So let it be,' and in Syriac, 'true.'</p>
+               <p>'Amen, Amen' - truly, truly.</p>
+               <p>Again, 'holy things for holy ones.'</p>
+               <p>This is then the soul, body, and the mind, which were consecrated in three substances - in water, blood, and spirit; in the Father, Son, and Spirit. Also the human being is an image of God in this, in his Trinitarian composition. The soul is like the Father, like the physicality of the Son, and the mind like the Holy Spirit. And by this, he is the reflection of God.</p>
+               <p>Again, they say, 'holy things ...,' as they are divided by the priest. Therefore, whoever receives unworthily is condemned for not discerning the body of the Lord.</p>
+               <p>Again, 'the holy things' and 'their consecrators' are also accomplished in three holy acts - the imprint, mark, and zeal. For by them, we are adorned as with a pearl, and we become the sons of God. Let us not throw these things to pigs. That is, to the evil thoughts of devils upon which the prodigal son was feeding.</p>
+               <p>The pig of the forest, moreover, is called the rebel.</p>
+               <p>And 'One Father' is that he is not the son of another like earthly parents. And he is not the father of someone else, but only that of our Lord Jesus Christ, and from him is named the fatherhood in heaven and on earth.</p>
+               <p>The Son is not the father of someone else, as those on earth who are their parents' children, and the parents of their children. Neither are they truly children by adoption; nor the parents, because they are children and parents.</p>
+               <p>One Holy Spirit who proceeds from the Father and is equal in essence with the Son. The name of holiness, belongs to him as the teacher says, 'If the Holy Spirit is not the holy Father and Son, since the name of sanctity applies to the Spirit.' The characteristic of the Father is begetting, and the Son being begotten, and the Spirit sanctity.</p>
+               <p>Again, the Spirit of God, to those equal in nature and different in characteristics be glory. That is, may the imperishable beauty and immortal honor be forever.</p>
+            </div>
+            <div type="section" n="The Lord's Prayer" xml:id="berlin-syr-n-218-1-translation-16">
+               <p>The Lord's Prayer.</p>
+               <p>It is correctly written there by the Fathers to be said. For it shows the teaching of Christ. It declares the fatherhood of the Father, by our grace with us.</p>
+               <p>'May your kingdom come' - the sovereignty of the Only-Begotten who reigns over all.</p>
+               <p>'Let your will be on earth, as it is in heaven' - as heaven is peaceful from divisions, controversies, and denial of God, and in harmony with your exalted will, likewise on earth let your will be done, but not the will of the opposite one, for the whole world is in a bad state.</p>
+               <p>'Give us daily bread' and not the multitude of greediness, which fattens the stomach immoderately, and diminishes trust in God, for we are commanded to imitate the birds and lilies.</p>
+               <p>Moreover, 'forgive us' - which is a supplication on behalf of (our) sins, showing that we are blameworthy and have committed transgressions.</p>
+               <p>Continuing, 'let us forgive' is an invitation for us to be forgiven according to one of the teachers.</p>
+               <p>'Lead us not into temptation' - this indicates the weakness of our nature.</p>
+               <p>'But deliver us from evil' - because we do not have strength to confine it.</p>
+               <p>'Because the kingdom is yours' - You are worshipped not like (earthly) kings, and so your heavenly kingdom does not pass away, for the heavenly king does not die.</p>
+               <p>'Power and glory' - the power is that all the powers are borne by your power. The praises of heavenly and earthly ones are offered to you forever and ever.</p>
+            </div>
+            <div type="section" n="Another Commentary" xml:id="berlin-syr-n-218-1-translation-17">
+               <p>Another Commentary.</p>
+               <p>The number of the hosts should not be reduced; once they have brought up on to the altar. Yes, addition is accepted until the Anaphora (veil) is removed from the mysteries. After that nothing should be added to them. They are the type of Christ's staying when he was in the tomb. The first, second, and the third day were counted for him. After he rose from the tomb, and that stone which was removed is holding the figure of the Anaphora (veil), no more days were added to the number of days.</p>
+            </div>
+            <div type="section" n="The Commentary of Mor Jacob" xml:id="berlin-syr-n-218-1-translation-18">
+               <p>The Commentary of Mor Jacob.</p>
+               <p>We believe in Father, Son, and Holy Spirit, three persons, one nature, one Godhead, one Being, and one Essence.</p>
+            </div>
+            <div type="section" n="On Priesthood" xml:id="berlin-syr-n-218-1-translation-19">
+               <p>On Priest(hood).</p>
+               <p>The personality of the priest must shine more than the beams of the sun, lest it be abandoned by the Holy Spirit, and be deprived by one, but who will not be able to say, I am alive. Not his, but rather Christ is alive in me.</p>
+               <p>How much protection and caution is needed for the priest, I assume, so he may distance himself from every defilement, and to keep his spiritual beauty unblemished. And also, the priest has to be more pure than every other human being. But I say, not even the confidence of Moses and Elijah was sufficient for this example. It is like the whole world is handed over to him, and he is the father of everybody.</p>
+               <p>In this manner draws near to God, so that wars and commotion may cease from the entire world. There shall be tranquility and abundance, and all troubles may be distanced from people.</p>
+               <p>And when (the priest) invokes the Holy Spirit, and serves the fearful sacrifice, and draws near with his own hands to the ruler of the whole creation, how much excellence and holiness is required of him! The angels in that moment stand at the side of the priest, and the entire altar is being filled up by heavenly people, while they descend and come down for the glory of the sacrificed and the one laid down. Not only he must be excellent and pure, but also to be wise and trained in every manner. That he stands before God and is a priest at the head of the people as a leader like John. But I do not believe that the priest would be able to live without laboring for the sake of the salvation of others, for not even the wretch who took the (single) talent profited from it, not because he did not lessen or gain pleasure from it, but because he neither added to it, nor multiplied it, so he perished.</p>
             </div>
          </div>
       </body>
