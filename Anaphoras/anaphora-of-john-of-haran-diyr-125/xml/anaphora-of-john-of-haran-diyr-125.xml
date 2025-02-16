@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anaphora of John of Haran - Diyarbakir 125 - Edition</title>
+            <title type="sub">Version 1.0</title>
+            <respStmt>
+               <resp>edited by</resp>
+               <persName>Ephrem Aboud Ishac</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>IMAFO</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Available under the Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+            <date>2025-02-16</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier xml:id="diyr-125">
+                  <settlement>Diyarbakir</settlement>
+                  <idno>DIYR 125 (134)</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <p>27v-32v: Anaphora of John of Haran</p>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="transcription" xml:lang="syc">
+            <ab type="page" n="27v">
+               <seg type="liturgical-section" n="Title" xml:id="diyr-125-1-1">
+                  <pb n="27v"/>
+                  <lb n="1"/><hi rend="emphasized">ܐܢܢܦܘܪܐ ܕܩܕܝܫܐ ܕܚܣܝܐ ܡܪܝ ܐܝܘܐܢܢܝܣ</hi> 
+                  <lb n="2"/><hi rend="emphasized">ܕܚܪܢ ܘܚܒܘܪܐ ܘܢܨܝܒܝܢ ܕܗܘ ܐܝܬܘܗܝ</hi> 
+                  <lb n="3"/><hi rend="emphasized">ܝܥܩܘܒ ܡܢ ܥܘܡܪܐ ܕܡܪܝ ܚܢܢܝܐ ܕܝܪܐ</hi> 
+                  <lb n="4"/><hi rend="emphasized">ܕܙܥܦܪܐܢ ܫܢܬ ܏ܐܢܠܓ ܝܘܢܝܬܐ</hi> ܩܕܡܝܬ
+               </seg>
+            </ab>
+            <ab type="page" n="28r">
+               <seg type="liturgical-section" n="Prayer before Peace" xml:id="diyr-125-1-2">
+                  <pb n="28r"/>
+                  <lb n="1"/><hi rend="emphasized">ܨܠܘܬܐ ܕܩܕܡ ܕܫܠܡܐ</hi> ܐܠܗܐ ܗ̇ܘ ܪܒܐ ܘܡܬܘܡܝܐ 
+                  <lb n="2"/>ܗ̇ܘ ܕܐܝܬܝܟ ܫܝܢܐ ܘܫܠܡܐ: ܘܚܘܒܐ ܘܡܥܝܢܐ 
+                  <lb n="3"/>ܕܪ̈ܚܡܐ. ܫܝܢ ܡܪܝ ܠܥܕܬܟ. ܘܢܛܪ ܠܥܠܡܐ 
+                  <lb n="4"/>ܒܛܝܒܘܬܟ. ܘܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ 
+                  <lb n="5"/>ܘܠܝܚܕܝܐ ܒܪܐ ܕܝܠܟ: ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫܐ܇ ܗܫܐ
+                  <lb n="6"/><hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ</seg><seg type="liturgical-section" n="The First Benediction" xml:id="diyr-125-1-3"><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ <hi rend="emphasized">܏ܡܫܡ܏</hi> ܢܬܠ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="7"/>ܐܫܘܐ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܓܢ ܡܪܝܐ ܡܪܚܡܢܘܬܟ܆ ܘܦܫܘܛ ܝܡܝܢܟ 
+                  <lb n="8"/>ܡܠܝܬ ܒܘܪ̈ܟܬܐ܆ ܘܒܲܪܟ ܠܥܒ̈ܕܝܟ ܘܣܓܘ̈ܕܝܟ 
+                  <lb n="9"/>ܕܪܟܝܢܝܢ ܗܫܐ ܩܕܡܝܟ. ܘܢܲܣܩ ܠܟ ܫܘܒܚܐ 
+                  <lb n="10"/>ܘܬܘܕܝܬܐ܆ ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ܆ ܘܠܪܘܚܐ 
+                  <lb n="11"/>ܕܝܠܟ ܩܕܝܫܐ ܗܫܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ</seg><seg type="liturgical-section" n="Prayer over the Veil" xml:id="diyr-125-1-4" next="#diyr-125-1-5"><hi rend="emphasized">ܟܗܢܐ</hi> ܚܲܝܠ ܠܢ 
+                  <lb n="12"/>ܐܘ̄ ܡܪܝܐ ܠܘܬ ܗ̇ܝ ܕܢܩܲܪܒ ܠܟ ܕܒܚܐ ܗܢܐ 
+                  <lb n="13"/>ܪܘܚܢܝܐ ܘܕܠܐ ܕܡܐ ܚܠܦ ܚܛܗ̈ܐ ܕܣܟ̈ܠܘܬܐ 
+                  <lb n="14"/>ܕܡܪܥܝܬܟ܆ ܐܝܟܢܐ ܕܬܠܚܐ ܘܬܥܒܪ ܠܠܐ 
+                  <lb n="15"/>ܢܡܘܣ̈ܝܬܐ ܕܝܠܢ܆ ܘܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ
+               </seg>
+            </ab>
+            <ab type="page" n="28v">
+               <seg type="liturgical-section" n="Prayer over the Veil" xml:id="diyr-125-1-5" prev="#diyr-125-1-4">
+                  <pb n="28v"/>
+                  <lb n="1"/>ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫܐ ܗܫܐ
+                  <lb n="2"/><hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">܏ܡܫܡ܏</hi> ܢܩܘܡ <hi rend="emphasized">ܟܗܢܐ</hi> ܚܘܒܐ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="3"/>ܥܡ <hi rend="emphasized">ܟܗܢܐ</hi> ܠܥܠ <hi rend="emphasized">ܥܡܐ</hi> ܐܝܬܝܗܘܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܢܘܕܐ 
+                  <lb n="4"/><hi rend="emphasized">ܥܡܐ</hi> ܫܘܐ ܘܙܕܩ</seg><seg type="liturgical-section" n="Prayer before Sanctus" xml:id="diyr-125-1-6"><hi rend="emphasized">ܟܗܢܐ ܓܗܢܬܐ</hi> ܠܟ ܡܠܟܐ 
+                  <lb n="5"/>ܕܡܠܟ̈ܐ ܐܠܗܐ܆ ܥܡ ܒܪܐ ܘܪܘܚܐ ܩܕܝܫܐ ܙܕܩܐ 
+                  <lb n="6"/>ܘܡܬܬܚܝܒܐ ܟܠܗ ܬܘܕܝܬܐ <hi rend="emphasized">ܘܬܠܐ ܩܠܗ</hi> ܟܠܗܘܢ
+                  <lb n="7"/>ܛܟ̈ܣܐ ܘܬܓܡ̈ܐ ܘܚܝ̈ܠܐ ܫܡܝ̈ܢܐ܇ ܡܠܐܟ̈ܐ ܘܪ̈ܝܫܝ 
+                  <lb n="8"/>ܡܠܐܟ̈ܐ܆ ܟܪ̈ܘܒܐ܆ ܘܣܪ̈ܦܐ܆ ܡܘ̈ܬܒܐ܆ ܘܡܪ̈ܘܬܐ܆ 
+                  <lb n="9"/>ܠܐ ܡܬܚܙܝ̈ܢܐ ܘܠܐ ܡܬܡܢ̈ܝܢܐ܆ ܕܠܐ ܫܲܠܘܐ ܡܩܠܣܝܢ 
+                  <lb n="10"/>ܘܡܗܕܪܝܢ܆ ܟܕ ܒܦܘ̈ܡܐ ܠܐ ܓܫܝ̈ܡܐ ܘܒܒܢ̈ܬ 
+                  <lb n="11"/>ܩ̈ܠܐ ܕܠܐ ܡܬܡ̈ܠܠܢ܆ ܬܫܒܘܚܬܐ ܕܙܟܘܬܐ ܡܫܒܚܝܢ 
+                  <lb n="12"/>ܘܡܙܥܩܝܢ ܘܩܥܝܢ ܘܐܡܪܝܢ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܝܫ ܩܕܝܫ ܩܕܝܫ</seg>
+                  <seg type="liturgical-section" n="Prayer after Sanctus" xml:id="diyr-125-1-7">
+                  <lb n="13"/><hi rend="emphasized">ܟܗܢܐ ܓܗܢܬܐ܆</hi> ܫܪܝܪܐܝܬ ܩܕܝܫܐ ܐܝܬܝܟ ܐܠܗܐ 
+                  <lb n="14"/>ܐܒܐ ܘܪܘܚܐ ܩܕܝܫܐ ܕܝܠܟ ܕܡܬܩܕܫ ܐܡܝܢܐܝܬ 
+                  <lb n="15"/>ܥܡ ܒܪܟ ܩܕܝܫܐ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ</seg><seg type="liturgical-section" n="Words of Institution" xml:id="diyr-125-1-8" next="#diyr-125-1-9"><hi rend="emphasized">ܘܬܠܐ</hi> 
+               </seg>
+            </ab>
+            <ab type="page" n="29r">
+               <seg type="liturgical-section" n="Words of Institution" xml:id="diyr-125-1-9" prev="#diyr-125-1-8">
+                  <pb n="29r"/>
+                  <lb n="1"/><hi rend="emphasized">ܩܠܗ</hi> ܗ̇ܘ ܕܟܕ ܡܛܠܬܢ ܒܚܘܒܗ ܐܬܒܣܪ 
+                  <lb n="2"/>ܘܡܛܠ ܦܘܪܩܢܢ ܐܣܬܪܩ ܨܒܝܢܐܝܬ܆ ܘܚܲܫ 
+                  <lb n="3"/>ܒܒܣܪ܆ ܒܠܠܝܐ ܗ̇ܘ ܕܚܫ̈ܐ ܢܣ̣ܒ ܠܚܡܐ ܥܠ 
+                  <lb n="4"/>ܐܝ̈ܕܘܗܝ ܩܕܝ̈ܫܬܐ܆ ܘܒ݊ܪ݊ܟ ܘܩܕ݊ܫ ܘܩܨ݉ܐ 
+                  <lb n="5"/>ܘܝܗ̰ܒ ܠܬܠܡ̈ܝܕܘܗܝ ܘܐܡ̣ܪ: ܣܒܘ ܐܟܘܠܘ 
+                  <lb n="6"/>ܗܢܘ ܦܓܪܐ ܕܝܠܝ܆ ܕܡܬܝܗܒ ܠܫܘܒܩܢܐ 
+                  <lb n="7"/>ܕܚ̈ܛܗܐ ܘܠܚܝ̈ܐ ܕܠܥܠܡ ܥܠܡܝܢ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ
+                  <lb n="8"/><hi rend="emphasized">ܟܗܢܐ</hi> ܗܟܘܬ ܕܝܢ ܘܟܣܐ ܢܣ̰ܒ: ܘܒ݊ܪ݊ܟ  
+                  <lb n="9"/>ܘܩܕ݊ܫ܆ ܘܝܗܒ ܠܬܠܡ̈ܝܕܘܗܝ ܘܐܡ̰ܪ: ܣܒܘ 
+                  <lb n="10"/>ܐܫܬܘ ܡܢܗ ܟܠܟܘܢ ܠܚܘܣܝܐ ܕܚܘ̈ܒܐ ܘܠܫܘܒܩܢܐ 
+                  <lb n="11"/>ܕܚܛܗ̈ܐ ܘܠܚ̈ܝܐ ܕܠܥܠܡ ܥܠܡܝܢ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ
+                  <lb n="12"/><hi rend="emphasized">ܟܗܢܐ</hi> ܘܩܕܡ ܦܩܕ ܟܕ ܐܡܪ: ܕܟܠ ܐܡܬܝ 
+                  <lb n="13"/>ܕܒܪܐܙܐ ܗܢܐ ܩܕܝܫܐ ܬܬܒܣܡܘܢ ܠܡܘܬܐ 
+                  <lb n="14"/>ܘܩܝܡܬܐ ܕܝܠܝ ܗܘܝܬܘܢ ܡܬܥܗܕܝܢ ܥܕܡܐ 
+                  <lb n="15"/>ܠܡܐܬܝܬܐ ܕܝܠܝ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܬܟ</seg><seg type="liturgical-section" n="Anamnesis" xml:id="diyr-125-1-10" next="#diyr-125-1-11"><hi rend="emphasized">ܟܗܢܐ</hi> 
+               </seg>
+            </ab>
+            <ab type="page" n="29v">
+               <seg type="liturgical-section" n="Anamnesis" xml:id="diyr-125-1-11" prev="#diyr-125-1-10">
+                  <pb n="29v"/>
+                  <lb n="1"/>ܚܢܢ ܡܪܝ ܥܒ̈ܕܐ ܕܝܠܟ ܚܛܝ̈ܐ ܘܡܣ̈ܟܠܢܐ ܡܬܥܗܕܝܢܢ 
+                  <lb n="2"/>ܠܟܠܗ̇ ܡܕܒܪܢܘܬܐ ܦܪܘܩܝܬܐ܆ ܘܠܡܐܬܝܬܟ 
+                  <lb n="3"/>ܕܬܪ̈ܬܝܢ ܕܚܝܠܬܐ ܘܡܫܒܚܬܐ ܕܡܢܗ̇ ܟܕ ܙܝܥܝܢܢ 
+                  <lb n="4"/>ܘܪ̈ܥܠܝܢܢ܆ ܒܥܘܬܐ ܘܬܟܫܦܬܐ ܠܟ ܡܩܪܒܝܢܢ 
+                  <lb n="5"/>ܘܒܐܝ̈ܕܝܟ ܘܠܐܒܘܟ ܡܦܝܣܝܢܢ ܟܕ ܐܡܪܝܢܢ 
+                  <lb n="6"/><hi rend="emphasized">ܥܡܐ</hi> ܪܚܡܥܠܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܐܦܚܢܢ <hi rend="emphasized">܏ܡܫܡ܏</hi> ܡܐ ܕܚܝܠܐ 
+                  <lb n="7"/><hi rend="emphasized">ܟܗܢܐ ܩܪܝܬܐ ܕܪܘܚܐ ܩܕܝܫܐ</hi></seg><seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="diyr-125-1-12" next="#diyr-125-1-13">ܪܘܚܐ ܩܕܝܫܐ ܫܕܪ 
+                  <lb n="8"/>ܡܪܝܐ ܡ̣ܢ ܡܥܡܪܟ ܩܕܝܫܐ܆ ܘܢܐܓܢ ܘܢܫܪܐ ܥܠ 
+                  <lb n="9"/>ܠܚܡܐ ܗܢܐ ܘܡܙܵܓܐ ܗܢܐ ܕܣܝܡ܆ ܘܢܩܕܫ ܐܢܘܢ܆ 
+                  <lb n="10"/>ܘܠܝ ܕܟܝܐ ܘܡܨܠܠܐ ܢܥܒܕ <hi rend="emphasized">ܟܗܢܐ</hi> ܥܢܝܢܝ 
+                  <lb n="11"/><hi rend="emphasized">ܥܡܐ܇</hi> ܏ܩܘܪ܏. ܏ܩܘܪ܏. ܏ܩܘܪ܏ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܠܠܚܡܐ ܗܢܐ 
+                  <lb n="12"/>ܢܚܘܐ ܦ݊ܓ݊ܪ݊ܐ ܕܡܫܝܚܐ ܐܠܗܐ ܕܝܠܢ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="13"/>ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܘܠܡܙܓܐ ܕܒܟܣܐ ܗܢܐ ܢܫܡܠܐ 
+                  <lb n="14"/>ܕ݊ܡ݊ـ݊ܐ ܕܝܠܗ ܕܡܫܝܚܐ ܐܠܗܐ ܕܝܠܢ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="15"/>ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܟܢܐ ܕܟܠ ܕܡܫܬܘܬܦ ܡܢܗܘܢ 
+               </seg>
+            </ab>
+            <ab type="page" n="30r">
+               <seg type="liturgical-section" n="Invocation of the Holy Spirit" xml:id="diyr-125-1-13" prev="#diyr-125-1-12">
+                  <pb n="30r"/>
+                  <lb n="1"/>ܝܪܬܐ ܒܡܠܟܘܬܐ ܕܫܡܝܐ ܢܗܘܐ܆ ܒܚܝ̈ܐ ܚ̈ܕܬܐ 
+                  <lb n="2"/>ܥܡ ܩܕܝ̈ܫܐ ܢܬܒܣܡ܆ ܘܢܣܩ ܠܟ ܫܘܒܚܐ 
+                  <lb n="3"/>ܘܬܘܕܝܬܐ܆ ܘܠܝܚܕܝܐ ܒܪܐ ܕܝܠܟ܆ ܘܠܪܘܚܐ
+                  <lb n="4"/>ܕܝܠܟ ܩܕܝܫܐ܆ ܗܫܐ</seg><seg type="liturgical-section" n="Intercession Prayers" xml:id="diyr-125-1-14" next="#diyr-125-1-15"><hi rend="emphasized">ܓܗܢܬܐ</hi> ܠܪ̈ܥܘܬܐ 
+                  <lb n="5"/>ܘܡܕܒܪ̈ܢܐ ܕܥܕܬܐ ܘܩܝܡܐ ܟܠܗ ܟܗܢܝܐ ܐܬܕܟܪ 
+                  <lb n="6"/>ܡܪܝܐ. <hi rend="emphasized">ܬܠܝܬܐ܆</hi> ܐܢܗܪ ܡܪܝܐ ܒܪ̈ܚܡܝܟ ܒܢܘܗܪܐ 
+                  <lb n="7"/>ܕܝܘܠ̈ܦܢܝܟ ܐܠܗ̈ܝܐ. ܘܙܒ̈ܢܐ ܛܒ̈ܐ ܘܚܝ̈ܐ ܒܗܝ̈ܠܐ 
+                  <lb n="8"/>ܘܡܫܪ̈ܬܚܝ ܒܫܠܡܐ ܫܟܢ ܠܢ. ܘܢܣܩ ܠܟ ܫܘܒܚܐ
+                  <lb n="9"/>ܘܬܘܕܝܬܐ܆ ܘܠܝܚܝܕܝܐ <hi rend="emphasized">ܓܗܢܬܐ</hi> ܠܥܡܟ ܡܗܝܡܢܐ 
+                  <lb n="10"/>ܘܬܪܝܨ ܫܘܒܚܐ܆ ܕܗܪܟܐ ܘܕܒܟܠ ܕܘܟ ܐܬܕܟܪ 
+                  <lb n="11"/><hi rend="emphasized">ܬܠܝܬܐ</hi> ܠܡܛܪ̈ܦܐ ܘܪ̈ܕܝܦܐ ܘܠܐܠܝ̈ܨܐ ܘܡܥܩ̈ܐ 
+                  <lb n="12"/>ܠܡܣ̈ܟܢܐ܆ ܘܣ̈ܢܝܩܐ܆ ܠܐܟ̈ܣܢܝܐ ܘܒܝ̈ܫܐ܆ ܠܐܣܝܪ̈ܐ܆ 
+                  <lb n="13"/>ܘܡܫܘ̈ܚܕܐ܆ ܠܝ̈ܬܡܐ ܘܠܐܪ̈ܡܠܬܐ܆ ܦܲܪܢܣ ܘܕܰܒܰܪ 
+                  <lb n="14"/>ܒܪ̈ܚܡܝܟ ܡܪܝܐ: ܘܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ.
+                  <lb n="15"/><hi rend="emphasized">ܓܗܢܬܐ</hi> ܠܡܠ̈ܟܐ ܡܗܝܡ̈ܢܐ ܘܐܚܝ̈ܕܐ܆ ܥܒ̈ܕܝ 
+               </seg>
+            </ab>
+            <ab type="page" n="30v">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="diyr-125-1-15" prev="#diyr-125-1-14" next="#diyr-125-1-16">
+                  <pb n="30v"/>
+                  <lb n="1"/>ܨܒܝܢܟ ܐܬܕܟܪ ܡܪܝܐ <hi rend="emphasized">ܬܠܝܬܐ</hi> ܘܠܢ ܗܒ ܘܫܟܢ 
+                  <lb n="2"/>ܒܛܝܒܘܬܟ ܡܪܝܐ. ܕܚܝ̈ܐ ܢܝ̈ܚܐ ܘܒܣܝ̈ܡܐ ܢܚܸܐ 
+                  <lb n="3"/>ܩܕܡܝܟ. ܘܒܪ̈ܚܡܐ ܢܬܚܙܐ ܒܥܝ̈ܢܐ ܕܐܝܠܝܢ 
+                  <lb n="4"/>ܕܡܕܒܪܝܢ ܠܢ ܘܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ:
+                  <lb n="5"/><hi rend="emphasized">ܓܗܢܬܐ</hi> ܠܒܬܘܠܬ ܡ݊ܪ݊ܝ݊ܡ ܝܠܕܬ ܐܠܗܐ 
+                  <lb n="6"/>ܘܠܝܘܚܢܢ ܡܥܡܕܢܐ: ܘܠܟܘܗܘܢ ܡܢܝ̈ܚܢܐ 
+                  <lb n="7"/>ܕܝܠܟ ܐܕܟܪ ܡܪܝܐ <hi rend="emphasized">ܬܠܝܬܐ</hi> ܒܒܥܘܬܐ ܘܒܬܟܫܦܬܐ 
+                  <lb n="8"/>ܕܐܝܠܝܢ ܕܒܕܘܒܪ̈ܐ ܕܟܐܢܘܬܐ ܪܥܝܘܟ܆ ܐܫܘܐ ܠܢ 
+                  <lb n="9"/>ܠܡܢܬܐ ܘܦܣܐ ܕܥܡܗܘܢ ܡܪܝܐ. ܘܢܣܩ ܠܟ 
+                  <lb n="10"/>ܫܘܒܚܐ ܘܬܘܕܝܬܐ <hi rend="emphasized">ܓܗܢܬܐ</hi> ܠܐܒܗ̈ܬܐ ܩܕܝ̈ܫܐ ܘܡܠܦ̈ܢܐ 
+                  <lb n="11"/>ܒܚܝܪ̈ܐ ܘܡܐܪ̈ܙܢܐ ܕܫܪܪܐ ܐܬܕܟܪ ܡܪܝܐ <hi rend="emphasized">ܬܠܝܬܐ</hi> 
+                  <lb n="12"/>ܘܥܠ ܫܘܥܐ ܕܗܝܡܢܘܬܐ ܬܪܝܨܬ ܫܘܒܚܐ 
+                  <lb n="13"/>ܕܬܠܬ ܣܘ̈ܢܢܕܘ ܩܕܝ̈ܫܬܐ ܫܪܪ ܠܟܠܢ ܒܛܝܒܘܬܟ 
+                  <lb n="14"/>ܡܪܝܐ܆ ܕܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ <hi rend="emphasized">ܓܗܢܬܐ</hi> 
+                  <lb n="15"/>ܘܠܐܒ̈ܗܝܢ ܘܐܚܝ̈ܢ ܘܪ̈ܒܢܝܢ ܘܟܠܗܘܢ ܥܢܝ̈ܕܝܢ 
+               </seg>
+            </ab>
+            <ab type="page" n="31r">
+               <seg type="liturgical-section" n="Intercession Prayers" xml:id="diyr-125-1-16" prev="#diyr-125-1-15">
+                  <pb n="31r"/>
+                  <lb n="1"/>ܡܗܝ̈ܡܢܐ܆ ܐܬܕܟܪ ܡܪܝܐ <hi rend="emphasized">ܬܠܝܬܐ</hi> ܘܠܐܡܬܬܚ̈ܕܢܐ 
+                  <lb n="2"/>ܠܚܝ̈ܠܘܬܐ ܕܚܫܘܟܐ ܚܘܐ ܐܢܘܢ. ܘܡܢ ܠܒܘܟܝܐ 
+                  <lb n="3"/>ܕܪ̈ܘܚܐ ܒܝ̈ܫܬܐ ܫܘܙܒ ܐܢܘܢ. ܘܡܢ ܬܫܢܝ̈ܩܐ 
+                  <lb n="4"/>ܘܕܘ̈ܘܢܐ ܦܲܨܐ ܐܢܘܢ. ܘܐܕܢܚ ܥܠܝܢ ܘܥܠܝܗܘܢ 
+                  <lb n="5"/>ܢܘܗܪܐ ܕܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ܆ ܘܒܐܝ̈ܕܘܗܝ ܐܦܚܢܢ 
+                  <lb n="6"/>ܡܣܒܪܝܢܢ ܪ̈ܚܡܐ ܠܡܫܟܚܘ܆ ܘܫܘܒܩܢܐ 
+                  <lb n="7"/>ܕܚ̈ܛܗܐ ܕܡܛܠܬܗ ܐܦܠܢ ܘܠܗܘܢ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="8"/>ܐܢܝܚ</seg><seg type="liturgical-section" n="Concluding Intercessions" xml:id="diyr-125-1-17"><hi rend="emphasized">ܟܗܢܐ</hi> ܫܡܥ ܠܢ ܐܘ̄ ܡܪܝܐ ܡܛܠ 
+                  <lb n="9"/>ܣܘܓܐܐ ܕܪ̈ܚܡܝܟ܆ ܘܦܪܘܩ ܠܢ ܘܠܗܘܢ ܡ̰ܢ 
+                  <lb n="10"/>ܕܝܢܐ ܕܥܬܝܕ܆ ܘܡ̰ܢ ܫܘ̈ܢܩܐ ܕܢܛܝܪܝܢ ܠܪ̈ܫܝܥܐ. 
+                  <lb n="11"/>ܐܝܟܢܐ ܕܐܦ ܒܗܕܐ ܐܟܡܐ ܕܒܟܠܗܝܢ ܢܫܬܒܚ 
+                  <lb n="12"/>ܘܢܬܩܠܣ ܫܡܟ ܡܝܩܪ ܒܟܠ ܘܡܒܪܟܐ܆ ܥܡ 
+                  <lb n="13"/>ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܘܪܘܚܟ ܩܕܝܫܐ <hi rend="emphasized">ܥܡܐ</hi> 
+                  <lb n="14"/>ܐܝܟܢܐ</seg><seg type="liturgical-section" n="The Second Benediction" xml:id="diyr-125-1-18"><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ <hi rend="emphasized">ܟܗܢܐ</hi>
+                  <lb n="15"/>ܢܗܘܘܢ <hi rend="emphasized">܏ܡܫܡ܏</hi> ܩܐܬܘܠܝܩܝ <hi rend="emphasized">ܟܗܢܐ</hi> ܩܨܐ ܘܪܫܡ
+               </seg>
+            </ab>
+            <ab type="page" n="31v">
+               <seg type="liturgical-section" n="Prayer before the Lord's Prayer" xml:id="diyr-125-1-19">
+                  <pb n="31v"/>
+                  <lb n="1"/><hi rend="emphasized">ܟܗܢܐ ܨܠܘܬܐ ܕܐܒܘܢ ܕܒܫܡܝܐ</hi> ܐܠܗܐ ܗ̇ܘ ܪܒܐ 
+                  <lb n="2"/>ܘܚܝܠܬܢܐ: ܗ̇ܘ ܕܒܪܚܡܬ ܐܢܫܘܬܟ ܩܪܰܝܬ 
+                  <lb n="3"/>ܘܩܰܪܒܬܢ ܠܡܘܗܒܬܐ ܗܕܐ ܐܠܗܝܬܐ ܒܐܝܕ̈ܝܗ̇ 
+                  <lb n="4"/>ܠܟ ܐܒܐ ܡܫܒܚܝܢܢ܆ ܘܠܪܘܚܐ ܩܕܝܫܐ ܣܓܕܝܢܢ܆ 
+                  <lb n="5"/>ܘܠܨܠܘܬܐ ܡܪܢܝܬܐ ܗ̇ܝ ܕܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ 
+                  <lb n="6"/>ܡܙܡܪܝܢܢ܆ ܟܕ ܒܨܘܠܠܐ ܕܗܰܘܢܐ ܘܒܡܪܝܩܘܬܐ 
+                  <lb n="7"/>ܕܪܥܝܢܐ܆ ܘܒܦܫܝܛܘܬܐ ܕܠܫܢܐ܆ ܘܒܕܟܝܘܬܐ 
+                  <lb n="8"/>ܕܦܓܪܐ ܘܒܢܦܫܐ ܕܩܰܢܝܐ ܦܰܪܗܣܝܐ܆ ܢܡܪܚ 
+                  <lb n="9"/>ܠܡܩܪܐ ܠܟ ܐܠܗܐ ܫܡܝܢܐ ܐܒܐ ܐܚܝܕ ܟܠ 
+                  <lb n="10"/>ܘܩܕܝܫܐ. ܘܢܨܠܐ ܘܢܐܡܪ܆ ܐܒܘܢ ܕܒܫܡܝܐ 
+                  <lb n="11"/><hi rend="emphasized">ܥܡܐ܆</hi> ܢܬܩܕܫ</seg><seg type="liturgical-section" n="Prayer after the Lord's Prayer" xml:id="diyr-125-1-20" next="#diyr-125-1-21"><hi rend="emphasized">ܟܗܢܐ</hi> ܐܝܢ ܐܒܐ ܛܒܐ 
+                  <lb n="12"/>ܘܡܪܚܡܢܐ܆ ܗ̇ܘ ܕܐܫܘܝܬܢ ܕܒ̈ܢܝܐ ܕܝܠܟ ܢܬܩܪܐ 
+                  <lb n="13"/>ܦܨܐ ܠܢ ܡܢ ܢܣ̈ܝܘܢܐ ܥܣ̈ܩܐ ܘܫܘܙܒܝܢ ܡ̣ܢ 
+                  <lb n="14"/>ܒܝܫܐ ܘܟܠܗ ܚܝܠܗ܆ ܘܡܢ ܡܐܟܝܢܘܬܐ ܕܐܢܫ̈ܐ 
+                  <lb n="15"/>ܒܝ̈ܫܐ. ܘܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ ܘܠܝܚܝܕܝܐ
+               </seg>
+            </ab>
+            <ab type="page" n="32r">
+               <seg type="liturgical-section" n="Prayer after the Lord's Prayer" xml:id="diyr-125-1-21" prev="#diyr-125-1-20">
+                  <pb n="32r"/>
+                  <lb n="1"/>ܒܪܐ ܕܝܠܟ ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫܐ܆ ܗܫܐ <hi rend="emphasized">ܥܡܐ</hi>
+                  <lb n="2"/>ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܥܡ (ܪܘܚܐ) <hi rend="emphasized">܏ܡܫܡ܏</hi> ܡܢܩܕܡ</seg>
+                  <seg type="liturgical-section" n="The Third Benediction" xml:id="diyr-125-1-22">
+                  <lb n="3"/><hi rend="emphasized">ܟܗܢܐ</hi> ܡܠܟܐ ܪܒܐ ܘܐܚܝܕ ܟܠ ܗ̇ܘ ܕܬܚܝܬ 
+                  <lb n="4"/>ܫܒܛܐ ܕܪܝܫܢܘܬܗ ܟܠܗܝܢ ܒܪ̈ܝܬܐ ܡܪ̈ܟܢܢ܆ 
+                  <lb n="5"/>ܫܕܪ ܒܘܪ̈ܟܬܐ ܕܝܠܟ ܥܠ ܥܕܬܐ ܕܝܠܟ ܩܕܝܫܬܐ 
+                  <lb n="6"/>ܕܪܟܝܢܐ ܗܫܐ ܩܕܡܝܟ. ܘܢܣܩ ܠܟ ܫܘܒܚܐ ܘܬܘܕܝܬܐ܆
+                  <lb n="7"/>ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫܐ
+                  <lb n="8"/>ܗܫܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ <hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ <hi rend="emphasized">ܥܡܐ</hi> ܘܠܪܘܚܐ 
+                  <lb n="9"/><hi rend="emphasized">܏ܡܫܡ܏</hi> ܘܥܡ <hi rend="emphasized">ܟܗܢܐ</hi> ܬܗܘܐ <hi rend="emphasized">ܥܡܐ</hi> ܚܕ ܐܒܐ
+                  <lb n="10"/><hi rend="emphasized">ܟܗܢܐ</hi> ܚܕ ܐܒܐ <hi rend="emphasized">ܥܡܐ</hi> ܡܘܕܝܢܢ</seg><seg type="liturgical-section" n="Prayer of Thanksgiving" xml:id="diyr-125-1-23" next="#diyr-125-1-24"><hi rend="emphasized">ܟܗܢܐ ܨܠܘܬܐ ܕܩܘܒܠ</hi>
+                  <lb n="11"/><hi rend="emphasized">ܛܝܒܘܬܐ</hi> ܡܩܒܠܝܢܢ ܛܝܒܘܬܟ ܐܠܗܐ 
+                  <lb n="12"/>ܘܡܘܕܝܢܢ ܠܫܡܟ܆ ܘܐܫܘܝܬܢ ܗܢܘܢ ܕܠܐ ܫܘܝܢ 
+                  <lb n="13"/>ܗܘܝܢ ܠܗܕܐ ܡܘܗܒܬܐ ܐܠܗܝܬܐ܆ ܕܦܓܪܐ 
+                  <lb n="14"/>ܘܕܡܐ ܕܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ. ܘܢܣܩ ܠܟ
+                  <lb n="15"/>ܫܘܒܚܐ ܘܬܘܕܝܬܐ ܘܠܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ
+               </seg>
+            </ab>
+            <ab type="page" n="32v">
+               <seg type="liturgical-section" n="Prayer of Thanksgiving" xml:id="diyr-125-1-24" prev="#diyr-125-1-23">
+                  <pb n="32v"/>
+                  <lb n="1"/>ܘܠܪܘܚܐ ܕܝܠܟ ܩܕܝܫܐ. ܗܫܐ <hi rend="emphasized">ܥܡܐ</hi> ܐܡܝܢ
+                  <lb n="2"/><hi rend="emphasized">ܟܗܢܐ</hi> ܫܠܡܐ <hi rend="emphasized">܏ܡܫܡ܏</hi> ܡܢܒܬܪ <hi rend="emphasized">ܥܡܐ</hi> ܩܕܡܝܟ</seg>
+                  <seg type="liturgical-section" n="Concluding Prayer" xml:id="diyr-125-1-25">
+                  <lb n="3"/><hi rend="emphasized">ܟܗܢܐ</hi> ܝܫܘܥ ܡܫܝܚܐ ܐܠܗܐ ܕܝܠܢ ܕܒܨܒܝܢܟ 
+                  <lb n="4"/>ܘܕܐܒܘܟ ܘܕܪܘܚܟ ܩܕܝܫܐ ܚܠܦܝܢ ܐܬܕܒܚܬ܆
+                  <lb n="5"/>ܘܦܓܪܟ ܚܝܐ ܐܘܟܠܬܢ ܘܕܡܟ ܡܚܣܝܢܐ 
+                  <lb n="6"/>ܐܫܩܝܬܢ܆ ܫܪܪܝܢ ܒܚܘܒܟ ܘܡܠܝ ܠܢ ܕܚܠܬܟ. 
+                  <lb n="7"/>ܣܲܬܬ ܒܢ ܗܝܡܢܘܬܟ܆ ܨܒܬ ܠܢ ܒܕܘܒܪ̈ܐ 
+                  <lb n="8"/>ܕܠܐ ܥܕܠܝ܆ ܘܫܒܘܩ ܚ̈ܘܒܝܢ ܘܕܥܢܝ̈ܕܝܢ. 
+                  <lb n="9"/>ܐܝܟܢܐ ܕܐܡܝܢܐܝܬ ܘܒܟܠܙܒܢ ܢܫܒܚܟ܆ 
+                  <lb n="10"/>ܘܠܐܠܗܐ ܐܒܐ ܝܠܘܕܟ܆ ܘܠܪܘܚܟ ܩܕܝܫܐ.
+                  <lb n="11"/>ܗܫܐ ܘܒܟܠܙܒܢ ܠܥܠܡܝܢ <hi rend="emphasized">܏ܡܫܡ܏</hi> ܒܪܟܡܪܝ
+                  <lb n="12"/><hi rend="emphasized">ܟܗܢܐ</hi> ܒܪܟ ܠܟܠܢ</seg><seg type="liturgical-section" n="Final Sentence" xml:id="diyr-125-1-26"><hi rend="emphasized">ܫܠܡܬ ܐܢܢܐܦܘܪܐ</hi> 
+                  <lb n="13"/><hi rend="emphasized">ܕܩܕܝܫܐ ܘܚܣܝܐ ܡܪܝ ܐܝܘܐܢܢܝܣ</hi> 
+                  <lb n="14"/><hi rend="emphasized">ܨܠܘܬܗ ܥܡܢ</hi> 
+                  <lb n="15"/>ܒܚܘܒܗ ܕܡܪܢ ܨܰܠܰܘ ܥܠ ܚܛܝܐ ܕܟܬܒ
+               </seg>
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>
