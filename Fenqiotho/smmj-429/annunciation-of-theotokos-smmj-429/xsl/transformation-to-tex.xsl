@@ -21,7 +21,6 @@
         \pagestyle{fancy}
         \chead{\myfont\textit{Annunciation of Theotokos}}
         \renewcommand\footrulewidth{0.4pt}
-        \fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
         \fancyfoot[C]{\myfont\thepage}
         \setmainlanguage{english}
         \setotherlanguages{syriac}
@@ -43,8 +42,11 @@
     <xsl:template match="tei:titleStmt">
         <xsl:text>\pdfbookmark[0]{Title}{title}</xsl:text>
         <xsl:text>\Large\textbf{</xsl:text>
-            <xsl:value-of select="./tei:title/text()"/>
-        <xsl:text>}\normalsize\par\vspace{10mm}</xsl:text>
+            <xsl:value-of select="./tei:title[not(exists(@type))]/text()"/>
+        <xsl:text>}\normalsize\par\vspace{5mm}</xsl:text>
+        <xsl:text>\textit{</xsl:text>
+        <xsl:value-of select="./tei:title[@type = 'sub']/text()"/>
+        <xsl:text>}\par\vspace{10mm}</xsl:text>
         <xsl:value-of select="./tei:respStmt/tei:resp/text()"/>
         <xsl:text>\par\vspace{5mm}\large </xsl:text>
             <xsl:value-of select="./tei:respStmt/tei:name/text()"/>
@@ -138,16 +140,16 @@
     
     <xsl:template match="tei:cb">
         <xsl:if test="local-name(preceding-sibling::*[1]) = 'pb'">
-            <xsl:text>\LR{\textit{\textbf{(</xsl:text>
+            <xsl:text>\LR{\textit{\textbf{\hbox{(</xsl:text>
             <xsl:value-of select="preceding-sibling::tei:pb[1]/@n"/>
             <xsl:text> col. </xsl:text>
             <xsl:value-of select="@n"/>
-            <xsl:text>)}}}\nolinebreak\hspace{2mm} </xsl:text>
+            <xsl:text>)}}}}\nolinebreak\hspace{2mm} </xsl:text>
         </xsl:if>
         <xsl:if test="local-name(preceding-sibling::*[1]) != 'pb'">
-            <xsl:text>\LR{\textit{\textbf{(</xsl:text>
+            <xsl:text>\LR{\textit{\textbf{\hbox{(</xsl:text>
                 <xsl:value-of select="concat('col. ',@n)"/>
-            <xsl:text>)}}}\nolinebreak\hspace{2mm} </xsl:text>
+            <xsl:text>)}}}}\nolinebreak\hspace{2mm} </xsl:text>
         </xsl:if>
     </xsl:template>
     

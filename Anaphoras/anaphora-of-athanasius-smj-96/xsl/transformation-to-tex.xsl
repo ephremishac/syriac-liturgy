@@ -12,8 +12,9 @@
         %\usepackage{fontspec,xltxtra}
         \usepackage{paralist}
         \usepackage{xecolor}
+        \usepackage{url}
         \usepackage{hyperref}
-        \hypersetup{pdftex,colorlinks=true}
+        \hypersetup{pdftex,colorlinks=false}
         \usepackage{hypcap}
         \usepackage{morefloats}
         \setmainlanguage{english}
@@ -28,6 +29,7 @@
         <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:publicationStmt"/>
         <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
         <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'transcription']"/>
+        <xsl:apply-templates select="tei:text/tei:body/tei:div[@type = 'bibliography']"/>
         <xsl:text>\end{document}</xsl:text>
     </xsl:template>
     
@@ -136,21 +138,26 @@
     </xsl:template>
     
     <xsl:template match="text()">
-        <xsl:if test="parent::tei:hi">
-            <xsl:text>\begin{syriac}\textxecolor{red}{</xsl:text>
+        <xsl:choose>
+            <xsl:when test="parent::tei:hi">
+                <xsl:text>\begin{syriac}\textxecolor{red}{</xsl:text>
+                    <xsl:value-of select="."/>
+                <xsl:text>}\end{syriac} </xsl:text>
+            </xsl:when>
+            <xsl:when test="not(parent::tei:hi) and not(ancestor::tei:seg[@type = 'heading']) and not(normalize-space(.) = '')">
+                <xsl:text>\begin{syriac}\textxecolor{black}{</xsl:text>
+                    <xsl:value-of select="."/>
+                <xsl:text>}\end{syriac} </xsl:text>
+            </xsl:when>
+            <xsl:when test="ancestor::tei:seg[@type = 'heading'] and not(parent::tei:hi)">
+                <xsl:text>\begin{syriac}\textxecolor{black}{</xsl:text>
+                    <xsl:value-of select="."/>
+                <xsl:text>}\end{syriac}</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
                 <xsl:value-of select="."/>
-            <xsl:text>}\end{syriac} </xsl:text>
-        </xsl:if>
-        <xsl:if test="not(parent::tei:hi) and not(ancestor::tei:seg[@type = 'heading'])">
-            <xsl:text>\begin{syriac}\textxecolor{black}{</xsl:text>
-                <xsl:value-of select="."/>
-            <xsl:text>}\end{syriac} </xsl:text>
-        </xsl:if>
-        <xsl:if test="ancestor::tei:seg[@type = 'heading'] and not(parent::tei:hi)">
-            <xsl:text>\begin{syriac}\textxecolor{black}{</xsl:text>
-                <xsl:value-of select="."/>
-            <xsl:text>}\end{syriac}</xsl:text>
-        </xsl:if>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="tei:note[@type = 'addition']">
@@ -159,6 +166,30 @@
                 <xsl:value-of select="text()"/>
             <xsl:text>\end{syriac}</xsl:text>
         <xsl:text>\LR{(in marg.}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:note[@type = 'marginal-note']">
+        <xsl:text>\LR{\footnote{</xsl:text>
+        <xsl:text>\begin{syriac}</xsl:text>
+        <xsl:value-of select="text()"/>
+        <xsl:text>\end{syriac}</xsl:text>
+        <xsl:text> \LR{in marg.}}}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'bibliography']">
+        <xsl:text>\par\vspace{10mm}\selectlanguage{english}\pdfbookmark[0]{Literature}{literature}</xsl:text>
+        <xsl:text>\textbf{Literature}\par\vspace{5mm}</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl">
+        <xsl:text>\textsc{</xsl:text>
+        <xsl:value-of select="tei:name"/>
+        <xsl:text>}, </xsl:text>
+        <xsl:value-of select="tei:title"/>
+        <xsl:text> (\url{</xsl:text>
+        <xsl:value-of select="@facs"/>
+        <xsl:text>})\par</xsl:text>
     </xsl:template>
     
 </xsl:stylesheet>
