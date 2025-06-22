@@ -73,6 +73,8 @@
                                         </li>
                                         <li class="nav-item"><a title="Dictionary" href="./dictionary.html" class="nav-link">Dictionary</a></li>
                                         <li class="nav-item"><a title="Search" href="./search.html" class="nav-link">Search</a></li>
+                                        <li class="nav-item"><a title="Research Output" href="./research-output.html" class="nav-link">Research Output</a></li>
+                                        <li class="nav-item"><a title="New Findings" href="./new-findings.html" class="nav-link">New Findings</a></li>
                                         <li class="nav-item"><a title="About" href="./about.html" class="nav-link">About</a></li>
                                     </ul>
                                 </div>
@@ -105,7 +107,7 @@
                                             <article class="col-md-4"></article>
                                             <article class="card col-md-4 flat-style">
                                                 <div class="card-inner card-vertical" style="height:230px;">
-                                                    <a class="entry-top-thumbnail" style="height:230px;" href="https://syriac-anaphoras.org" rel="bookmark">
+                                                    <a class="entry-top-thumbnail" style="height:230px;" href="./anaphoras.html" rel="bookmark">
                                                         <img width="1024" height="684" src="./fundament/images/button-anaphora.jpg" alt="anaphora"/>
                                                     </a>
                                                     <!-- .entry-text-content -->
@@ -199,6 +201,7 @@
                                             </div><!-- .entry-content -->
                                             <div class="entry-content">
                                                 <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[@type = 'transcription']"/>
+                                                <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[@type = 'bibliography']"/>
                                             </div>
                                         </article>
                                     </main><!-- #main -->
@@ -292,10 +295,45 @@
         </xsl:element>
     </xsl:template>
     
+    <xsl:template match="tei:hi[@rend = 'rubric']">
+        <xsl:element name="span">
+            <xsl:attribute name="style" select="'color: red'"/>
+            <xsl:text> </xsl:text>
+            <xsl:apply-templates select="child::node()"/>
+            <xsl:text> </xsl:text>
+        </xsl:element>
+    </xsl:template>
+    
     <xsl:template match="tei:note[@type = 'textcritical-note']">
         <xsl:text> [</xsl:text>
         <xsl:apply-templates select="child::node()"/>
         <xsl:text>]</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:note[@type = 'marginal-note']">
+        <xsl:element name="span">
+            <xsl:attribute name="dir" select="'LTR'"/>
+            <xsl:text> [in margin: </xsl:text>
+            <xsl:apply-templates select="child::node()"/>
+            <xsl:text>] </xsl:text>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type = 'bibliography']">
+        <xsl:element name="div">
+            <xsl:element name="p">
+                <xsl:element name="a">
+                    <xsl:attribute name="href" select="child::tei:bibl/@facs"/>
+                    <xsl:attribute name="target" select="'_blank'"/>
+                    <xsl:element name="span">
+                        <xsl:attribute name="style" select="'font-variant: small-caps;'"/>
+                        <xsl:value-of select="child::tei:bibl/tei:name/text()"/>
+                    </xsl:element>
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="child::tei:bibl/tei:title/text()"/>
+                </xsl:element>
+            </xsl:element>
+        </xsl:element>
     </xsl:template>
     
     <xsl:template match="tei:foreign[@xml:lang = 'la']">

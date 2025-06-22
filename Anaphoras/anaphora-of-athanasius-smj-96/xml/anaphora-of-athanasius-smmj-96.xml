@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Anaphora of Athanasius of Alexandria - SMMJ 00096 - Edition</title>
-            <title type="sub">Version 1.1 (2025-02-21)</title>
+            <title type="sub">Version 1.1 (2025-02-28)</title>
             <respStmt>
                <resp>edited by</resp>
                <persName>Ephrem Aboud Ishac</persName>
@@ -20,7 +20,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Available under the Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
-            <date>2025-02-21</date>
+            <date>2025-02-28</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,7 +74,7 @@
                   <lb n="1" xml:lang="syc"/>ܡܠܝܠܬܐ ܘܕܠܐ ܓܫܡ. ܟܕ ܗܘ
                   <lb n="2" xml:lang="syc"/>ܫܪܪܐ ܕܐܪ̈ܙܐ ܠܗܝ ܕܓܠܝܐ
                   <lb n="3" xml:lang="syc"/>ܩܕܡ ܐܬܐ. ܕܒܐܝܕ̈ܘܗܝ ܒܦܪܨܘܦܐ
-                  <lb n="4" xml:lang="syc"/>ܓܠܝܐ ܠܬܫܒܘܚܬܐ ܕܝܠܟ. ܐܟ
+                  <lb n="4" xml:lang="syc"/>ܓܠܝܐ ܠܬܫܒܘܚܬܐ ܕܝܠܟ. ܐܝܟ
                   <lb n="5" xml:lang="syc"/>ܕܒܡܚܙܝܬܐ ܚ̇ܙܝܢܢ. ܗ̇ܘ
                   <lb n="6" xml:lang="syc"/>ܕܚܠܦܝܢ ܐܬܢܟܣ ܒܒܣܪ.
                   <lb n="7" xml:lang="syc"/>ܠܗܕܐ ܗܟܝܠ ܕܒܚܬܐ ܟܕ
@@ -108,7 +108,7 @@
                   <lb n="4" xml:lang="syc"/>ܚܕܐ ܥܡܢ ܐܬܗܦܟܬ: ܘܒܟܝܢܐ
                   <lb n="5" xml:lang="syc"/>ܫܪܝܪܐ ܗܘܝܬ ܒܪܢܫܐ ܡܫܡܠܢܐ:
                   <lb n="6" xml:lang="syc"/>ܟܕ ܐܠܗܐ ܐܝܬܝܟ. ܘܡܪܐ ܕܠܐ
-                  <lb n="7" xml:lang="syc"/>ܫܘܚܠܦܐ. ܐܝܟܢܐ ܕܐܟ
+                  <lb n="7" xml:lang="syc"/>ܫܘܚܠܦܐ. ܐܝܟܢܐ ܕܐܝܟ
                   <lb n="8" xml:lang="syc"/>ܫܦܝܥܘܬ ܪ̈ܚܡܝܟ ܬܣܓܐ
                   <lb n="9" xml:lang="syc"/>ܫܠܡܐ ܠܒܢܝ̈ܢܫܐ. ܐܪܝܡ
                   <lb n="10" xml:lang="syc"/>ܘܥܠܐ ܠܠܒܘ̈ܬܢ ܠܘܬ ܗ̇ܝ
@@ -173,7 +173,7 @@
                   <lb n="8" xml:lang="syc"/>ܕܒܪܟ ܣܓܝܕܐ ܘܕܪܘܚܟ ܩܕܝܫ
                   <lb n="9" xml:lang="syc"/>ܒܟܠ <hi rend="rubric">ܡܫܡ</hi> ܢܩܘܡ <hi rend="rubric">ܥܡܐ</hi> ܪ̈ܚܡܐ
                   <lb n="10" xml:lang="syc"/><hi rend="rubric">ܟܗܢܐ</hi> ܚܘܒܐ <hi rend="rubric">ܟܗܢܐ</hi> ܠܥܠ <hi rend="rubric">ܟܗܢܐ</hi> ܢܘܕܐ ܠܡܪܝܐ
-                  <lb n="11" xml:lang="syc"/>ܓܗܢܬܐ ܐܟ ܕܒܫܪܪܐ ܫ̇ܘܐ ܘܙܕܩ.
+                  <lb n="11" xml:lang="syc"/><hi rend="rubric">ܓܗܢܬܐ</hi> ܐܝܟ ܕܒܫܪܪܐ ܫ̇ܘܐ ܘܙܕܩ.
                   <lb n="12" xml:lang="syc"/>ܘܐܦ ܠܟܠܗܘܢ ܡܠܝ̈ܠܐ ܝܬܝܪ
                   <lb n="13" xml:lang="syc"/>ܡܬܬܚܝܒ ܕܠܟ ܢܫܒܚ. ܠܟ
                   <lb n="14" xml:lang="syc"/>ܢܘܕܐ܇ ܐܒܐ ܡܬܘܡܝܐ. ܡܥܝܢܐ
@@ -209,7 +209,7 @@
                   <lb n="13" xml:lang="syc"/>ܕܢܕܝܪ ܥܒܕܬ. ܘܟܕ ܠܣܝܡ
                   <lb n="14" xml:lang="syc"/>ܢܡܘܣܐ ܕܝܠܟ ܠܐ ܡܠܝܠܐܝܬ
                   <lb n="15" xml:lang="syc"/>ܫܛ: ܘܡܢ ܪܘܡܐ ܢܦܠ܆
-                  <lb n="16" xml:lang="syc"/>ܠܐ ܐܗܡܝܬ. ܐܠܐ ܐܟ ܐܒܐ ܛܒܐ:
+                  <lb n="16" xml:lang="syc"/>ܠܐ ܐܗܡܝܬ. ܐܠܐ ܐܝܟ ܐܒܐ ܛܒܐ:
                   <lb n="17" xml:lang="syc"/>ܒܟܠ ܥܘܕܪ̈ܢܐ ܠܗܢܐ
                   <lb n="18" xml:lang="syc"/>ܕܢܗܦܘܟ ܡܕܒܪ ܗܘܝܬ.
                   <lb n="19" xml:lang="syc"/>ܕܚܠܦ ܟܠܗܝܢ ܕܝܕܥܝܢܢ
@@ -257,7 +257,7 @@
             <ab type="column" n="2">
                <seg type="liturgical-section" n="Prayer After the Sanctus" xml:id="smj-2-6-1-14" prev="#smj-2-6-1-13">
                   <cb n="58r column 2"/>
-                  <lb n="1" xml:lang="syc"/>ܗܘ ܠܗ ܚܠܦܝܢ ܢܩܪܒ. ܘܐܟ
+                  <lb n="1" xml:lang="syc"/>ܗܘ ܠܗ ܚܠܦܝܢ ܢܩܪܒ. ܘܐܝܟ
                   <lb n="2" xml:lang="syc"/>ܐܠܗܐ ܢܩܒܠ
                </seg>
                <seg type="liturgical-section" xml:id="smj-2-6-1-15" n="The Words of Institution" next="#smj-2-6-1-16">
@@ -272,7 +272,7 @@
                   <lb n="10" xml:lang="syc"/>ܐܫܬܡܠܝܬ܇ ܗܘ ܓܝܪ ܐܝܬܘܗܝ
                   <lb n="11" xml:lang="syc"/>ܗܘܐ ܣܟܐ ܘܫܘܡܠܝܐ ܕܦܘܩ̈ܕܢܐ
                   <lb n="12" xml:lang="syc"/>ܢܡ̈ܘܣܝܐ. ܟܕ ܫܩ̣ܠ ܠܚܡܐ
-                  <lb n="13" xml:lang="syc"/>ܒܐܝ̈ܕܝܐ ܩܕܝ̈ܫܬܐ ܕܝܠܗ: ܘܐܟ
+                  <lb n="13" xml:lang="syc"/>ܒܐܝ̈ܕܝܐ ܩܕܝ̈ܫܬܐ ܕܝܠܗ: ܘܐܝܟ
                   <lb n="14" xml:lang="syc"/>ܪܝܫܝܟܗ̈ܢܐ ܘܫܠܝܚܐ ܕܬܘܕܝܬܐ
                   <lb n="15" xml:lang="syc"/>ܕܝܠܢ: ܟܕ ܚܠܦܝܢ ܩܒܠ ܛܝܒܘܬܐ
                   <lb n="16" xml:lang="syc"/> ܍ ܡܒܪܟ ܍ ܡܩܕܫ ܍ ܩܨܐ
@@ -281,7 +281,7 @@
                   <lb n="19" xml:lang="syc"/>ܐܟܘܠܘ ܡܢܗ ܟܠܟܘܢ. ܗܢܐ ܕܝܠܝ
                   <lb n="20" xml:lang="syc"/>ܐܝܬܘܗܝ ܦܓܪܐ. ܗ̇ܘ ܕܚܠܦܝܟܘܢ.
                   <lb n="21" xml:lang="syc"/>ܡܬܩܨܐ. ܡܬܝܗܒ ܠܫܘܒܩܢܐ<note type="marginal-note">ܕܚܛܗܐ</note>
-                  <lb n="22" xml:lang="syc"/>ܘܠܚ̈ܝܐ ܕܐܟ ܗܟܢܐ ܘܠܟܣܐ.
+                  <lb n="22" xml:lang="syc"/>ܘܠܚ̈ܝܐ ܕܐܝܟ ܗܟܢܐ ܘܠܟܣܐ.
                   <lb n="23" xml:lang="syc"/>ܟܕ ܡܢ ܚܡܪܐ ܘܡܝ̈ܐ ܡܙܓ܆  
                   <lb n="24" xml:lang="syc"/>܍ ܡܒܪܟ ܍ ܡܩܕܫ ܍ ܡܦܠܓ
                   <lb n="25" xml:lang="syc"/>ܗܘܐ ܠܬܠ̈ܡܝܕܐ ܕܝܠܗ ܘܫܠ̈ܝܚܐ
@@ -295,7 +295,7 @@
                   <lb n="1" xml:lang="syc"/>ܡܢܗ ܟܠܟܘܢ. ܗܢܐ ܕܝܠܝ
                   <lb n="2" xml:lang="syc"/>ܐܝܬܘܗܝ. ܕܡܐ ܕܕܝܐܬܝܩܝ
                   <lb n="3" xml:lang="syc"/>ܚܕܬܐ܇ ܗ̇ܘ ܕܚܠܦܝܟܘܢ
-                  <lb n="4" xml:lang="syc"/>ܘܣܓ̈ܝܐ. ܡܬܐܫܕ ܘܡܬܦܠܓ.
+                  <lb n="4" xml:lang="syc"/>ܘܣܓ̈ܝܐܐ. ܡܬܐܫܕ ܘܡܬܦܠܓ.
                   <lb n="5" xml:lang="syc"/>ܠܫܘܒܩܢܐ ܕܚ̈ܛܗܐ ܘܠܚ̈ܝܐ
                   <lb n="6" xml:lang="syc"/><hi rend="rubric">ܟܗܢܐ</hi> ܗܕܐ ܡ̇ܢ ܠܥܘܗܕܢܝ
                   <lb n="7" xml:lang="syc"/>ܥܒܕܘ. ܟܠ ܐܡܬܝ ܕܡܢ
@@ -330,12 +330,12 @@
                   <lb n="3" xml:lang="syc"/>ܕܠܫܡܝܐ. ܘܠܡܬܝܬܟ ܬܘܒ
                   <lb n="4" xml:lang="syc"/>ܕܬܪ̈ܬܝܢ. ܕܚܝܠܬܐ ܘܡܫܒܚܬܐ.
                   <lb n="5" xml:lang="syc"/>ܐܡܬܝ ܕܕܐܢ ܐܢܬ ܠܚܝ̈ܐ ܘܠܡܝ̈ܬܐ
-                  <lb n="6" xml:lang="syc"/>ܘܠܟܠܢܫ ܐܟ ܥܒܕ̈ܐ ܕܝܠܗ
+                  <lb n="6" xml:lang="syc"/>ܘܠܟܠܢܫ ܐܝܟ ܥܒܕ̈ܐ ܕܝܠܗ
                   <lb n="7" xml:lang="syc"/>ܦ̇ܪܥ ܐܢܬ. ܡܦܝܣܝܢܢ ܠܟ
                   <lb n="8" xml:lang="syc"/>ܪܚܡܢܫܐ. ܠܐ ܬܥܘܠ ܠܕܝܢܐ.
                   <lb n="9" xml:lang="syc"/>ܥܡܢ: ܘܠܐ ܠܥܘܗܕܢܐ ܬܝܬܐ
                   <lb n="10" xml:lang="syc"/>ܠܫܘܪ̈ܥܬܐ ܕܟܝܢܢ ܡܚܝܠܐ:
-                  <lb n="11" xml:lang="syc"/>ܕܒܗܝ̈ܢ ܗ̇ܘ ܒܥܠܕܒܒܐ ܐܟ
+                  <lb n="11" xml:lang="syc"/>ܕܒܗܝ̈ܢ ܗ̇ܘ ܒܥܠܕܒܒܐ ܐܝܟ
                   <lb n="12" xml:lang="syc"/>ܕܒܠܩܛܐ ܐܪܡܝ ܠܢ. ܠܐ
                   <lb n="13" xml:lang="syc"/>ܬܘܒ ܢܗܘܐ ܠܗ ܠܢܟܝܠܐ
                   <lb n="14" xml:lang="syc"/>ܨܝܕܐ܇ ܗ̇ܘ ܕܟܕ  ܣ̇ܥܐ ܨ̇ܠܐ
@@ -363,7 +363,7 @@
                   <lb n="5" xml:lang="syc"/>ܕܫܘܐ ܠܟ ܒܐܘܣܝܐ ܘܠܝܚܝܕܝܐ
                   <lb n="6" xml:lang="syc"/>ܒܪܟ. ܗ̇ܘ ܕܡܦܠܓ ܠܟܠܢܫ
                   <lb n="7" xml:lang="syc"/>ܫܘ̈ܟܢܐ. ܘܡܦܪܫ ܘܝܗܒ
-                  <lb n="8" xml:lang="syc"/>ܠܟܠܚܕ ܐܟ ܕܨܒܐ. ܗ̇ܘ ܕܠܟܠ
+                  <lb n="8" xml:lang="syc"/>ܠܟܠܚܕ ܐܝܟ ܕܨܒܐ. ܗ̇ܘ ܕܠܟܠ
                   <lb n="9" xml:lang="syc"/>ܩܪܝܒ ܘܠܐ ܡܬܬܚܡ ܒܕܡܟ.
                   <lb n="10" xml:lang="syc"/>ܐܚܘܕܐ ܕܚܝ̈ܐ ܕܗܠܝܢ ܕܚܐܝܢ:
                   <lb n="11" xml:lang="syc"/>ܘܡܫܡܠܝܢܐ ܕܩܕܝ̈ܫܐ.
@@ -377,8 +377,8 @@
                   <lb n="19" xml:lang="syc"/>ܘܠܠܚܡܐ ܡܢ ܗܢܐ ܢܥܒܕ:
                   <lb n="20" xml:lang="syc"/> ܍ ܦܓܪܐ ܕܝܚܝܕܝܐ ܒܪܐ ܕܝܠܟ.
                   <lb n="21" xml:lang="syc"/> ܍ ܦܓܪܐ ܡܪܡܢܢܐ ܕܫܘܒܩܢܐ 
-                  <lb n="22" xml:lang="syc"/>ܕܚܛܗ̈ܐ ܍ ܦܓܪܐ ܡܫܟ̇ܢܢܐ
-                  <lb n="23" xml:lang="syc"/>ܕܠܐ ܡܬܚܒ̇ܠܢܘ̣ܬܐ ܕܥܬ̣ܝܕܐ
+                  <lb n="22" xml:lang="syc"/>ܕܚܛܗ̈ܐ ܍ ܦܓܪܐ ܡܫܟܢܢܐ
+                  <lb n="23" xml:lang="syc"/>ܕܠܐ ܡܬܚܒܠܢܘܬܐ ܕܥܬܝܕܐ
                   <lb n="24" xml:lang="syc"/>ܠܥܠܡ ܥܠܡܝܢ ܍ ܀
                </seg>
             </ab>
@@ -392,7 +392,7 @@
                   <lb n="5" xml:lang="syc"/>ܗ̇ܝ ܕܥܬܝܕܐ ܠܥܠܡܝܢ ܐܡܝܢ
                </seg>
                <seg type="liturgical-section" xml:id="smj-2-6-1-21" n="Intercession Prayers" next="#smj-2-6-1-22">
-                  <lb n="6" xml:lang="syc"/> ܍ ܟܕ ܠܡܝܬܝܘܬ ܐܪܙܐ
+                  <lb n="6" xml:lang="syc"/> ܀ ܟܕ ܠܡܝܬܝܘܬ ܐܪܙܐ
                   <lb n="7" xml:lang="syc"/>ܗܢܐ ܐܫܬܘܝܢܢ: ܘܒܡܫܬܘܕܥܢܘܬܐ
                   <lb n="8" xml:lang="syc"/>ܕܫܪܪܐ. ܚܙܝܐ ܕܬܪܥܝܬܢ
                   <lb n="9" xml:lang="syc"/>ܐܬܢܗܪ: ܠܪܒܘܬܐ ܕܥܘܕܪ̈ܢܐ
@@ -485,7 +485,7 @@
                   <lb n="10" xml:lang="syc"/>ܘܢܣܓܐ ܕܝܢ ܒܝܕ ܛܝܒܘܬܟ.
                   <lb n="11" xml:lang="syc"/>ܘܟܢܫܐ ܕܥܕܬܐ ܗܕܐ ܕܫܘܙܒܬ:
                   <lb n="12" xml:lang="syc"/>ܘܩܢܝܬ ܒܝܕ ܕܡܐ ܕܝܠܟ
-                  <lb n="13" xml:lang="syc"/>ܝܩܝܪܐ. ܐܝܟܢܐ ܕܟܕ ܐܟ ܚܕ
+                  <lb n="13" xml:lang="syc"/>ܝܩܝܪܐ. ܐܝܟܢܐ ܕܟܕ ܐܝܟ ܚܕ
                   <lb n="14" xml:lang="syc"/>ܓܘܫܡܐ ܕܒܫܪ̈ܝܬܐ ܡܥܪܙܠ.
                   <lb n="15" xml:lang="syc"/>ܠܟ ܪܝܫܐ ܠܐ ܡܣܬܝܟܢܐ
                   <lb n="16" xml:lang="syc"/>ܢܬܠܚܡ ܒܛܝܒܘܬܟ. ܘܠܐ ܐܢܫ
@@ -533,10 +533,10 @@
                   <lb n="1" xml:lang="syc"/>ܕܒܪ ܘܗܕܐ. ܠܦܓܪ̈ܐ ܡ̇ܢ.
                   <lb n="2" xml:lang="syc"/>ܘܢܦܫ̈ܬܐ ܕܟܠܢ ܥܒ̈ܕܝܟ..
                   <lb n="3" xml:lang="syc"/>ܒܫܦܝܪܘܬ ܩܘܝܡܐ ܘܡܫܪܬܚܘܬܐ
-                  <lb n="4" xml:lang="syc"/>ܕܡܠܬܐ ܙܝܢ ܘܚܣܢ. ܗܒܠܢ
+                  <lb n="4" xml:lang="syc"/>ܕܡܠܬܐ ܙܲܝܢ ܘܚܲܣܢ. ܗܒܠܢ
                   <lb n="5" xml:lang="syc"/>ܕܝܢ ܡܪܝܐ: ܘܫܦܝܪܘܬ ܡܘܙ̇ܓܐ
-                  <lb n="6" xml:lang="syc"/>ܫܦܥܘܬܐ ܕܐܐܪ̈ܐܣ.<note type="marginal-note">ܒܨ̄ ܫܦܝܥܘܬܐ</note> ܡܫܦܥܘܬܐ ܡܫܝܢܬܐ.
-                  <lb n="7" xml:lang="syc"/>ܕܙܒܢ̈ܐ ܘܥܕ̈ܢܐ. ܡܘܠܝ̈ܬܐ 
+                  <lb n="6" xml:lang="syc"/>ܫܦܥܘܬܐ ܕܐܐܪ̈ܐܣ.<note type="marginal-note">܏ܒܨ̈ ܫܦܝܥܘܬܐ</note> ܡܫܦܥܘܬܐ ܡܫܝܢܬܐ.
+                  <lb n="7" xml:lang="syc"/>ܕܙܒܢܐ ܘܥܕܢ̈ܐ. ܡܘܠܝ̈ܬܐ 
                   <lb n="8" xml:lang="syc"/>ܕܝܢ ܕܒܐܪܥܐ. ܘܦܐܪ̈ܐ ܕܟܠ
                   <lb n="9" xml:lang="syc"/>ܓܢܣ. ܗܠܝܢ ܕܒܪܡܙܐ ܕܝܠܟ:
                   <lb n="10" xml:lang="syc"/>ܗ̇ܘ ܚ̇ܒܫ ܠܟܠ ܫܟܢܬ܆
@@ -606,7 +606,7 @@
                   <lb n="18" xml:lang="syc"/>ܐܝܬ ܠܗ. ܘܠܗܢܘܢ ܕܗܫܐ
                   <lb n="19" xml:lang="syc"/>ܡܫܡܫܢܐ ܡܬܥܗܕ <hi rend="rubric">ܘܬܠܐ</hi>
                   <lb n="20" xml:lang="syc"/><hi rend="rubric">ܩܠܗ</hi> ܩܒܠ ܡܪܝܐ
-                  <lb n="21" xml:lang="syc"/>ܩܘܪ̈ܒܢܐ ܕܥܒܕ̈ܐ ܕܝܠܟ.
+                  <lb n="21" xml:lang="syc"/>ܩܘܪ̈ܒܢܐ ܕܥܒ̈ܕܐ ܕܝܠܟ.
                   <lb n="22" xml:lang="syc"/>ܠܪܝܚܐ ܒܣܝܡܐ. ܘܫܕܪ
                   <lb n="23" xml:lang="syc"/>ܠܗܘܢ ܛܝܒܘܬܐ ܕܫܘ̈ܟܢܐ:
                   <lb n="24" xml:lang="syc"/>ܕܫܦܝܪܘܬ ܡܘܗ̈ܒܬܐ
@@ -616,7 +616,7 @@
                <seg type="liturgical-section" xml:id="smj-2-6-1-29" n="Intercession Prayers" prev="#smj-2-6-1-28" next="#smj-2-6-1-30">
                   <cb n="61r column 2"/>
                   <lb n="1" xml:lang="syc"/>ܕܝܠܟ. ܟܕ ܡܥܬܪ ܐܢܬ ܠܗܘܢ܆
-                  <lb n="2" xml:lang="syc"/>ܒܥܒܕ̈ܐ ܛܒ̈ܐ ܘܒܐܡܢܐ
+                  <lb n="2" xml:lang="syc"/>ܒܥܒ̈ܕܐ ܛܒ̈ܐ ܘܒܐܡܢܐ
                   <lb n="3" xml:lang="syc"/>ܕܙܕܝܩܘܬܐ: ܘܡܚܣܢ ܐܢܬ.
                   <lb n="4" xml:lang="syc"/>ܒܢܛܘܪܘܬܐ ܘܬܘܕܝܬܐ ܕܗܝܡܢܘܬܐ
                   <lb n="5" xml:lang="syc"/>ܬܪܝܨܬ ܫܘܒܚܐ. ܐܝܟܢܐ ܕܢܫܟܚܘܢ
@@ -660,8 +660,8 @@
                   <lb n="14" xml:lang="syc"/>ܕܝܬܝܪ ܡܫܡܠܝܢ ܒܦܘ̈ܠܓܐ
                   <lb n="15" xml:lang="syc"/>ܕܟܠ̈ܝܠܐ. ܣܬܪܐ ܕܝܠܗܘܢ
                   <lb n="16" xml:lang="syc"/>ܐܟܚܕܐ ܗܘܐ ܠܢ: ܢܫܬܘܐ
-                  <lb n="17" xml:lang="syc"/>ܕܢܫ̇ܡܫܟ ܠܐ ܡܬܩܛܪܓܢܐܝܬ.
-                  <lb n="18" xml:lang="syc"/>ܘܢܩܘ̣ܡ ܩܕܡ ܡܕܒܚܟ ܩܕܝܫܐ.
+                  <lb n="17" xml:lang="syc"/>ܕܢܫܡܫܟ ܠܐ ܡܬܩܛܪܓܢܐܝܬ.
+                  <lb n="18" xml:lang="syc"/>ܘܢܩܘܡ ܩܕܡ ܡܕܒܚܟ ܩܕܝܫܐ.
                   <lb n="19" xml:lang="syc"/>ܟܕ ܬܟܫ̈ܦܬܐ ܕܗܠܝܢ ܡܩܒܠ
                   <lb n="20" xml:lang="syc"/>ܐܢܬ ܚܠܦ ܫܝܛܝܘܬܐ ܕܝܠܢ:
                   <lb n="21" xml:lang="syc"/>ܘܚܠܦ ܟܠܗ ܥܡܐ ܕܝܠܟ.
@@ -744,13 +744,13 @@
                   <lb n="14" xml:lang="syc"/>ܕܒܨܒܝܢܐ ܘܕܠܐ ܒܨܒܝܢܐ. ܒܝܕܥܬܐ:
                   <lb n="15" xml:lang="syc"/>ܘܕܠܐ ܒܝܕܥܬܐ. ܕܒܡܡܠܐ:
                   <lb n="16" xml:lang="syc"/>ܕܒܥܒ̈ܕܐ. ܕܒܡܚܫ̈ܒܬܐ.
-                  <lb n="17" xml:lang="syc"/>ܕܟܣ̈ܝܢ. ܕܓܠܝ̈ܢ ܠܕܩܕ̈ܝܡܢ
-                  <lb n="18" xml:lang="syc"/>ܝܕ̈ܥܢ. ܠܕܛܥ̈ܝܢ. ܗܠܝܢ
+                  <lb n="17" xml:lang="syc"/>ܕܟܣ̈ܝܢ. ܕܓܠܝ̈ܢ ܠܕܩܕܝ̈ܡܢ
+                  <lb n="18" xml:lang="syc"/>ܝܕܥ̈ܢ. ܠܕܛܥ̈ܝܢ. ܗܠܝܢ
                   <lb n="19" xml:lang="syc"/>ܕܝ̇ܕܥ ܫܡܐ ܕܝܠܟ ܩܕܝܫܐ.
                   <lb n="20" xml:lang="syc"/>ܠܢ ܕܝܢ ܕܥܕܟܝܠ ܒܥܠܡܐ
                   <lb n="21" xml:lang="syc"/>ܗܢܐ ܐܝܬܝܢ: ܘܠܐ ܕܝܢ ܠܪܗܛܐ
                   <lb n="22" xml:lang="syc"/>ܫܡܠܝܢܢ ܕܐܣܛܕܝܘܢ ܕܬܢܢ.
-                  <lb n="23" xml:lang="syc"/>ܐܟ ܢܓܝܪ ܪܘܚܐ ܡܪܝܐ.. ܟܕ
+                  <lb n="23" xml:lang="syc"/>ܐܝܟ ܢܓܝܪ ܪܘܚܐ ܡܪܝܐ.. ܟܕ
                </seg>
             </ab>
             <ab type="column" n="1">
@@ -759,7 +759,7 @@
                   <cb n="62v column 1"/>
                   <lb n="1" xml:lang="syc"/>ܒܛܠܢܐ ܕܟܢ̈ܦܐ ܕܝܠܟ ܡܣܬܪ
                   <lb n="2" xml:lang="syc"/>ܐܢܬ ܠܢ: ܡܢ ܟܠ ܡܥܒܕܢܘܬܐ
-                  <lb n="3" xml:lang="syc"/>ܕܚܝܠܐ ܣܩܘܒܠܝܐ: ܟܠܫܘܠܡܐ
+                  <lb n="3" xml:lang="syc"/>ܕܚܝܠܐ ܣܩܘܒܠܝܐ: ܘܠܫܘܠܡܐ
                   <lb n="4" xml:lang="syc"/>ܛܒܐ ܘܟܪܝܣܛܝܢܝܐ ܡܫܘܐ
                   <lb n="5" xml:lang="syc"/>ܐܢܬ: ܕܫܘܒܩܢܐ ܕܗܠܝܢ ܕܡܣ̈ܟܠܢ
                   <lb n="6" xml:lang="syc"/>ܠܢ. ܐܢܬ ܠܗ. ܠܘܬ ܠܡܐܢܐ
@@ -792,7 +792,7 @@
                   <lb n="2" xml:lang="syc"/>ܟܕ ܫܕܝܢܢ܆ ܒܩܠܐ ܡܟܝܟܐ:
                   <lb n="3" xml:lang="syc"/>ܘܕܦܐܐ ܠܟܪ̈ܝܣܛܝܢܐ: ܢܫܟܚ
                   <lb n="4" xml:lang="syc"/>ܕܢܣܩ ܠܟ ܬܟܫܦܬܐ
-                  <lb n="5" xml:lang="syc"/>ܕܨܠܘܬܐ: ܐܟ ܣܝܘܡܘܬ
+                  <lb n="5" xml:lang="syc"/>ܕܨܠܘܬܐ: ܐܝܟ ܣܝܘܡܘܬ
                   <lb n="6" xml:lang="syc"/>ܢܡܘܣܐ ܕܝܚܝܕܝܐ ܒܪܟ.
                   <lb n="7" xml:lang="syc"/>ܘܒܩܕܝܫܘܬܐ ܕܢܦܫܐ ܡܢ ܦܓܪܐ:
                   <lb n="8" xml:lang="syc"/>ܥܡ ܫܦܝܪܘܬ ܨܒܝܢܐ.
@@ -804,7 +804,7 @@
                   <lb n="14" xml:lang="syc"/>ܢܬܩܕܫ <hi rend="rubric">ܟܗܢܐ</hi> ܐܝܢ ܐܒܐ ܪܚܡ
                   <lb n="15" xml:lang="syc"/>ܒܢܝ̈ܐ. ܠܐ ܬܐܥܠ ܠܢ ܠܢܣܝܘܢܐ
                   <lb n="16" xml:lang="syc"/>ܕܢܦܫܐ ܘܕܦܓܪܐ: ܘܠܐ
-                  <lb n="17" xml:lang="syc"/>ܬܫܬܠܛ ܥܠܝܢ ܠܐ ܢܡ̇ܘܣܝܘܬܐ:
+                  <lb n="17" xml:lang="syc"/>ܬܫܬܠܛ ܥܠܝܢ ܠܐ ܢܡܘܣܝܘܬܐ:
                   <lb n="18" xml:lang="syc"/>ܐܠܐ ܦܨܐ ܠܢ ܡܢ ܥܒ̈ܕܐ
                   <lb n="19" xml:lang="syc"/>ܒܝ̈ܫܐ. ܘܡܢ ܡ̈ܚܫܒܬܐ
                   <lb n="20" xml:lang="syc"/>ܠܐ ܦ̈ܐܝܬܐ: ܘܠܡܢܣܝܢܐ
@@ -861,11 +861,11 @@
                   <lb n="8" xml:lang="syc"/>ܠܡܐܟܠ ܡܐܟܘܠܬܐ. ܗ̇ܝ
                   <lb n="9" xml:lang="syc"/>ܕܡܟܬܪܐ ܒܚܝ̈ܐ ܕܠܥܠܡ.
                   <lb n="10" xml:lang="syc"/>ܐܝܟܢܐ ܕܟܕ ܟܠܢ ܘܒܟܠܙܒܢ:
-                  <lb n="11" xml:lang="syc"/>ܢܣܒ ܒܬܐܪܬܐ ܕܟܝ̣ܬܐ.
+                  <lb n="11" xml:lang="syc"/>ܢܣܒ ܒܬܐܪܬܐ ܕܟܝܬܐ.
                   <lb n="12" xml:lang="syc"/>ܒܫܦܝܘܬܐ ܕܠܒܐ ܘܒܗܝܡܢܘܬܐ
                   <lb n="13" xml:lang="syc"/>ܕܠܐ ܡܐܣܒ ܒܐܦ̈ܐ. ܠܫܪܝܐ
                   <lb n="14" xml:lang="syc"/>ܕܫܘܪ̈ܥܬܐ. ܠܫܘܒܩܢܐ
-                  <lb n="15" xml:lang="syc"/>ܕܡܬܥ̇ܒܪ̈ܢܘܬܐ܆ ܠܕܘܟܝܐ
+                  <lb n="15" xml:lang="syc"/>ܕܡܬܥܒܪ̈ܢܘܬܐ܆ ܠܕܘܟܝܐ
                   <lb n="16" xml:lang="syc"/>ܕܠܐ ܢܡ̈ܘܣܝܘܬܐ. ܠܙܘܕ̈ܐ
                   <lb n="17" xml:lang="syc"/>ܕܚܝ̈ܐ ܕܠܥܠܡ. ܒܡܫܝܚܐ
                   <lb n="18" xml:lang="syc"/>ܝܫܘܥ ܡܪܢ. ܕܒܐܝܕ̈ܘܗܝ ܥܡܗ

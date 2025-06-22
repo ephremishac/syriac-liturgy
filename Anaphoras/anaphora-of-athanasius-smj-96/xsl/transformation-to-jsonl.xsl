@@ -38,7 +38,7 @@
         </xsl:if>
         <xsl:text>",</xsl:text>
         <xsl:text>"document_url" : "</xsl:text>
-        <xsl:text>./anaphoras/anaphora-of-athanasius-of-alexandrien-smj-96.html</xsl:text>
+        <xsl:text>./anaphoras/anaphora-of-athanasius-of-alexandrien-smmj-96.html</xsl:text>
         <xsl:text>"</xsl:text>
         <xsl:text>}
 </xsl:text>
@@ -75,7 +75,9 @@
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend = 'rubric']">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates select="child::node()"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     
     <xsl:template match="text()">
