@@ -21,7 +21,7 @@
         \pagestyle{fancy}
         \chead{\myfont\textit{Annunciation of Zechariah}}
         \renewcommand\footrulewidth{0.4pt}
-        \fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
+        %\fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
         \fancyfoot[C]{\myfont\thepage}
         \setmainlanguage{english}
         \setotherlanguages{syriac}
@@ -43,7 +43,9 @@
     <xsl:template match="tei:titleStmt">
         <xsl:text>\pdfbookmark[0]{Title}{title}</xsl:text>
         <xsl:text>\Large\textbf{</xsl:text>
-            <xsl:value-of select="./tei:title/text()"/>
+            <xsl:value-of select="./tei:title[not(@type)]/text()"/>
+            <xsl:text>}\par\textbf{</xsl:text>
+            <xsl:value-of select="./tei:title[@type = 'sub']"/>
         <xsl:text>}\normalsize\par\vspace{10mm}</xsl:text>
         <xsl:value-of select="./tei:respStmt/tei:resp/text()"/>
         <xsl:text>\par\vspace{5mm}\large </xsl:text>
@@ -108,11 +110,11 @@
         <xsl:text>\pdfbookmark[0]{Transcription}{transcription}</xsl:text>
         <xsl:text>\begin{center}\textbf{Transcription}\end{center}\vspace{5mm}</xsl:text>
         <xsl:text>\RTL{</xsl:text>
-        <xsl:apply-templates select="child::*"/>
+        <xsl:apply-templates select="child::node()"/>
         <xsl:text>}</xsl:text>
     </xsl:template>
     
-    <xsl:template match="tei:div[@type = 'section']">
+    <xsl:template match="tei:seg[@type = 'liturgical-section']">
         <xsl:text>\pdfbookmark[0]{</xsl:text>
         <xsl:value-of select="@n"/>
         <xsl:text>}{</xsl:text>
@@ -120,14 +122,9 @@
         <xsl:text>}</xsl:text>
         <xsl:text>\vspace{5mm}\LTR{\textit{</xsl:text>
         <xsl:value-of select="@n"/>
-        <xsl:text>}}\par\vspace{5mm}</xsl:text>
-        <xsl:apply-templates select="child::*"/>
-    </xsl:template>
-    
-    <xsl:template match="tei:div[@type = 'subsection']">
-        <xsl:text>\RTL{</xsl:text>
-        <xsl:apply-templates select="child::*"/>
-        <xsl:text>}\par </xsl:text>
+        <xsl:text>}}\par\vspace{5mm}\RTL{</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>}</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:ab">
