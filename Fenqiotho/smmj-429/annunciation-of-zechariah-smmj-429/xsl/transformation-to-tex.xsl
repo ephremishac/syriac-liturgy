@@ -110,7 +110,7 @@
         <xsl:text>\pdfbookmark[0]{Transcription}{transcription}</xsl:text>
         <xsl:text>\begin{center}\textbf{Transcription}\end{center}\vspace{5mm}</xsl:text>
         <xsl:text>\RTL{</xsl:text>
-        <xsl:apply-templates select="child::node()"/>
+        <xsl:apply-templates select="child::*"/>
         <xsl:text>}</xsl:text>
     </xsl:template>
     
