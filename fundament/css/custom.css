@@ -6,3 +6,4 @@
 	margin: 0 auto;
 }
 .border-top-brown { border-top: 5px solid #8a423f; }
+:target { display: block; position: relative; top: -90px; visibility: hidden; }
