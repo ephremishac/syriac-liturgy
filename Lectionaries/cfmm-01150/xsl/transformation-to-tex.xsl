@@ -164,9 +164,9 @@
     </xsl:template>
     
     <xsl:template match="text()" mode="footnote-content">
-        <xsl:text>\begin{english}{</xsl:text>
+        <xsl:text>\LR{\begin{english}{\hspace{1mm}</xsl:text>
         <xsl:value-of select="."/>
-        <xsl:text>}\end{english}</xsl:text>
+        <xsl:text>}\end{english}}</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:foreign[@xml:lang = 'syc']" mode="footnote-content">
