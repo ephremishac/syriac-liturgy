@@ -107,8 +107,8 @@
                                             <article class="col-md-4"></article>
                                             <article class="card col-md-4 flat-style">
                                                 <div class="card-inner card-vertical" style="height:230px;">
-                                                    <a class="entry-top-thumbnail" style="height:230px;" href="./fenqiotho.html" rel="bookmark">
-                                                        <img width="1024" height="684" src="./fundament/images/button-lectionary.jpg" alt="fenqiotho"/>
+                                                    <a class="entry-top-thumbnail" style="height:230px;" href="./lectionaries.html" rel="bookmark">
+                                                        <img width="1024" height="684" src="./fundament/images/button-lectionary.jpg" alt="lectionary"/>
                                                     </a>
                                                     <!-- .entry-text-content -->
                                                 </div>
