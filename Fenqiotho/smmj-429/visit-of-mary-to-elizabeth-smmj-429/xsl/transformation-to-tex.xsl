@@ -21,7 +21,7 @@
         \pagestyle{fancy}
         \chead{\myfont\textit{Visit of Mary to Elizabeth}}
         \renewcommand\footrulewidth{0.4pt}
-        \fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
+        %\fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
         \fancyfoot[C]{\myfont\thepage}
         \setmainlanguage{english}
         \setotherlanguages{syriac}
@@ -43,7 +43,9 @@
     <xsl:template match="tei:titleStmt">
         <xsl:text>\pdfbookmark[0]{Title}{title}</xsl:text>
         <xsl:text>\Large\textbf{</xsl:text>
-            <xsl:value-of select="./tei:title/text()"/>
+            <xsl:value-of select="./tei:title[not(@type)]/text()"/>
+            <xsl:text>}\par\textbf{</xsl:text>
+            <xsl:value-of select="./tei:title[@type = 'sub']"/>
         <xsl:text>}\normalsize\par\vspace{10mm}</xsl:text>
         <xsl:value-of select="./tei:respStmt/tei:resp/text()"/>
         <xsl:text>\par\vspace{5mm}\large </xsl:text>
@@ -69,6 +71,10 @@
     <xsl:template match="tei:sourceDesc">
         <xsl:text>\pdfbookmark[0]{Manuscript}{0}</xsl:text>
         <xsl:text>Manuscript: </xsl:text>
+        <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:country/text()"/>
+        <xsl:text>, </xsl:text>
+        <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:settlement/text()"/>
+        <xsl:text>, </xsl:text>
         <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:repository/text()"/>
         <xsl:text>, </xsl:text>
         <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:idno/text()"/>
@@ -112,7 +118,7 @@
         <xsl:text>}</xsl:text>
     </xsl:template>
     
-    <xsl:template match="tei:div[@type = 'section']">
+    <xsl:template match="tei:seg[@type = 'liturgical-section']">
         <xsl:text>\pdfbookmark[0]{</xsl:text>
         <xsl:value-of select="@n"/>
         <xsl:text>}{</xsl:text>
@@ -120,45 +126,58 @@
         <xsl:text>}</xsl:text>
         <xsl:text>\vspace{5mm}\LTR{\textit{</xsl:text>
         <xsl:value-of select="@n"/>
-        <xsl:text>}}\par\vspace{5mm}</xsl:text>
-        <xsl:apply-templates select="child::*"/>
-    </xsl:template>
-    
-    <xsl:template match="tei:div[@type = 'subsection']">
-        <xsl:text>\RTL{</xsl:text>
-        <xsl:apply-templates select="child::*"/>
-        <xsl:text>}\par </xsl:text>
+        <xsl:text>}}\par\vspace{5mm}\RTL{</xsl:text>
+        <xsl:apply-templates select="child::node()"/>
+        <xsl:text>}</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:ab">
         <xsl:apply-templates select="child::node()"/>
     </xsl:template>
     
-    <xsl:template match="tei:pb"/>
+    <xsl:template match="tei:pb">
+        <xsl:text>\LR{\textit{\textbf{(</xsl:text>
+        <xsl:value-of select="./@n"/>
+        <xsl:if test="exists(following-sibling::*[1][self::tei:cb])">
+            <xsl:text> </xsl:text>
+            <xsl:value-of select="following-sibling::*[1]/@n"/>
+        </xsl:if>
+        <xsl:text>)}}}\nolinebreak\hspace{2mm} </xsl:text>
+    </xsl:template>
     
     <xsl:template match="tei:cb">
-        <xsl:if test="local-name(preceding-sibling::*[1]) = 'pb'">
+        <xsl:if test="exists(preceding-sibling::*[1][self::tei:pb])"/>
+        <xsl:if test="not(exists(preceding-sibling::*[1][self::tei:pb]))">
             <xsl:text>\LR{\textit{\textbf{(</xsl:text>
-            <xsl:value-of select="preceding-sibling::tei:pb[1]/@n"/>
-            <xsl:text> col. </xsl:text>
             <xsl:value-of select="@n"/>
-            <xsl:text>)}}}\nolinebreak\hspace{2mm} </xsl:text>
-        </xsl:if>
-        <xsl:if test="local-name(preceding-sibling::*[1]) != 'pb'">
-            <xsl:text>\LR{\textit{\textbf{(</xsl:text>
-                <xsl:value-of select="concat('col. ',@n)"/>
             <xsl:text>)}}}\nolinebreak\hspace{2mm} </xsl:text>
         </xsl:if>
     </xsl:template>
     
     <xsl:template match="tei:lb">
-        <xsl:if test="not(local-name(preceding-sibling::*[1]) = 'pb') and not(local-name(preceding-sibling::*[1]) = 'cb')">
+        <xsl:if test="not(local-name(preceding-sibling::*[1]) = 'seg') and not(local-name(preceding-sibling::*[1]) = 'pb') and not(local-name(preceding-sibling::*[1]) = 'cb')">
             <xsl:text>\LR{$|</xsl:text>
             <xsl:if test="(@n mod 5) = 0">
                <xsl:text>|</xsl:text>
             </xsl:if>
             <xsl:text>$}\nolinebreak\hspace{3mm}</xsl:text>
         </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="tei:note[@type = 'marginal-note'][@xml:lang = 'de']">
+        <xsl:text>\hspace{-1.5mm}\footnote{</xsl:text>
+        <xsl:apply-templates select="child::node()" mode="footnote-content"/>
+        <xsl:text>}\hspace{2mm}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="text()" mode="footnote-content">
+        <xsl:text>\LR{\begin{english}{\hspace{1mm}</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:text>}\end{english}}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:foreign[@xml:lang = 'syc']" mode="footnote-content">
+        <xsl:apply-templates select="child::node()"/>
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend = 'emphasized']">
