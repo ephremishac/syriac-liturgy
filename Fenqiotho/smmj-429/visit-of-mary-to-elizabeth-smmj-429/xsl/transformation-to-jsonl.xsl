@@ -38,7 +38,7 @@
         </xsl:if>
         <xsl:text>",</xsl:text>
         <xsl:text>"document_url" : "</xsl:text>
-        <xsl:text>./lectionaries/lectionary-cfmm-01150.html</xsl:text>
+        <xsl:text>./fenqiotho/visit-of-mary-to-elizabeth-smmj-429.html</xsl:text>
         <xsl:text>"</xsl:text>
         <xsl:text>}
 </xsl:text>
