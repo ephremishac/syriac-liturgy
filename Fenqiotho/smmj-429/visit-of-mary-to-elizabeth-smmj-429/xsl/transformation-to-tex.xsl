@@ -71,10 +71,6 @@
     <xsl:template match="tei:sourceDesc">
         <xsl:text>\pdfbookmark[0]{Manuscript}{0}</xsl:text>
         <xsl:text>Manuscript: </xsl:text>
-        <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:country/text()"/>
-        <xsl:text>, </xsl:text>
-        <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:settlement/text()"/>
-        <xsl:text>, </xsl:text>
         <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:repository/text()"/>
         <xsl:text>, </xsl:text>
         <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:idno/text()"/>
