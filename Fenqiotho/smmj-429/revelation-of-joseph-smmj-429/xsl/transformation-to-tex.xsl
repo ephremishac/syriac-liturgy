@@ -19,7 +19,7 @@
         \let\myfont\normalfont
         \usepackage{fancyhdr}
         \pagestyle{fancy}
-        \chead{\myfont\textit{Nativity of John the Baptist}}
+        \chead{\myfont\textit{Revelation of Joseph}}
         \renewcommand\footrulewidth{0.4pt}
         %\fancyfoot[L]{\myfont\textsc{Ephrem Aboud Ishac}}
         \fancyfoot[C]{\myfont\thepage}
